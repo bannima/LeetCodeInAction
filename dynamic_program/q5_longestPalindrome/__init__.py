@@ -8,8 +8,9 @@ Date: 2020/10/14 7:29 PM
 Version: 0.1
 """
 
-from .dp_solution import Solution
+from .dp_solution import DP_Solution
+from .center_solution import Center_Solution
 
 __all__ = [
-    'Solution'
+    'DP_Solution','Center_Solution'
 ]
