@@ -3,7 +3,6 @@
 """
 FileName: dp_solution.py
 Description: 回文子串的动态规划解法
-参考题解：动态规划、中心扩散、Manacher 算法(https://leetcode-cn.com/problems/longest-palindromic-substring/solution/zhong-xin-kuo-san-dong-tai-gui-hua-by-liweiwei1419/)
 Author: Barry Chow
 Date: 2020/10/14 7:30 PM
 Version: 0.1
