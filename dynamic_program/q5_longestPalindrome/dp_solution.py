@@ -8,7 +8,7 @@ Date: 2020/10/14 7:30 PM
 Version: 0.1
 """
 
-class Solution(object):
+class DP_Solution(object):
     def longestPalindrome(self, s):
         """
         dynamic progarm method
@@ -32,9 +32,8 @@ class Solution(object):
                     dp[l][r] = (s[l] == s[r]) and dp[l + 1][r - 1]
 
                 # if true, save max length and start position
-                if dp[l][r]:
-                    if (r - l) > max_length:
-                        max_length = r - l
-                        start_position = l
+                if (r - l) > max_length and dp[l][r]:
+                    max_length = r - l
+                    start_position = l
 
         return s[start_position:start_position + max_length+1]
