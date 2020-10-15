@@ -21,3 +21,14 @@
 - [动态规划法](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q1143_longestCommonSubsequence/DP_Solution.py)
 
 参考：[视频图解 动态规划 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/solution/shi-pin-jiang-jie-shi-yong-dong-tai-gui-hua-qiu-ji/)
+
+3.[q53最大子序和](https://github.com/bannima/LeetCodeInAction/tree/master/dynamic_program/q53_maxSubArray)
+
+[问题](https://leetcode-cn.com/problems/maximum-subarray/)
+
+- [动态规划法](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q53_maxSubArray/DP_Solution.py)
+
+- [贪心算法](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q53_maxSubArray/Greedy_Solution.py)
+
+参考：[最大子序和](https://leetcode-cn.com/problems/maximum-subarray/solution/zui-da-zi-xu-he-by-leetcode-solution/)
+
