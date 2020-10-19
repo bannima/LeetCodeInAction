@@ -34,3 +34,9 @@
 5.[三角形最小路径和](https://leetcode-cn.com/problems/triangle/)
 
 -[动态规划法](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q120_triangle/dp_solution.py)
+
+6.[q152乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray/)
+
+-[动态规划法](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q152_maximumProductSubarray/dp_solution.py)
+
+参考:[DP方法详解](https://leetcode-cn.com/problems/maximum-product-subarray/solution/dpfang-fa-xiang-jie-by-yang-cong-12/)
