@@ -31,7 +31,7 @@
 
 参考:[最长上升子序列（动态规划 + 二分查找，清晰图解）](https://leetcode-cn.com/problems/longest-increasing-subsequence/solution/zui-chang-shang-sheng-zi-xu-lie-dong-tai-gui-hua-2/)
 
-5.[三角形最小路径和](https://leetcode-cn.com/problems/triangle/)
+5.[q120三角形最小路径和](https://leetcode-cn.com/problems/triangle/)
 
 -[动态规划法](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q120_triangle/dp_solution.py)
 
@@ -40,3 +40,8 @@
 -[动态规划法](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q152_maximumProductSubarray/dp_solution.py)
 
 参考:[DP方法详解](https://leetcode-cn.com/problems/maximum-product-subarray/solution/dpfang-fa-xiang-jie-by-yang-cong-12/)
+
+7.[q121买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)
+
+-[动态规划法](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q121_bestTimeToBuyAndSellStock/dp_solution.py)
+
