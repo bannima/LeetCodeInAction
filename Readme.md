@@ -61,3 +61,7 @@
 10.[q70爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)
 
 -[动态规划法](https://github.com/bannima/LeetCodeInAction/tree/master/dynamic_program/q70_climbingStairs)
+
+11.[q746使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)
+
+-[动态规划法](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q746_minCostClimbingStairs/dp_solution.py)
