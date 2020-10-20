@@ -65,3 +65,7 @@
 11.[q746使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)
 
 -[动态规划法](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q746_minCostClimbingStairs/dp_solution.py)
+
+12.[q64最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)
+
+-[动态规划法](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q64_minimumPathSum/dp_solution.py)
