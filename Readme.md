@@ -69,3 +69,7 @@
 12.[q64最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)
 
 -[动态规划法](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q64_minimumPathSum/dp_solution.py)
+
+13.[小兔的棋盘](https://www.cnblogs.com/dccmmtop/p/6708411.html)
+
+-[动态规划法](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/%E5%B0%8F%E5%85%94%E7%9A%84%E6%A3%8B%E7%9B%98/dp_solution.py)
