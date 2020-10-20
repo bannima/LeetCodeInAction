@@ -51,3 +51,10 @@
 -[动态规划法](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q122_bestTimeToBuyAndSellStockii/dp_solution.py)
 
 参考: [暴力搜索、贪心算法、动态规划](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/solution/tan-xin-suan-fa-by-liweiwei1419-2/)
+
+9.[q123买卖股票的最佳时机 III](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/)
+
+-[动态规划法](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q123_bestTimeToBuyAndSellStockiii/dp_solution.py)
+
+参考:[通俗易懂的动态规划解法](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/solution/tong-su-yi-dong-de-dong-tai-gui-hua-jie-fa-by-marc/)
+
