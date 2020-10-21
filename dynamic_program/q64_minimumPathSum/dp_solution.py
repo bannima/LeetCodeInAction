@@ -13,7 +13,7 @@ class Solution(object):
     def minPathSum(self, grid):
         """
         dp[i][j]表示在(i,j)位置的最小路径
-        
+
         :type grid: List[List[int]]
         :rtype: int
         """

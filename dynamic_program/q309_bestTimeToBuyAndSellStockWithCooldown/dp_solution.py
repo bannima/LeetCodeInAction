@@ -24,7 +24,7 @@ class Solution(object):
         dp[i][1] = max(dp[i - 1][1],  dp[i - 1][0] - prices[i])
         #进入冷冻期最大收益只有前一天卖出股票所得
         dp[i][2] = dp[i - 1][1] + prices[i]
-        
+
         :type prices: List[int]
         :rtype: int
         """
