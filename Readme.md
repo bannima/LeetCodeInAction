@@ -82,3 +82,6 @@
 
 -[动态规划法](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q714_bestTimeToBuyAndSellStockWithTransactionFee/dp_solution.py)
 
+16.[q118杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/)
+
+-[动态规划](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q118_pascalsTriangle/dp_solution.py)
