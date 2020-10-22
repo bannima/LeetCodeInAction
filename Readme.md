@@ -112,4 +112,9 @@
 -[解法](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)
 
 
+## [二叉搜索树](https://github.com/bannima/LeetCodeInAction/tree/master/binary_search_tree)
+
+1.[q450删除二叉搜索树中的节点](https://leetcode-cn.com/problems/delete-node-in-a-bst/)
+
+-[递归法]()
 
