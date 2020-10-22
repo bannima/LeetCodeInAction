@@ -121,3 +121,10 @@
 2.[q701二叉搜索树中的插入操作](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/)
 
 -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search_tree/q701_insert_into_a_binary_search_tree/solution.py)
+
+3.[q98验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/)
+
+-[解法](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search_tree/q98_validate_binary_search_tree/solution.py)
+
+
+
