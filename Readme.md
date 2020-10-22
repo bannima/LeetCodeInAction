@@ -116,5 +116,5 @@
 
 1.[q450删除二叉搜索树中的节点](https://leetcode-cn.com/problems/delete-node-in-a-bst/)
 
--[递归法]()
+-[递归法](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search_tree/q450_delete_node_in_a_bst/solution.py)
 
