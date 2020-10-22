@@ -118,3 +118,6 @@
 
 -[递归法](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search_tree/q450_delete_node_in_a_bst/solution.py)
 
+2.[q701二叉搜索树中的插入操作](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/)
+
+-[解法](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search_tree/q701_insert_into_a_binary_search_tree/solution.py)
