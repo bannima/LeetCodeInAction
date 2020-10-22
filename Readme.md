@@ -90,3 +90,10 @@
 
 -[动态规划法](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q62_uniquePaths/dp_solution.py)
 
+18.[q139单词拆分](https://leetcode-cn.com/problems/word-break/)
+
+-[动态规划法](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q139_wordBreak/dp_solution.py)
+
+-[递归法](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q139_wordBreak/solution.py)
+
+
