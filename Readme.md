@@ -96,4 +96,9 @@
 
 -[递归法](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q139_wordBreak/solution.py)
 
+19.[q392判断子序列](https://leetcode-cn.com/problems/is-subsequence/)
+
+-[暴力解法](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q392_isSubsequence/dp_solution.py)
+
+
 
