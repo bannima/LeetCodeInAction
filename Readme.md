@@ -101,4 +101,15 @@
 -[暴力解法](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q392_isSubsequence/dp_solution.py)
 
 
+## [哈希相关](https://github.com/bannima/LeetCodeInAction/tree/master/hash)
+
+1.[q1两数之和](https://leetcode-cn.com/problems/two-sum/)
+
+-[解法](https://github.com/bannima/LeetCodeInAction/blob/master/hash/q1_twoSum/solution.py)
+
+2.[q387字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)
+
+-[解法](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)
+
+
 
