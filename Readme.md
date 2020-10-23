@@ -138,3 +138,14 @@
 -[双指针法](https://github.com/bannima/LeetCodeInAction/blob/master/two_pointers/q209_minimum_size_subarray_sum/solution.py)
 
 
+3.[q42接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)
+
+-[按行求解](https://github.com/bannima/LeetCodeInAction/blob/master/two_pointers/q42_trapping_rain_water/solution1.py)
+
+-[按列求解](https://github.com/bannima/LeetCodeInAction/blob/master/two_pointers/q42_trapping_rain_water/solution2.py)
+
+-[动态规划法](https://github.com/bannima/LeetCodeInAction/blob/master/two_pointers/q42_trapping_rain_water/dp_solution.py)
+
+-[栈解法](https://github.com/bannima/LeetCodeInAction/blob/master/two_pointers/q42_trapping_rain_water/stack_solution.py)
+
+参考：[详细通俗的思路分析，多解法](https://leetcode-cn.com/problems/trapping-rain-water/solution/xiang-xi-tong-su-de-si-lu-fen-xi-duo-jie-fa-by-w-8/)
