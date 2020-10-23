@@ -126,5 +126,12 @@
 
 -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search_tree/q98_validate_binary_search_tree/solution.py)
 
+## [双指针法](https://github.com/bannima/LeetCodeInAction/tree/master/two_pointers)
+
+1.[q26删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)
+
+-[双指针法](https://github.com/bannima/LeetCodeInAction/blob/master/two_pointers/q26_remove_duplicates_from_sorted_array/solution.py)
+
+
 
 
