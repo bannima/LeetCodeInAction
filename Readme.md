@@ -150,6 +150,10 @@
 
 参考：[详细通俗的思路分析，多解法](https://leetcode-cn.com/problems/trapping-rain-water/solution/xiang-xi-tong-su-de-si-lu-fen-xi-duo-jie-fa-by-w-8/)
 
+4.[q76最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/)
+
+-[双指针法](https://github.com/bannima/LeetCodeInAction/blob/master/two_pointers/q76_minimum_window_substring/solution.py)
+
 ## [贪心算法](https://github.com/bannima/LeetCodeInAction/tree/master/greedy)
 
 1.[q1024视频拼接](https://leetcode-cn.com/problems/video-stitching/)
@@ -165,6 +169,7 @@
 -[线性复杂度解法](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/LCP18_2vYnGI/solution.py)
 
 -[排序加二分查找](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/LCP18_2vYnGI/bs_solution.py)
+
 
 
 
