@@ -162,6 +162,9 @@
 
 -[双指针法](https://github.com/bannima/LeetCodeInAction/blob/master/two_pointers/q344_reverse_string/solution.py)
 
+7.[q487最大连续1的个数II](https://leetcode-cn.com/problems/max-consecutive-ones-ii/)
+
+-[双指针法](https://github.com/bannima/LeetCodeInAction/blob/master/two_pointers/q487_max_consecutive_ones_ii/solution.py)
 
 ## [贪心算法](https://github.com/bannima/LeetCodeInAction/tree/master/greedy)
 
