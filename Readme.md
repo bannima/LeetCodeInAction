@@ -158,6 +158,9 @@
 
 -[逆向双指针法](https://github.com/bannima/LeetCodeInAction/blob/master/two_pointers/q10_01_sorted_merge_lcci/solution.py)
 
+6.[q344反转字符串](https://leetcode-cn.com/problems/reverse-string/)
+
+-[双指针法](https://github.com/bannima/LeetCodeInAction/blob/master/two_pointers/q344_reverse_string/solution.py)
 
 
 ## [贪心算法](https://github.com/bannima/LeetCodeInAction/tree/master/greedy)
