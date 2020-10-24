@@ -149,3 +149,14 @@
 -[栈解法](https://github.com/bannima/LeetCodeInAction/blob/master/two_pointers/q42_trapping_rain_water/stack_solution.py)
 
 参考：[详细通俗的思路分析，多解法](https://leetcode-cn.com/problems/trapping-rain-water/solution/xiang-xi-tong-su-de-si-lu-fen-xi-duo-jie-fa-by-w-8/)
+
+## [贪心算法](https://github.com/bannima/LeetCodeInAction/tree/master/greedy)
+
+1.[q1024视频拼接](https://leetcode-cn.com/problems/video-stitching/)
+
+-[贪心法](https://github.com/bannima/LeetCodeInAction/blob/master/greedy/q1024_video_stitching/greedy.py)
+
+-[]()
+
+
+
