@@ -193,6 +193,7 @@
 
 -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/others/q485_max_consecutive_ones/solution.py)
 
+2.[q1078 Bigram分词](https://leetcode-cn.com/problems/occurrences-after-bigram/)
 
-
+-[解法](https://github.com/bannima/LeetCodeInAction/blob/master/others/q1078_occurrences_after_bigram/solution.py)
 
