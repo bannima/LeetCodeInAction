@@ -166,6 +166,10 @@
 
 -[双指针法](https://github.com/bannima/LeetCodeInAction/blob/master/two_pointers/q487_max_consecutive_ones_ii/solution.py)
 
+8.[q845数组中的最长山脉](https://leetcode-cn.com/problems/longest-mountain-in-array/)
+
+-[双指针法](https://github.com/bannima/LeetCodeInAction/blob/master/two_pointers/q845_longest_mountain_in_array/solution.py)
+
 ## [贪心算法](https://github.com/bannima/LeetCodeInAction/tree/master/greedy)
 
 1.[q1024视频拼接](https://leetcode-cn.com/problems/video-stitching/)
