@@ -197,6 +197,10 @@
 
 -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/others/q1078_occurrences_after_bigram/solution.py)
 
-3.[q1480. 一维数组的动态和](https://leetcode-cn.com/problems/running-sum-of-1d-array/)
+3.[q1480.一维数组的动态和](https://leetcode-cn.com/problems/running-sum-of-1d-array/)
 
 -[解法](https://github.com/bannima/LeetCodeInAction/tree/master/others/q1480_running_sum_of_1d_array)
+
+4.[q1365有多少小于当前数字的数字](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
+
+-[解法](https://github.com/bannima/LeetCodeInAction/blob/master/others/q1365_how_many_numbers_are_smaller_than_the_current_number/solution.py)
