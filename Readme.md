@@ -189,23 +189,13 @@
 
 ## [其他](https://github.com/bannima/LeetCodeInAction/tree/master/others)
 
-1.[q485最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones/)
+1.[q485最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones/)  -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/others/q485_max_consecutive_ones/solution.py)
 
--[解法](https://github.com/bannima/LeetCodeInAction/blob/master/others/q485_max_consecutive_ones/solution.py)
+2.[q1078 Bigram分词](https://leetcode-cn.com/problems/occurrences-after-bigram/)  -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/others/q1078_occurrences_after_bigram/solution.py)
 
-2.[q1078 Bigram分词](https://leetcode-cn.com/problems/occurrences-after-bigram/)
+3.[q1480.一维数组的动态和](https://leetcode-cn.com/problems/running-sum-of-1d-array/)  -[解法](https://github.com/bannima/LeetCodeInAction/tree/master/others/q1480_running_sum_of_1d_array)
 
--[解法](https://github.com/bannima/LeetCodeInAction/blob/master/others/q1078_occurrences_after_bigram/solution.py)
+4.[q1365有多少小于当前数字的数字](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/others/q1365_how_many_numbers_are_smaller_than_the_current_number/solution.py)
 
-3.[q1480.一维数组的动态和](https://leetcode-cn.com/problems/running-sum-of-1d-array/)
-
--[解法](https://github.com/bannima/LeetCodeInAction/tree/master/others/q1480_running_sum_of_1d_array)
-
-4.[q1365有多少小于当前数字的数字](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
-
--[解法](https://github.com/bannima/LeetCodeInAction/blob/master/others/q1365_how_many_numbers_are_smaller_than_the_current_number/solution.py)
-
-5.[q539最小时间差](https://leetcode-cn.com/problems/minimum-time-difference/)
-
--[解法](https://github.com/bannima/LeetCodeInAction/blob/master/others/q539_minimum_time_difference/solution.py)
+5.[q539最小时间差](https://leetcode-cn.com/problems/minimum-time-difference/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/others/q539_minimum_time_difference/solution.py)
 
