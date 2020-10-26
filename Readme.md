@@ -41,7 +41,6 @@
 
 19.[q392判断子序列](https://leetcode-cn.com/problems/is-subsequence/)  -[暴力解法](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q392_isSubsequence/dp_solution.py)
 
-
 ## [哈希相关](https://github.com/bannima/LeetCodeInAction/tree/master/hash)
 
 1.[q1两数之和](https://leetcode-cn.com/problems/two-sum/)  -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/hash/q1_twoSum/solution.py)
@@ -62,9 +61,7 @@
 
 2.[q209长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum/) -[双指针法](https://github.com/bannima/LeetCodeInAction/blob/master/two_pointers/q209_minimum_size_subarray_sum/solution.py)
 
-3.[q42接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)  -[按行求解](https://github.com/bannima/LeetCodeInAction/blob/master/two_pointers/q42_trapping_rain_water/solution1.py)  -[按列求解](https://github.com/bannima/LeetCodeInAction/blob/master/two_pointers/q42_trapping_rain_water/solution2.py)  -[动态规划法](https://github.com/bannima/LeetCodeInAction/blob/master/two_pointers/q42_trapping_rain_water/dp_solution.py)  -[栈解法](https://github.com/bannima/LeetCodeInAction/blob/master/two_pointers/q42_trapping_rain_water/stack_solution.py)
-
-参考：[详细通俗的思路分析，多解法](https://leetcode-cn.com/problems/trapping-rain-water/solution/xiang-xi-tong-su-de-si-lu-fen-xi-duo-jie-fa-by-w-8/)
+3.[q42接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)  -[按行求解](https://github.com/bannima/LeetCodeInAction/blob/master/two_pointers/q42_trapping_rain_water/solution1.py)  -[按列求解](https://github.com/bannima/LeetCodeInAction/blob/master/two_pointers/q42_trapping_rain_water/solution2.py)  -[动态规划法](https://github.com/bannima/LeetCodeInAction/blob/master/two_pointers/q42_trapping_rain_water/dp_solution.py)  -[栈解法](https://github.com/bannima/LeetCodeInAction/blob/master/two_pointers/q42_trapping_rain_water/stack_solution.py)  参考：[详细通俗的思路分析，多解法](https://leetcode-cn.com/problems/trapping-rain-water/solution/xiang-xi-tong-su-de-si-lu-fen-xi-duo-jie-fa-by-w-8/)
 
 4.[q76最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/)  -[双指针法](https://github.com/bannima/LeetCodeInAction/blob/master/two_pointers/q76_minimum_window_substring/solution.py)
 
