@@ -81,13 +81,16 @@
 
 1.[LCP18早餐组合](https://leetcode-cn.com/problems/2vYnGI/) -[线性复杂度解法](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/LCP18_2vYnGI/solution.py)  -[排序加二分查找](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/LCP18_2vYnGI/bs_solution.py)
 
+## [树相关](https://github.com/bannima/LeetCodeInAction/tree/master/others)
+1.[q144二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/tree/q144_binary_tree_preorder_traversal/solution.py)
+
 ## [其他](https://github.com/bannima/LeetCodeInAction/tree/master/others)
 
 1.[q485最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones/)  -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/others/q485_max_consecutive_ones/solution.py)
 
-2.[q1078 Bigram分词](https://leetcode-cn.com/problems/occurrences-after-bigram/)  -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/others/q1078_occurrences_after_bigram/solution.py)
+2.[q1078Bigram分词](https://leetcode-cn.com/problems/occurrences-after-bigram/)  -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/others/q1078_occurrences_after_bigram/solution.py)
 
-3.[q1480.一维数组的动态和](https://leetcode-cn.com/problems/running-sum-of-1d-array/)  -[解法](https://github.com/bannima/LeetCodeInAction/tree/master/others/q1480_running_sum_of_1d_array)
+3.[q1480一维数组的动态和](https://leetcode-cn.com/problems/running-sum-of-1d-array/)  -[解法](https://github.com/bannima/LeetCodeInAction/tree/master/others/q1480_running_sum_of_1d_array)
 
 4.[q1365有多少小于当前数字的数字](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/others/q1365_how_many_numbers_are_smaller_than_the_current_number/solution.py)
 
