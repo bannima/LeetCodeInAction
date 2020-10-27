@@ -82,6 +82,7 @@
 1.[LCP18早餐组合](https://leetcode-cn.com/problems/2vYnGI/) -[线性复杂度解法](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/LCP18_2vYnGI/solution.py)  -[排序加二分查找](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/LCP18_2vYnGI/bs_solution.py)
 
 ## [树相关](https://github.com/bannima/LeetCodeInAction/tree/master/others)
+
 1.[q144二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/tree/q144_binary_tree_preorder_traversal/solution.py)
 
 ## [其他](https://github.com/bannima/LeetCodeInAction/tree/master/others)
@@ -96,3 +97,4 @@
 
 5.[q539最小时间差](https://leetcode-cn.com/problems/minimum-time-difference/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/others/q539_minimum_time_difference/solution.py)
 
+6.[q1085最小元素各数位之和](https://leetcode-cn.com/problems/sum-of-digits-in-the-minimum-number/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/others/q1085_sum_of_digits_in_the_minimum_number/solution.py)
