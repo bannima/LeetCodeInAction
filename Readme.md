@@ -98,3 +98,6 @@
 5.[q539最小时间差](https://leetcode-cn.com/problems/minimum-time-difference/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/others/q539_minimum_time_difference/solution.py)
 
 6.[q1085最小元素各数位之和](https://leetcode-cn.com/problems/sum-of-digits-in-the-minimum-number/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/others/q1085_sum_of_digits_in_the_minimum_number/solution.py)
+
+7.[q1207独一无二的出现次数](https://leetcode-cn.com/problems/unique-number-of-occurrences/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/others/q1207_unique_number_of_occurrences/solution.py)
+
