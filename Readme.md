@@ -87,6 +87,7 @@
 
 2.[q129求根到叶子节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/) -[递归法](https://github.com/bannima/LeetCodeInAction/tree/master/tree/q129_sum_root_to_leaf_numbers)
 
+3.[q104二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) -[递归法](https://github.com/bannima/LeetCodeInAction/blob/master/tree/q104_maximum_depth_of_binary_tree/solution.py)
 ## [其他](https://github.com/bannima/LeetCodeInAction/tree/master/others)
 
 1.[q485最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones/)  -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/others/q485_max_consecutive_ones/solution.py)
