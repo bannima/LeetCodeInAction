@@ -105,6 +105,9 @@
 
 11.[q637二叉树的层平均值](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/) -[BFS](https://github.com/bannima/LeetCodeInAction/blob/master/tree/q637_average_of_levels_in_binary_tree/solution.py)
 
+12.[q111二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) -[递归法](https://github.com/bannima/LeetCodeInAction/blob/master/tree/q111_minimum_depth_of_binary_tree/solution.py)
+
+
 ## [其他](https://github.com/bannima/LeetCodeInAction/tree/master/others)
 
 1.[q485最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones/)  -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/others/q485_max_consecutive_ones/solution.py)
