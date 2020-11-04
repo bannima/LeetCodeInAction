@@ -95,6 +95,8 @@
 
 6.[q145二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) -[递归法](https://github.com/bannima/LeetCodeInAction/blob/master/tree/q145_binary_tree_postorder_traversal/solution.py)
 
+7.[q94二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) -[递归法](https://github.com/bannima/LeetCodeInAction/blob/master/tree/q94_binary_tree_inorder_traversal/solution.py)
+
 ## [其他](https://github.com/bannima/LeetCodeInAction/tree/master/others)
 
 1.[q485最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones/)  -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/others/q485_max_consecutive_ones/solution.py)
