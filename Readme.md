@@ -91,6 +91,10 @@
 
 4.[q662二叉树最大宽度](https://leetcode-cn.com/problems/maximum-width-of-binary-tree/) -[层次遍历](https://github.com/bannima/LeetCodeInAction/blob/master/tree/q662_maximum_width_of_binary_tree/solution.py)
 
+5.[q102二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) -[层次遍历](https://github.com/bannima/LeetCodeInAction/blob/master/tree/q102_binary_tree_level_order_traversal/solution.py)
+
+6.[q145二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) -[递归法](https://github.com/bannima/LeetCodeInAction/blob/master/tree/q145_binary_tree_postorder_traversal/solution.py)
+
 ## [其他](https://github.com/bannima/LeetCodeInAction/tree/master/others)
 
 1.[q485最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones/)  -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/others/q485_max_consecutive_ones/solution.py)
