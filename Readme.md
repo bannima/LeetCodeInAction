@@ -41,7 +41,7 @@
 
 19.[q392判断子序列](https://leetcode-cn.com/problems/is-subsequence/)  -[暴力解法](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q392_isSubsequence/dp_solution.py)
 
-20.[q300最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/) -[双循环](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q300_longest_increasing_subsequence/solution.py)
+20.[q300最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/) -[双循环](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q300_longest_increasing_subsequence/solution.py) -[DP](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q300_longest_increasing_subsequence/dp.py)
 
 ## [哈希相关](https://github.com/bannima/LeetCodeInAction/tree/master/hash)
 
