@@ -115,6 +115,7 @@
 
 15.[q1026节点与其祖先之间的最大差值](https://leetcode-cn.com/problems/maximum-difference-between-node-and-ancestor/) -[递归法](https://github.com/bannima/LeetCodeInAction/tree/master/tree/q1026_maximum_difference_between_node_and_ancestor)
 
+16.[q814二叉树剪枝](https://leetcode-cn.com/problems/binary-tree-pruning/) -[优雅的递归，mark](https://github.com/bannima/LeetCodeInAction/blob/master/tree/q814_binary_tree_pruning/solution.py)
 
 ## [其他](https://github.com/bannima/LeetCodeInAction/tree/master/others)
 
