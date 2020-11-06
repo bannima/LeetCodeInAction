@@ -136,3 +136,8 @@
 8.[q57插入区间](https://leetcode-cn.com/problems/insert-interval/) -[分支解法](https://github.com/bannima/LeetCodeInAction/blob/master/others/q57_insert_interval/solution.py)
 
 9.[q127单词接龙](https://leetcode-cn.com/problems/word-ladder/) -[迭代法](https://github.com/bannima/LeetCodeInAction/blob/master/others/q127_word_ladder/recursion.py) -[BFS](https://github.com/bannima/LeetCodeInAction/blob/master/others/q127_word_ladder/bfs.py)
+
+
+##[数学相关](https://github.com/bannima/LeetCodeInAction/tree/master/math)
+
+1.[q1356根据数字二进制下 1 的数目排序](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/math/q1356_sort_integers_by_the_number_of_1_bits/solution.py)
