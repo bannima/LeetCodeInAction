@@ -111,6 +111,9 @@
 
 14.[q437路径总和 III](https://leetcode-cn.com/problems/path-sum-iii/) -[丑陋解法](https://github.com/bannima/LeetCodeInAction/blob/master/tree/q437_path_sum_iii/solution.py) -[巧妙递归](https://github.com/bannima/LeetCodeInAction/blob/master/tree/q437_path_sum_iii/smart_way.py)
 
+15.[q1026节点与其祖先之间的最大差值](https://leetcode-cn.com/problems/maximum-difference-between-node-and-ancestor/) -[递归法](https://github.com/bannima/LeetCodeInAction/tree/master/tree/q1026_maximum_difference_between_node_and_ancestor)
+
+
 ## [其他](https://github.com/bannima/LeetCodeInAction/tree/master/others)
 
 1.[q485最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones/)  -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/others/q485_max_consecutive_ones/solution.py)
