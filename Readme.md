@@ -75,6 +75,8 @@
 
 8.[q845数组中的最长山脉](https://leetcode-cn.com/problems/longest-mountain-in-array/)  -[双指针法](https://github.com/bannima/LeetCodeInAction/blob/master/two_pointers/q845_longest_mountain_in_array/solution.py)
 
+9.[q15三数之和](https://leetcode-cn.com/problems/3sum/) -[排序剪枝双指针法](https://github.com/bannima/LeetCodeInAction/blob/master/two_pointers/q15_3sum/two_pointers.py)  参考：[排序 + 双指针，逐行解释](https://leetcode-cn.com/problems/3sum/solution/pai-xu-shuang-zhi-zhen-zhu-xing-jie-shi-python3-by/)
+
 ## [贪心算法](https://github.com/bannima/LeetCodeInAction/tree/master/greedy)
 
 1.[q1024视频拼接](https://leetcode-cn.com/problems/video-stitching/)  -[贪心法](https://github.com/bannima/LeetCodeInAction/blob/master/greedy/q1024_video_stitching/greedy.py)  -[DP法](https://github.com/bannima/LeetCodeInAction/blob/master/greedy/q1024_video_stitching/dp.py)
