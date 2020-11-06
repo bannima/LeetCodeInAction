@@ -117,6 +117,11 @@
 
 16.[q814二叉树剪枝](https://leetcode-cn.com/problems/binary-tree-pruning/) -[优雅的递归，mark](https://github.com/bannima/LeetCodeInAction/blob/master/tree/q814_binary_tree_pruning/solution.py)
 
+## [数学相关](https://github.com/bannima/LeetCodeInAction/tree/master/math)
+
+1.[q1356根据数字二进制下 1 的数目排序](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/math/q1356_sort_integers_by_the_number_of_1_bits/solution.py)
+
+
 ## [其他](https://github.com/bannima/LeetCodeInAction/tree/master/others)
 
 1.[q485最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones/)  -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/others/q485_max_consecutive_ones/solution.py)
@@ -138,6 +143,4 @@
 9.[q127单词接龙](https://leetcode-cn.com/problems/word-ladder/) -[迭代法](https://github.com/bannima/LeetCodeInAction/blob/master/others/q127_word_ladder/recursion.py) -[BFS](https://github.com/bannima/LeetCodeInAction/blob/master/others/q127_word_ladder/bfs.py)
 
 
-## [数学相关](https://github.com/bannima/LeetCodeInAction/tree/master/math)
 
-1.[q1356根据数字二进制下 1 的数目排序](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/math/q1356_sort_integers_by_the_number_of_1_bits/solution.py)
