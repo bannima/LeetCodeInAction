@@ -109,6 +109,8 @@
 
 13.[q113路径总和II](https://leetcode-cn.com/problems/path-sum-ii/) -[递归法](https://github.com/bannima/LeetCodeInAction/blob/master/tree/q113_path_sum_ii/solution.py)
 
+14.[q437路径总和 III](https://leetcode-cn.com/problems/path-sum-iii/) -[丑陋解法](https://github.com/bannima/LeetCodeInAction/blob/master/tree/q437_path_sum_iii/solution.py) -[巧妙递归](https://github.com/bannima/LeetCodeInAction/blob/master/tree/q437_path_sum_iii/smart_way.py)
+
 ## [其他](https://github.com/bannima/LeetCodeInAction/tree/master/others)
 
 1.[q485最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones/)  -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/others/q485_max_consecutive_ones/solution.py)
