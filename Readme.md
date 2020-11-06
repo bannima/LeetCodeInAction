@@ -107,7 +107,7 @@
 
 12.[q111二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) -[递归法](https://github.com/bannima/LeetCodeInAction/blob/master/tree/q111_minimum_depth_of_binary_tree/solution.py)
 
-13.[q113路径总和II](https://leetcode-cn.com/problems/path-sum-ii/) -[递归法](https://github.com/bannima/LeetCodeInAction/blob/master/tree/q113_path_sum_ii/solution.py)
+13.[q113路径总和II](https://leetcode-cn.com/problems/path-sum-ii/) -[递归法](https://github.com/bannima/LeetCodeInAction/blob/master/tree/q113_path_sum_ii/solution.py) -[巧妙递归，不用复制路径](https://github.com/bannima/LeetCodeInAction/blob/master/tree/q113_path_sum_ii/smart_way.py)
 
 14.[q437路径总和 III](https://leetcode-cn.com/problems/path-sum-iii/) -[丑陋解法](https://github.com/bannima/LeetCodeInAction/blob/master/tree/q437_path_sum_iii/solution.py) -[巧妙递归](https://github.com/bannima/LeetCodeInAction/blob/master/tree/q437_path_sum_iii/smart_way.py)
 
