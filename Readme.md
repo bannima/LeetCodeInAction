@@ -85,6 +85,8 @@
 
 13.[q345反转字符串中的元音字母](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/) -[首尾双指针](https://github.com/bannima/LeetCodeInAction/blob/master/two_pointers/q345_reverse_vowels_of_a_string/solution.py)
 
+14.[q349两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/) -[排序双指针](https://github.com/bannima/LeetCodeInAction/blob/master/two_pointers/q349_intersection_of_two_arrays/solution.py)
+
 ## [贪心算法](https://github.com/bannima/LeetCodeInAction/tree/master/greedy)
 
 1.[q1024视频拼接](https://leetcode-cn.com/problems/video-stitching/)  -[贪心法](https://github.com/bannima/LeetCodeInAction/blob/master/greedy/q1024_video_stitching/greedy.py)  -[DP法](https://github.com/bannima/LeetCodeInAction/blob/master/greedy/q1024_video_stitching/dp.py)
@@ -130,6 +132,11 @@
 ## [数学相关](https://github.com/bannima/LeetCodeInAction/tree/master/math)
 
 1.[q1356根据数字二进制下 1 的数目排序](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/math/q1356_sort_integers_by_the_number_of_1_bits/solution.py)
+
+
+## [快慢指针]()
+
+1.[q287寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/) -[题解]() 参考[*前端灵魂画师🎨图解快慢指针](https://leetcode-cn.com/problems/find-the-duplicate-number/solution/qian-duan-ling-hun-hua-shi-tu-jie-kuai-man-zhi-z-3/)
 
 
 ## [其他](https://github.com/bannima/LeetCodeInAction/tree/master/others)
