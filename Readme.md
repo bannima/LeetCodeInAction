@@ -79,6 +79,8 @@
 
 10.[q16最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/) -[双指针加排序](https://github.com/bannima/LeetCodeInAction/blob/master/two_pointers/q16_3sum_closest/solution.py)
 
+11.[q259较小的三数之和](https://leetcode-cn.com/problems/3sum-smaller/) -[双指针加排序](https://github.com/bannima/LeetCodeInAction/blob/master/two_pointers/q259_3sum_smaller/solution.py)
+
 ## [贪心算法](https://github.com/bannima/LeetCodeInAction/tree/master/greedy)
 
 1.[q1024视频拼接](https://leetcode-cn.com/problems/video-stitching/)  -[贪心法](https://github.com/bannima/LeetCodeInAction/blob/master/greedy/q1024_video_stitching/greedy.py)  -[DP法](https://github.com/bannima/LeetCodeInAction/blob/master/greedy/q1024_video_stitching/dp.py)
