@@ -81,6 +81,9 @@
 
 11.[q259较小的三数之和](https://leetcode-cn.com/problems/3sum-smaller/) -[双指针加排序](https://github.com/bannima/LeetCodeInAction/blob/master/two_pointers/q259_3sum_smaller/solution.py)
 
+12.[q713乘积小于K的子数组](https://github.com/bannima/LeetCodeInAction/blob/master/two_pointers/q713_subarray_product_less_than_k/solution.py) -[*优雅的双指针](https://leetcode-cn.com/problems/subarray-product-less-than-k/) -[我的题解](https://leetcode-cn.com/problems/subarray-product-less-than-k/solution/shuang-zhi-zhen-fa-on-by-zhou-en-guo/) 参考:[乘积小于K的子数组](https://leetcode-cn.com/problems/subarray-product-less-than-k/solution/cheng-ji-xiao-yu-kde-zi-shu-zu-by-leetcode/)
+
+
 ## [贪心算法](https://github.com/bannima/LeetCodeInAction/tree/master/greedy)
 
 1.[q1024视频拼接](https://leetcode-cn.com/problems/video-stitching/)  -[贪心法](https://github.com/bannima/LeetCodeInAction/blob/master/greedy/q1024_video_stitching/greedy.py)  -[DP法](https://github.com/bannima/LeetCodeInAction/blob/master/greedy/q1024_video_stitching/dp.py)
@@ -147,6 +150,4 @@
 8.[q57插入区间](https://leetcode-cn.com/problems/insert-interval/) -[分支解法](https://github.com/bannima/LeetCodeInAction/blob/master/others/q57_insert_interval/solution.py)
 
 9.[q127单词接龙](https://leetcode-cn.com/problems/word-ladder/) -[迭代法](https://github.com/bannima/LeetCodeInAction/blob/master/others/q127_word_ladder/recursion.py) -[BFS](https://github.com/bannima/LeetCodeInAction/blob/master/others/q127_word_ladder/bfs.py)
-
-
 
