@@ -77,6 +77,8 @@
 
 9.[q15三数之和](https://leetcode-cn.com/problems/3sum/) -[排序剪枝双指针法](https://github.com/bannima/LeetCodeInAction/blob/master/two_pointers/q15_3sum/two_pointers.py)  参考：[排序 + 双指针，逐行解释](https://leetcode-cn.com/problems/3sum/solution/pai-xu-shuang-zhi-zhen-zhu-xing-jie-shi-python3-by/)
 
+10.[q16最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/) -[双指针加排序](https://github.com/bannima/LeetCodeInAction/blob/master/two_pointers/q16_3sum_closest/solution.py)
+
 ## [贪心算法](https://github.com/bannima/LeetCodeInAction/tree/master/greedy)
 
 1.[q1024视频拼接](https://leetcode-cn.com/problems/video-stitching/)  -[贪心法](https://github.com/bannima/LeetCodeInAction/blob/master/greedy/q1024_video_stitching/greedy.py)  -[DP法](https://github.com/bannima/LeetCodeInAction/blob/master/greedy/q1024_video_stitching/dp.py)
