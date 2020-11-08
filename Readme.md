@@ -133,6 +133,7 @@
 
 1.[q1356根据数字二进制下 1 的数目排序](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/math/q1356_sort_integers_by_the_number_of_1_bits/solution.py)
 
+2.[q1643第 K 条最小指令](https://leetcode-cn.com/problems/kth-smallest-instructions/) -[优先确定最高位](https://github.com/bannima/LeetCodeInAction/blob/master/math/q1643_kth_smallest_instructions/solution.py) 参考：[*第 K 条最小指令](https://leetcode-cn.com/problems/kth-smallest-instructions/solution/di-k-tiao-zui-xiao-zhi-ling-by-zerotrac2/)
 
 ## [快慢指针]()
 
@@ -158,4 +159,6 @@
 8.[q57插入区间](https://leetcode-cn.com/problems/insert-interval/) -[分支解法](https://github.com/bannima/LeetCodeInAction/blob/master/others/q57_insert_interval/solution.py)
 
 9.[q127单词接龙](https://leetcode-cn.com/problems/word-ladder/) -[迭代法](https://github.com/bannima/LeetCodeInAction/blob/master/others/q127_word_ladder/recursion.py) -[BFS](https://github.com/bannima/LeetCodeInAction/blob/master/others/q127_word_ladder/bfs.py)
+
+10.[q551学生出勤记录I](https://leetcode-cn.com/problems/student-attendance-record-i/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/others/q551_student_attendance_record_i/solution.py)
 
