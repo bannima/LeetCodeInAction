@@ -135,9 +135,11 @@
 
 2.[q1643第 K 条最小指令](https://leetcode-cn.com/problems/kth-smallest-instructions/) -[优先确定最高位](https://github.com/bannima/LeetCodeInAction/blob/master/math/q1643_kth_smallest_instructions/solution.py) 参考：[*第 K 条最小指令](https://leetcode-cn.com/problems/kth-smallest-instructions/solution/di-k-tiao-zui-xiao-zhi-ling-by-zerotrac2/)
 
-## [快慢指针]()
+## [快慢指针](https://github.com/bannima/LeetCodeInAction/blob/master/fast_slow_pointers)
 
 1.[q287寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/) -[题解]() 参考[*前端灵魂画师🎨图解快慢指针](https://leetcode-cn.com/problems/find-the-duplicate-number/solution/qian-duan-ling-hun-hua-shi-tu-jie-kuai-man-zhi-z-3/)
+
+2.[q141环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) -[快慢指针法](https://github.com/bannima/LeetCodeInAction/blob/master/fast_slow_pointers/q141_linked_list_cycle/solution.py)
 
 
 ## [其他](https://github.com/bannima/LeetCodeInAction/tree/master/others)
