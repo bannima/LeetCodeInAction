@@ -25,3 +25,8 @@ class Solution:
         else:
             return False
 
+
+class Solution2:
+    '''一行代码'''
+    def checkRecord(self, s: str) -> bool:
+        return (s.count('A')<=1) and (not 'LLL' in s)
