@@ -149,6 +149,10 @@
 
 6.[q876链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/) -[快慢指针法](https://github.com/bannima/LeetCodeInAction/blob/master/fast_slow_pointers/q876_middle_of_the_linked_list/solution.py)
 
+## [链表](https://github.com/bannima/LeetCodeInAction/tree/master/linkedlist)
+
+1.[剑指 Offer 25. 合并两个排序的链表](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/linkedlist/%E5%89%91%E6%8C%87%20Offerr25_%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%8E%92%E5%BA%8F%E7%9A%84%E9%93%BE%E8%A1%A8/solution.py)
+
 ## [堆](https://github.com/bannima/LeetCodeInAction/tree/master/heap)
 
 1.[q973最接近原点的 K 个点](https://leetcode-cn.com/problems/k-closest-points-to-origin/) -[暴力解法](https://github.com/bannima/LeetCodeInAction/blob/master/heap/q973_k_closest_points_to_origin/solution.py)
@@ -157,6 +161,7 @@
 ## [栈](https://github.com/bannima/LeetCodeInAction/tree/master/stack)
 
 1.[q946验证栈序列](https://leetcode-cn.com/problems/validate-stack-sequences/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/stack/q946_validate_stack_sequences/solution.py)
+
 
 
 ## [其他](https://github.com/bannima/LeetCodeInAction/tree/master/others)
