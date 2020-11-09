@@ -9,6 +9,9 @@ Version: 0.1
 """
 from math import sqrt,pow
 class Solution:
+    '''
+    若为1，则永远为1，是个环，用快慢指针判断是否为环且环的唯一节点是否为1即可
+    '''
     def isHappy(self, n: int) -> bool:
         def calc(num):
             res=0

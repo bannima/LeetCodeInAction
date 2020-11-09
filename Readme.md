@@ -141,6 +141,19 @@
 
 2.[q141环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) -[快慢指针法](https://github.com/bannima/LeetCodeInAction/blob/master/fast_slow_pointers/q141_linked_list_cycle/solution.py)
 
+3.[q142环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) -[快慢指针法](https://github.com/bannima/LeetCodeInAction/blob/master/fast_slow_pointers/q142_linked_list_cycle_ii/solution.py)
+
+4.[q19删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) -[快慢指针法](https://github.com/bannima/LeetCodeInAction/blob/master/fast_slow_pointers/q19_remove_nth_node_from_end_of_list/solution.py)
+
+5.[q202快乐数](https://leetcode-cn.com/problems/happy-number/) -[快慢指针法](https://github.com/bannima/LeetCodeInAction/blob/master/fast_slow_pointers/q202_happy_number/solution.py)
+
+
+## [堆](https://github.com/bannima/LeetCodeInAction/tree/master/heap)
+
+1.[q973最接近原点的 K 个点](https://leetcode-cn.com/problems/k-closest-points-to-origin/) -[暴力解法](https://github.com/bannima/LeetCodeInAction/blob/master/heap/q973_k_closest_points_to_origin/solution.py)
+
+2.[]()
+
 
 ## [其他](https://github.com/bannima/LeetCodeInAction/tree/master/others)
 
