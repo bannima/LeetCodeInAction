@@ -153,7 +153,10 @@
 
 1.[q973最接近原点的 K 个点](https://leetcode-cn.com/problems/k-closest-points-to-origin/) -[暴力解法](https://github.com/bannima/LeetCodeInAction/blob/master/heap/q973_k_closest_points_to_origin/solution.py)
 
-2.[]()
+
+## [栈](https://github.com/bannima/LeetCodeInAction/tree/master/stack)
+
+1.[q946验证栈序列](https://leetcode-cn.com/problems/validate-stack-sequences/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/stack/q946_validate_stack_sequences/solution.py)
 
 
 ## [其他](https://github.com/bannima/LeetCodeInAction/tree/master/others)
