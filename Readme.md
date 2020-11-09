@@ -147,7 +147,7 @@
 
 5.[q202快乐数](https://leetcode-cn.com/problems/happy-number/) -[快慢指针法](https://github.com/bannima/LeetCodeInAction/blob/master/fast_slow_pointers/q202_happy_number/solution.py)
 
-
+6.[q876链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/) -[快慢指针法](https://github.com/bannima/LeetCodeInAction/blob/master/fast_slow_pointers/q876_middle_of_the_linked_list/solution.py)
 
 ## [堆](https://github.com/bannima/LeetCodeInAction/tree/master/heap)
 
