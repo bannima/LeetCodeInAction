@@ -153,6 +153,8 @@
 
 1.[剑指 Offer 25. 合并两个排序的链表](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/linkedlist/%E5%89%91%E6%8C%87%20Offerr25_%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%8E%92%E5%BA%8F%E7%9A%84%E9%93%BE%E8%A1%A8/solution.py)
 
+2.[q206反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/linkedlist/q206_reverse_linked_list/solution.py)
+
 ## [堆](https://github.com/bannima/LeetCodeInAction/tree/master/heap)
 
 1.[q973最接近原点的 K 个点](https://leetcode-cn.com/problems/k-closest-points-to-origin/) -[暴力解法](https://github.com/bannima/LeetCodeInAction/blob/master/heap/q973_k_closest_points_to_origin/solution.py)
@@ -186,3 +188,4 @@
 10.[q551学生出勤记录I](https://leetcode-cn.com/problems/student-attendance-record-i/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/others/q551_student_attendance_record_i/solution.py)
 
 11.[q31下一个排列](https://leetcode-cn.com/problems/next-permutation/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/others/q31_next_permutation/solution.py)
+
