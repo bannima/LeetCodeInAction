@@ -163,7 +163,6 @@
 1.[q946验证栈序列](https://leetcode-cn.com/problems/validate-stack-sequences/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/stack/q946_validate_stack_sequences/solution.py)
 
 
-
 ## [其他](https://github.com/bannima/LeetCodeInAction/tree/master/others)
 
 1.[q485最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones/)  -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/others/q485_max_consecutive_ones/solution.py)
@@ -186,3 +185,4 @@
 
 10.[q551学生出勤记录I](https://leetcode-cn.com/problems/student-attendance-record-i/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/others/q551_student_attendance_record_i/solution.py)
 
+11.[q31下一个排列](https://leetcode-cn.com/problems/next-permutation/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/others/q31_next_permutation/solution.py)
