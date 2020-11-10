@@ -164,6 +164,8 @@
 
 1.[q946验证栈序列](https://leetcode-cn.com/problems/validate-stack-sequences/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/stack/q946_validate_stack_sequences/solution.py)
 
+2.[q20有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/stack/q20_valid_parentheses/solution.py)
+
 
 ## [其他](https://github.com/bannima/LeetCodeInAction/tree/master/others)
 
