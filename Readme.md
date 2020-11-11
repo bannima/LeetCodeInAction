@@ -135,6 +135,8 @@
 
 2.[q1643第 K 条最小指令](https://leetcode-cn.com/problems/kth-smallest-instructions/) -[优先确定最高位](https://github.com/bannima/LeetCodeInAction/blob/master/math/q1643_kth_smallest_instructions/solution.py) 参考：[*第 K 条最小指令](https://leetcode-cn.com/problems/kth-smallest-instructions/solution/di-k-tiao-zui-xiao-zhi-ling-by-zerotrac2/)
 
+3.[q258各位相加](https://leetcode-cn.com/problems/add-digits/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/math/q258_add_digits/solution.py)
+
 ## [快慢指针](https://github.com/bannima/LeetCodeInAction/blob/master/fast_slow_pointers)
 
 1.[q287寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/) -[题解]() 参考[*前端灵魂画师🎨图解快慢指针](https://leetcode-cn.com/problems/find-the-duplicate-number/solution/qian-duan-ling-hun-hua-shi-tu-jie-kuai-man-zhi-z-3/)
@@ -160,6 +162,7 @@
 1.[q973最接近原点的 K 个点](https://leetcode-cn.com/problems/k-closest-points-to-origin/) -[暴力解法](https://github.com/bannima/LeetCodeInAction/blob/master/heap/q973_k_closest_points_to_origin/solution.py)
 
 
+
 ## [栈](https://github.com/bannima/LeetCodeInAction/tree/master/stack)
 
 1.[q946验证栈序列](https://leetcode-cn.com/problems/validate-stack-sequences/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/stack/q946_validate_stack_sequences/solution.py)
@@ -167,6 +170,7 @@
 2.[q20有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/stack/q20_valid_parentheses/solution.py)
 
 3.[q224基本计算器](https://leetcode-cn.com/problems/basic-calculator/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/stack/q224_basic_calculator/solution.py)
+
 
 ## [其他](https://github.com/bannima/LeetCodeInAction/tree/master/others)
 
