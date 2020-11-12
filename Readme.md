@@ -173,6 +173,8 @@
 
 3.[q224基本计算器](https://leetcode-cn.com/problems/basic-calculator/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/stack/q224_basic_calculator/solution.py)
 
+4.[q739每日温度](https://leetcode-cn.com/problems/daily-temperatures/) -[暴力法超时](https://github.com/bannima/LeetCodeInAction/blob/master/stack/q739_daily_temperatures/solution.py) -[栈的解法](https://github.com/bannima/LeetCodeInAction/blob/master/stack/q739_daily_temperatures/stack.py) -[题解](https://leetcode-cn.com/problems/daily-temperatures/solution/onzhan-de-jie-fa-by-zhou-en-guo/)
+
 
 ## [其他](https://github.com/bannima/LeetCodeInAction/tree/master/others)
 
