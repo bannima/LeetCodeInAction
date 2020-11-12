@@ -87,6 +87,8 @@
 
 14.[q349两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/) -[排序双指针](https://github.com/bannima/LeetCodeInAction/blob/master/two_pointers/q349_intersection_of_two_arrays/solution.py)
 
+15.[q922按奇偶排序数组 II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/two_pointers/q922_sort_array_by_parity_ii/solution.py)
+
 ## [贪心算法](https://github.com/bannima/LeetCodeInAction/tree/master/greedy)
 
 1.[q1024视频拼接](https://leetcode-cn.com/problems/video-stitching/)  -[贪心法](https://github.com/bannima/LeetCodeInAction/blob/master/greedy/q1024_video_stitching/greedy.py)  -[DP法](https://github.com/bannima/LeetCodeInAction/blob/master/greedy/q1024_video_stitching/dp.py)
