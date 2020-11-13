@@ -175,6 +175,7 @@
 
 4.[q739每日温度](https://leetcode-cn.com/problems/daily-temperatures/) -[暴力法超时](https://github.com/bannima/LeetCodeInAction/blob/master/stack/q739_daily_temperatures/solution.py) -[栈的解法](https://github.com/bannima/LeetCodeInAction/blob/master/stack/q739_daily_temperatures/stack.py) -[题解](https://leetcode-cn.com/problems/daily-temperatures/solution/onzhan-de-jie-fa-by-zhou-en-guo/)
 
+5.[q394字符串解码](https://leetcode-cn.com/problems/decode-string/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/stack/q394_decode_string/solution.py)
 
 ## [其他](https://github.com/bannima/LeetCodeInAction/tree/master/others)
 
