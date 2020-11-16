@@ -177,6 +177,10 @@
 
 5.[q394字符串解码](https://leetcode-cn.com/problems/decode-string/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/stack/q394_decode_string/solution.py)
 
+6.[q456 132模式](https://leetcode-cn.com/problems/132-pattern/) -[暴力法](https://github.com/bannima/LeetCodeInAction/blob/master/stack/q456_132_pattern/solution.py) -[stack]()
+
+7.[q1190反转每对括号间的子串](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/stack/q1190_reverse_substrings_between_each_pair_of_parentheses/solution.py)
+
 ## [队列](https://github.com/bannima/LeetCodeInAction/tree/master/queue)
 
 1.[q406根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/queue/q406_queue_reconstruction_by_height/solution.py) 参考：[【先排序，再插队】动画演示算法过程，有点小套路](https://leetcode-cn.com/problems/queue-reconstruction-by-height/solution/xian-pai-xu-zai-cha-dui-dong-hua-yan-shi-suan-fa-g/)
