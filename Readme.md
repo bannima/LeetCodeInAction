@@ -131,6 +131,8 @@
 
 16.[q814二叉树剪枝](https://leetcode-cn.com/problems/binary-tree-pruning/) -[优雅的递归，mark](https://github.com/bannima/LeetCodeInAction/blob/master/tree/q814_binary_tree_pruning/solution.py)
 
+17.[q543二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/) -[递归](https://github.com/bannima/LeetCodeInAction/blob/master/tree/q543_diameter_of_binary_tree/solution.py)
+
 ## [数学相关](https://github.com/bannima/LeetCodeInAction/tree/master/math)
 
 1.[q1356根据数字二进制下 1 的数目排序](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/math/q1356_sort_integers_by_the_number_of_1_bits/solution.py)
@@ -160,6 +162,9 @@
 1.[剑指 Offer 25. 合并两个排序的链表](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/linkedlist/%E5%89%91%E6%8C%87%20Offerr25_%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%8E%92%E5%BA%8F%E7%9A%84%E9%93%BE%E8%A1%A8/solution.py)
 
 2.[q206反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/linkedlist/q206_reverse_linked_list/solution.py)
+
+3.[q234回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/linkedlist/q234_palindrome_linked_list/solution.py)
+
 
 ## [堆](https://github.com/bannima/LeetCodeInAction/tree/master/heap)
 
