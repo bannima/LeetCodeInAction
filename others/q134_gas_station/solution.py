@@ -8,7 +8,6 @@ Date: 2020/11/19 4:57 PM
 Version: 0.1
 """
 
-
 class Solution:
     def canCompleteCircuit(self, gas: List[int], cost: List[int]) -> int:
         def check_start(i):
