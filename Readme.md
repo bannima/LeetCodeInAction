@@ -45,6 +45,10 @@
 
 21.[q322零钱兑换](https://leetcode-cn.com/problems/coin-change/) -[dp法](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q322_coin_change/solution.py)
 
+## [滑动窗口](https://leetcode-cn.com/problems/move-zeroes/) 
+
+1.[q283 移动零](https://leetcode-cn.com/problems/move-zeroes/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/sliding_window/q283_move_zeroes/solution.py)
+
 ## [哈希相关](https://github.com/bannima/LeetCodeInAction/tree/master/hash)
 
 1.[q1两数之和](https://leetcode-cn.com/problems/two-sum/)  -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/hash/q1_twoSum/solution.py)
