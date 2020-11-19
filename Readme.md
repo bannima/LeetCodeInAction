@@ -149,6 +149,8 @@
 
 4.[q1262可被三整除的最大和](https://leetcode-cn.com/problems/greatest-sum-divisible-by-three/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/math/q1262_greatest_sum_divisible_by_three/solution.py) -[我的题解](https://leetcode-cn.com/problems/greatest-sum-divisible-by-three/solution/gen-ju-yu-shu-he-de-qing-kuang-yi-ci-pan-duan-ji-c/)
 
+5.[q136只出现一次的数字](https://leetcode-cn.com/problems/single-number/) -[排序法](https://github.com/bannima/LeetCodeInAction/blob/master/math/q136_single_number/sort.py) -[异或法](https://github.com/bannima/LeetCodeInAction/blob/master/math/q136_single_number/xor.py)
+
 ## [快慢指针](https://github.com/bannima/LeetCodeInAction/blob/master/fast_slow_pointers)
 
 1.[q287寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/) -[题解]() 参考[*前端灵魂画师🎨图解快慢指针](https://leetcode-cn.com/problems/find-the-duplicate-number/solution/qian-duan-ling-hun-hua-shi-tu-jie-kuai-man-zhi-z-3/)
