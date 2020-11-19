@@ -226,3 +226,4 @@
 
 11.[q31下一个排列](https://leetcode-cn.com/problems/next-permutation/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/others/q31_next_permutation/solution.py)
 
+12.[q134加油站](https://leetcode-cn.com/problems/gas-station/) -[暴力解法](https://github.com/bannima/LeetCodeInAction/blob/master/others/q134_gas_station/solution.py)
