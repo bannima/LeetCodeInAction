@@ -151,6 +151,8 @@
 
 5.[q136只出现一次的数字](https://leetcode-cn.com/problems/single-number/) -[排序法](https://github.com/bannima/LeetCodeInAction/blob/master/math/q136_single_number/sort.py) -[异或法](https://github.com/bannima/LeetCodeInAction/blob/master/math/q136_single_number/xor.py)
 
+6.[q448找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/) -[排序](https://github.com/bannima/LeetCodeInAction/blob/master/math/q448_find_all_numbers_disappeared_in_an_array/sort.py) -[集合set](https://github.com/bannima/LeetCodeInAction/blob/master/math/q448_find_all_numbers_disappeared_in_an_array/set.py) -[原地修改，秒](https://github.com/bannima/LeetCodeInAction/blob/master/math/q448_find_all_numbers_disappeared_in_an_array/modify.py) 参考：[找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/solution/zhao-dao-suo-you-shu-zu-zhong-xiao-shi-de-shu-zi-2/)
+
 ## [快慢指针](https://github.com/bannima/LeetCodeInAction/blob/master/fast_slow_pointers)
 
 1.[q287寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/) -[题解]() 参考[*前端灵魂画师🎨图解快慢指针](https://leetcode-cn.com/problems/find-the-duplicate-number/solution/qian-duan-ling-hun-hua-shi-tu-jie-kuai-man-zhi-z-3/)
