@@ -171,6 +171,7 @@
 
 3.[q234回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/linkedlist/q234_palindrome_linked_list/solution.py)
 
+4.[q146LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/) -[字典加链表](https://github.com/bannima/LeetCodeInAction/blob/master/linkedlist/q146_lru_cache/dict_linked_list.py)
 
 ## [堆](https://github.com/bannima/LeetCodeInAction/tree/master/heap)
 
