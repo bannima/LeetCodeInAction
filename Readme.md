@@ -45,6 +45,8 @@
 
 21.[q322零钱兑换](https://leetcode-cn.com/problems/coin-change/) -[dp法](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q322_coin_change/solution.py)
 
+22.[q198打家劫舍](https://leetcode-cn.com/problems/house-robber/) -[dp法](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q198_house_robber/dp.py)
+
 ## [滑动窗口](https://leetcode-cn.com/problems/move-zeroes/) 
 
 1.[q283 移动零](https://leetcode-cn.com/problems/move-zeroes/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/sliding_window/q283_move_zeroes/solution.py)
