@@ -181,6 +181,8 @@
 
 4.[q146LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/) -[字典加链表](https://github.com/bannima/LeetCodeInAction/blob/master/linkedlist/q146_lru_cache/dict_linked_list.py)
 
+5.[q21合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/linkedlist/q21_merge_two_sorted_list/solution.py)
+
 ## [堆](https://github.com/bannima/LeetCodeInAction/tree/master/heap)
 
 1.[q973最接近原点的 K 个点](https://leetcode-cn.com/problems/k-closest-points-to-origin/) -[暴力解法](https://github.com/bannima/LeetCodeInAction/blob/master/heap/q973_k_closest_points_to_origin/solution.py)
