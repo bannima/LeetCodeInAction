@@ -141,6 +141,8 @@
 
 17.[q543二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/) -[递归](https://github.com/bannima/LeetCodeInAction/blob/master/tree/q543_diameter_of_binary_tree/solution.py)
 
+18.[q226翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/tree/q226_invert_binary_tree/solution.py)
+
 ## [数学相关](https://github.com/bannima/LeetCodeInAction/tree/master/math)
 
 1.[q1356根据数字二进制下 1 的数目排序](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/math/q1356_sort_integers_by_the_number_of_1_bits/solution.py)
