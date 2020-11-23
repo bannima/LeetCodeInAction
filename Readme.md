@@ -57,6 +57,9 @@
 
 2.[q387字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)  -[解法](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)
 
+3.[q242有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/) -[hash法](https://github.com/bannima/LeetCodeInAction/blob/master/hash/q242_valid_anagram/hash.py)
+
+
 ## [二叉搜索树](https://github.com/bannima/LeetCodeInAction/tree/master/binary_search_tree)
 
 1.[q450删除二叉搜索树中的节点](https://leetcode-cn.com/problems/delete-node-in-a-bst/) -[递归法](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search_tree/q450_delete_node_in_a_bst/solution.py)
@@ -195,6 +198,7 @@
 
 
 
+
 ## [栈](https://github.com/bannima/LeetCodeInAction/tree/master/stack)
 
 1.[q946验证栈序列](https://leetcode-cn.com/problems/validate-stack-sequences/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/stack/q946_validate_stack_sequences/solution.py)
@@ -216,7 +220,6 @@
 ## [队列](https://github.com/bannima/LeetCodeInAction/tree/master/queue)
 
 1.[q406根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/queue/q406_queue_reconstruction_by_height/solution.py) 参考：[【先排序，再插队】动画演示算法过程，有点小套路](https://leetcode-cn.com/problems/queue-reconstruction-by-height/solution/xian-pai-xu-zai-cha-dui-dong-hua-yan-shi-suan-fa-g/)
-
 
 
 ## [其他](https://github.com/bannima/LeetCodeInAction/tree/master/others)
