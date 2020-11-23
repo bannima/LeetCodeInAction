@@ -192,6 +192,8 @@
 
 5.[q21合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/linkedlist/q21_merge_two_sorted_list/solution.py)
 
+6.[剑指 Offer 22. 链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) -[快慢指针](https://github.com/bannima/LeetCodeInAction/blob/master/linkedlist/%E5%89%91%E6%8C%87%20Offer%2022_%E9%93%BE%E8%A1%A8%E4%B8%AD%E5%80%92%E6%95%B0%E7%AC%ACk%E4%B8%AA%E8%8A%82%E7%82%B9/solution.py)
+
 ## [堆](https://github.com/bannima/LeetCodeInAction/tree/master/heap)
 
 1.[q973最接近原点的 K 个点](https://leetcode-cn.com/problems/k-closest-points-to-origin/) -[暴力解法](https://github.com/bannima/LeetCodeInAction/blob/master/heap/q973_k_closest_points_to_origin/solution.py)
