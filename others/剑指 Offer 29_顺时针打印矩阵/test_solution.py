@@ -4,13 +4,13 @@
 FileName: test_solution.py
 Description: 
 Author: Barry Chow
-Date: 2020/10/22 1:42 PM
+Date: 2020/11/24 10:56 AM
 Version: 0.1
 """
+from .solution import Solution
 
-from hash.q387_first_unique_character_in_a_string.solution import Solution
-
-class Test():
+class Test:
     def test(self):
         s = Solution()
-        assert s.firstUniqChar('leetcode')==0
+        matrix = [[1,2,3,4],[5,6,7,8],[9,10,11,12]]
+        res = s.spiralOrder(matrix)

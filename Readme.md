@@ -47,9 +47,12 @@
 
 22.[q198打家劫舍](https://leetcode-cn.com/problems/house-robber/) -[dp法](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q198_house_robber/dp.py)
 
-## [回溯]()
+## [回溯](https://github.com/bannima/LeetCodeInAction/tree/master/backtracking)
  
-1.[q39组合总和](https://leetcode-cn.com/problems/combination-sum/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/backtracking/q39_combination_sum/solution.py)
+1.[q39组合总和](https://leetcode-cn.com/problems/combination-sum/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/backtracking/q39_combination_sum/solution.py) -参考：[97%速度，很简明的思路](https://leetcode-cn.com/problems/combination-sum/solution/97su-du-hen-jian-ming-de-si-lu-by-darkwhite/)
+
+2.[]() -[]()
+
 
 ## [滑动窗口](https://leetcode-cn.com/problems/move-zeroes/) 
 
@@ -154,21 +157,21 @@
 
 20.[q617合并两个二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/tree/q617_merge_two_binary_trees/solution.py)
 
-## [数学相关](https://github.com/bannima/LeetCodeInAction/tree/master/math)
+## [数学相关](https://github.com/bannima/LeetCodeInAction/tree/master/math_related)
 
-1.[q1356根据数字二进制下 1 的数目排序](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/math/q1356_sort_integers_by_the_number_of_1_bits/solution.py)
+1.[q1356根据数字二进制下 1 的数目排序](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/math_related/q1356_sort_integers_by_the_number_of_1_bits/solution.py)
 
-2.[q1643第 K 条最小指令](https://leetcode-cn.com/problems/kth-smallest-instructions/) -[优先确定最高位](https://github.com/bannima/LeetCodeInAction/blob/master/math/q1643_kth_smallest_instructions/solution.py) 参考：[*第 K 条最小指令](https://leetcode-cn.com/problems/kth-smallest-instructions/solution/di-k-tiao-zui-xiao-zhi-ling-by-zerotrac2/)
+2.[q1643第 K 条最小指令](https://leetcode-cn.com/problems/kth-smallest-instructions/) -[优先确定最高位](https://github.com/bannima/LeetCodeInAction/blob/master/math_related/q1643_kth_smallest_instructions/solution.py) 参考：[*第 K 条最小指令](https://leetcode-cn.com/problems/kth-smallest-instructions/solution/di-k-tiao-zui-xiao-zhi-ling-by-zerotrac2/)
 
-3.[q258各位相加](https://leetcode-cn.com/problems/add-digits/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/math/q258_add_digits/solution.py)
+3.[q258各位相加](https://leetcode-cn.com/problems/add-digits/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/math_related/q258_add_digits/solution.py)
 
-4.[q1262可被三整除的最大和](https://leetcode-cn.com/problems/greatest-sum-divisible-by-three/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/math/q1262_greatest_sum_divisible_by_three/solution.py) -[我的题解](https://leetcode-cn.com/problems/greatest-sum-divisible-by-three/solution/gen-ju-yu-shu-he-de-qing-kuang-yi-ci-pan-duan-ji-c/)
+4.[q1262可被三整除的最大和](https://leetcode-cn.com/problems/greatest-sum-divisible-by-three/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/math_related/q1262_greatest_sum_divisible_by_three/solution.py) -[我的题解](https://leetcode-cn.com/problems/greatest-sum-divisible-by-three/solution/gen-ju-yu-shu-he-de-qing-kuang-yi-ci-pan-duan-ji-c/)
 
-5.[q136只出现一次的数字](https://leetcode-cn.com/problems/single-number/) -[排序法](https://github.com/bannima/LeetCodeInAction/blob/master/math/q136_single_number/sort.py) -[异或法](https://github.com/bannima/LeetCodeInAction/blob/master/math/q136_single_number/xor.py)
+5.[q136只出现一次的数字](https://leetcode-cn.com/problems/single-number/) -[排序法](https://github.com/bannima/LeetCodeInAction/blob/master/math_related/q136_single_number/sort.py) -[异或法](https://github.com/bannima/LeetCodeInAction/blob/master/math_related/q136_single_number/xor.py)
 
-6.[q448找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/) -[排序](https://github.com/bannima/LeetCodeInAction/blob/master/math/q448_find_all_numbers_disappeared_in_an_array/sort.py) -[集合set](https://github.com/bannima/LeetCodeInAction/blob/master/math/q448_find_all_numbers_disappeared_in_an_array/set.py) -[原地修改，秒](https://github.com/bannima/LeetCodeInAction/blob/master/math/q448_find_all_numbers_disappeared_in_an_array/modify.py) 参考：[找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/solution/zhao-dao-suo-you-shu-zu-zhong-xiao-shi-de-shu-zi-2/)
+6.[q448找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/) -[排序](https://github.com/bannima/LeetCodeInAction/blob/master/math_related/q448_find_all_numbers_disappeared_in_an_array/sort.py) -[集合set](https://github.com/bannima/LeetCodeInAction/blob/master/math_related/q448_find_all_numbers_disappeared_in_an_array/set.py) -[原地修改，秒](https://github.com/bannima/LeetCodeInAction/blob/master/math_related/q448_find_all_numbers_disappeared_in_an_array/modify.py) 参考：[找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/solution/zhao-dao-suo-you-shu-zu-zhong-xiao-shi-de-shu-zi-2/)
 
-7.[q461汉明距离](https://leetcode-cn.com/problems/hamming-distance/) -[转二进制+异或](https://github.com/bannima/LeetCodeInAction/blob/master/math/q461_hamming_distance/xor.py) -[一行代码](https://github.com/bannima/LeetCodeInAction/blob/master/math/q461_hamming_distance/one_line.py)
+7.[q461汉明距离](https://leetcode-cn.com/problems/hamming-distance/) -[转二进制+异或](https://github.com/bannima/LeetCodeInAction/blob/master/math_related/q461_hamming_distance/xor.py) -[一行代码](https://github.com/bannima/LeetCodeInAction/blob/master/math_related/q461_hamming_distance/one_line.py)
 
 ## [快慢指针](https://github.com/bannima/LeetCodeInAction/blob/master/fast_slow_pointers)
 
@@ -223,7 +226,7 @@
 
 8.[q856. 括号的分数](https://leetcode-cn.com/problems/score-of-parentheses/) -[丑陋的写法](https://github.com/bannima/LeetCodeInAction/blob/master/stack/q856_score_of_parentheses/solution.py  )
 
-## [队列](https://github.com/bannima/LeetCodeInAction/tree/master/queue)
+## [队列](https://github.com/bannima/LeetCodeInAction/tree/master/queue_related)
 
 1.[q406根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/queue/q406_queue_reconstruction_by_height/solution.py) 参考：[【先排序，再插队】动画演示算法过程，有点小套路](https://leetcode-cn.com/problems/queue-reconstruction-by-height/solution/xian-pai-xu-zai-cha-dui-dong-hua-yan-shi-suan-fa-g/)
 
