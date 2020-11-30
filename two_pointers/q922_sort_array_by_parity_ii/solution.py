@@ -9,6 +9,7 @@ Version: 0.1
 """
 
 
+
 class Solution:
     def sortArrayByParityII(self, A: List[int]) -> List[int]:
         odd = even = 0
