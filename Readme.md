@@ -51,7 +51,7 @@
  
 1.[q39组合总和](https://leetcode-cn.com/problems/combination-sum/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/backtracking/q39_combination_sum/solution.py) -参考：[97%速度，很简明的思路](https://leetcode-cn.com/problems/combination-sum/solution/97su-du-hen-jian-ming-de-si-lu-by-darkwhite/)
 
-2.[]() -[]()
+2.[q46全排列](https://leetcode-cn.com/problems/permutations/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/backtracking/q46_permutations/solution.py) -参考：[回溯算法入门级详解 + 练习（持续更新）](https://leetcode-cn.com/problems/permutations/solution/hui-su-suan-fa-python-dai-ma-java-dai-ma-by-liweiw/)
 
 
 ## [滑动窗口](https://leetcode-cn.com/problems/move-zeroes/) 
