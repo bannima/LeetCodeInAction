@@ -57,6 +57,7 @@
 
 4.[q40组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/backtracking/q40_combination_sum_ii/solution.py)
 
+
 ## [滑动窗口](https://leetcode-cn.com/problems/move-zeroes/) 
 
 1.[q283 移动零](https://leetcode-cn.com/problems/move-zeroes/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/sliding_window/q283_move_zeroes/solution.py)
@@ -117,6 +118,8 @@
 ## [二分查找](https://github.com/bannima/LeetCodeInAction/tree/master/binary_search)
 
 1.[LCP18早餐组合](https://leetcode-cn.com/problems/2vYnGI/) -[线性复杂度解法](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/LCP18_2vYnGI/solution.py)  -[排序加二分查找](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/LCP18_2vYnGI/bs_solution.py)
+
+2.[q34在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) -[二分查找](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/q34_find_first_and_last_position_of_element_in_sorted_array/solution.py)
 
 ## [树相关](https://github.com/bannima/LeetCodeInAction/tree/master/others)
 
