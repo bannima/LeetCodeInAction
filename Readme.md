@@ -53,6 +53,7 @@
 
 2.[q46全排列](https://leetcode-cn.com/problems/permutations/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/backtracking/q46_permutations/solution.py) -参考：[回溯算法入门级详解 + 练习（持续更新）](https://leetcode-cn.com/problems/permutations/solution/hui-su-suan-fa-python-dai-ma-java-dai-ma-by-liweiw/)
 
+3.[q47全排列II](https://leetcode-cn.com/problems/permutations-ii/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/backtracking/q47_permutations_ii/solution.py)
 
 ## [滑动窗口](https://leetcode-cn.com/problems/move-zeroes/) 
 
