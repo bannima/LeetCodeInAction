@@ -55,6 +55,8 @@
 
 3.[q47全排列II](https://leetcode-cn.com/problems/permutations-ii/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/backtracking/q47_permutations_ii/solution.py)
 
+4.[q40组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/backtracking/q40_combination_sum_ii/solution.py)
+
 ## [滑动窗口](https://leetcode-cn.com/problems/move-zeroes/) 
 
 1.[q283 移动零](https://leetcode-cn.com/problems/move-zeroes/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/sliding_window/q283_move_zeroes/solution.py)
