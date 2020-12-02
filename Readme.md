@@ -59,6 +59,7 @@
 
 5.[216. 组合总和 III](https://leetcode-cn.com/problems/combination-sum-iii/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/backtracking/q216_combination_sum_iii/solution.py)
 
+6.[q78子集](https://leetcode-cn.com/problems/subsets/) -[从下往上回溯](https://github.com/bannima/LeetCodeInAction/blob/master/backtracking/q78_subsets/solution.py) -参考题解：[回溯算法](https://leetcode-cn.com/problems/subsets/solution/hui-su-suan-fa-by-powcai-5/)
 
 ## [滑动窗口](https://leetcode-cn.com/problems/move-zeroes/) 
 
