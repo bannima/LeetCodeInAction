@@ -61,6 +61,8 @@
 
 6.[q78子集](https://leetcode-cn.com/problems/subsets/) -[从下往上回溯](https://github.com/bannima/LeetCodeInAction/blob/master/backtracking/q78_subsets/solution.py) -参考题解：[回溯算法](https://leetcode-cn.com/problems/subsets/solution/hui-su-suan-fa-by-powcai-5/)
 
+7.[q90子集 II](https://leetcode-cn.com/problems/subsets-ii/) -[从下往山回溯](https://github.com/bannima/LeetCodeInAction/blob/master/backtracking/q90_subsets_ii/solution.py)
+
 ## [滑动窗口](https://leetcode-cn.com/problems/move-zeroes/) 
 
 1.[q283 移动零](https://leetcode-cn.com/problems/move-zeroes/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/sliding_window/q283_move_zeroes/solution.py)
