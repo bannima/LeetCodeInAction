@@ -272,4 +272,4 @@
 
 13.[q659分割数组为连续子序列](https://leetcode-cn.com/problems/split-array-into-consecutive-subsequences/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/others/q659_split_array_into_consecutive_subsequences/solution.py)
 
-
+14.[q14最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/others/q14_longest_common_prefix/solution.py)
