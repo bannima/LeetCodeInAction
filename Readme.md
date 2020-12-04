@@ -184,6 +184,8 @@
 
 7.[q461汉明距离](https://leetcode-cn.com/problems/hamming-distance/) -[转二进制+异或](https://github.com/bannima/LeetCodeInAction/blob/master/math_related/q461_hamming_distance/xor.py) -[一行代码](https://github.com/bannima/LeetCodeInAction/blob/master/math_related/q461_hamming_distance/one_line.py)
 
+8.[q204计数质数](https://leetcode-cn.com/problems/count-primes/) -[厄拉多塞筛法](https://github.com/bannima/LeetCodeInAction/blob/master/math_related/q204_count_primes/solution.py) -参考题解：[计数质数（暴力法及优化、筛法及优化与思路详解）](https://leetcode-cn.com/problems/count-primes/solution/ji-shu-zhi-shu-bao-li-fa-ji-you-hua-shai-fa-ji-you/)
+
 ## [快慢指针](https://github.com/bannima/LeetCodeInAction/blob/master/fast_slow_pointers)
 
 1.[q287寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/) -[题解]() 参考[*前端灵魂画师🎨图解快慢指针](https://leetcode-cn.com/problems/find-the-duplicate-number/solution/qian-duan-ling-hun-hua-shi-tu-jie-kuai-man-zhi-z-3/)
