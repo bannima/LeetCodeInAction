@@ -275,3 +275,5 @@
 13.[q659分割数组为连续子序列](https://leetcode-cn.com/problems/split-array-into-consecutive-subsequences/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/others/q659_split_array_into_consecutive_subsequences/solution.py)
 
 14.[q14最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/others/q14_longest_common_prefix/solution.py)
+
+15.[q621任务调度器](https://leetcode-cn.com/problems/task-scheduler/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/others/q621_task_scheduler/solution.py) -参考题解*:[【任务调度器】C++ 桶子_配图理解](https://leetcode-cn.com/problems/task-scheduler/solution/tong-zi-by-popopop/)
