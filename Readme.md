@@ -120,6 +120,8 @@
 
 1.[q1024视频拼接](https://leetcode-cn.com/problems/video-stitching/)  -[贪心法](https://github.com/bannima/LeetCodeInAction/blob/master/greedy/q1024_video_stitching/greedy.py)  -[DP法](https://github.com/bannima/LeetCodeInAction/blob/master/greedy/q1024_video_stitching/dp.py)
 
+2.[q861翻转矩阵后的得分](https://leetcode-cn.com/problems/score-after-flipping-matrix/) -[贪心解法](https://github.com/bannima/LeetCodeInAction/blob/master/greedy/q861_score_after_flipping_matrix/solution.py)
+
 ## [二分查找](https://github.com/bannima/LeetCodeInAction/tree/master/binary_search)
 
 1.[LCP18早餐组合](https://leetcode-cn.com/problems/2vYnGI/) -[线性复杂度解法](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/LCP18_2vYnGI/solution.py)  -[排序加二分查找](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/LCP18_2vYnGI/bs_solution.py)
