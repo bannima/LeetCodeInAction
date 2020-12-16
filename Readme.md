@@ -63,9 +63,14 @@
 
 7.[q90子集 II](https://leetcode-cn.com/problems/subsets-ii/) -[从下往山回溯](https://github.com/bannima/LeetCodeInAction/blob/master/backtracking/q90_subsets_ii/solution.py)
 
+
+
 ## [滑动窗口](https://leetcode-cn.com/problems/move-zeroes/) 
 
 1.[q283 移动零](https://leetcode-cn.com/problems/move-zeroes/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/sliding_window/q283_move_zeroes/solution.py)
+
+2.[剑指 Offer 42 连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/) -[单循环遍历](https://github.com/bannima/LeetCodeInAction/blob/master/sliding_window/%E5%89%91%E6%8C%87%20Offer%2042%E8%BF%9E%E7%BB%AD%E5%AD%90%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%A4%A7%E5%92%8C/solution.py)
+
 
 ## [哈希相关](https://github.com/bannima/LeetCodeInAction/tree/master/hash)
 
@@ -75,6 +80,9 @@
 
 3.[q242有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/) -[hash法](https://github.com/bannima/LeetCodeInAction/blob/master/hash/q242_valid_anagram/hash.py)
 
+4.[q290单词规律](https://leetcode-cn.com/problems/word-pattern/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/hash/q290_word_pattern/solution.py)
+
+
 
 ## [二叉搜索树](https://github.com/bannima/LeetCodeInAction/tree/master/binary_search_tree)
 
@@ -83,6 +91,8 @@
 2.[q701二叉搜索树中的插入操作](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search_tree/q701_insert_into_a_binary_search_tree/solution.py)
 
 3.[q98验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search_tree/q98_validate_binary_search_tree/solution.py)
+
+
 
 ## [双指针法](https://github.com/bannima/LeetCodeInAction/tree/master/two_pointers)
 
@@ -118,17 +128,23 @@
 
 16.[q88 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/two_pointers/q88_merge_sorted_array/solution.py)
 
+
+
 ## [贪心算法](https://github.com/bannima/LeetCodeInAction/tree/master/greedy)
 
 1.[q1024视频拼接](https://leetcode-cn.com/problems/video-stitching/)  -[贪心法](https://github.com/bannima/LeetCodeInAction/blob/master/greedy/q1024_video_stitching/greedy.py)  -[DP法](https://github.com/bannima/LeetCodeInAction/blob/master/greedy/q1024_video_stitching/dp.py)
 
 2.[q861翻转矩阵后的得分](https://leetcode-cn.com/problems/score-after-flipping-matrix/) -[贪心解法](https://github.com/bannima/LeetCodeInAction/blob/master/greedy/q861_score_after_flipping_matrix/solution.py)
 
+
+
 ## [二分查找](https://github.com/bannima/LeetCodeInAction/tree/master/binary_search)
 
 1.[LCP18早餐组合](https://leetcode-cn.com/problems/2vYnGI/) -[线性复杂度解法](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/LCP18_2vYnGI/solution.py)  -[排序加二分查找](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/LCP18_2vYnGI/bs_solution.py)
 
 2.[q34在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) -[二分查找](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/q34_find_first_and_last_position_of_element_in_sorted_array/solution.py)
+
+
 
 ## [树相关](https://github.com/bannima/LeetCodeInAction/tree/master/others)
 
@@ -172,6 +188,8 @@
 
 20.[q617合并两个二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/tree/q617_merge_two_binary_trees/solution.py)
 
+
+
 ## [数学相关](https://github.com/bannima/LeetCodeInAction/tree/master/math_related)
 
 1.[q1356根据数字二进制下 1 的数目排序](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/math_related/q1356_sort_integers_by_the_number_of_1_bits/solution.py)
@@ -192,6 +210,8 @@
 
 9.[q633 平方数之和](https://leetcode-cn.com/problems/sum-of-square-numbers/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/math_related/q633_sum_of_square_numbers/solution.py) -参考题解:[平方数之和](https://leetcode-cn.com/problems/sum-of-square-numbers/solution/ping-fang-shu-zhi-he-by-leetcode/)
 
+
+
 ## [快慢指针](https://github.com/bannima/LeetCodeInAction/blob/master/fast_slow_pointers)
 
 1.[q287寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/) -[题解]() 参考[*前端灵魂画师🎨图解快慢指针](https://leetcode-cn.com/problems/find-the-duplicate-number/solution/qian-duan-ling-hun-hua-shi-tu-jie-kuai-man-zhi-z-3/)
@@ -206,6 +226,8 @@
 
 6.[q876链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/) -[快慢指针法](https://github.com/bannima/LeetCodeInAction/blob/master/fast_slow_pointers/q876_middle_of_the_linked_list/solution.py)
 
+
+
 ## [链表](https://github.com/bannima/LeetCodeInAction/tree/master/linkedlist)
 
 1.[剑指 Offer 25. 合并两个排序的链表](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/linkedlist/%E5%89%91%E6%8C%87%20Offerr25_%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%8E%92%E5%BA%8F%E7%9A%84%E9%93%BE%E8%A1%A8/solution.py)
@@ -219,6 +241,8 @@
 5.[q21合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/linkedlist/q21_merge_two_sorted_list/solution.py)
 
 6.[剑指 Offer 22. 链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) -[快慢指针](https://github.com/bannima/LeetCodeInAction/blob/master/linkedlist/%E5%89%91%E6%8C%87%20Offer%2022_%E9%93%BE%E8%A1%A8%E4%B8%AD%E5%80%92%E6%95%B0%E7%AC%ACk%E4%B8%AA%E8%8A%82%E7%82%B9/solution.py)
+
+
 
 ## [堆](https://github.com/bannima/LeetCodeInAction/tree/master/heap)
 
@@ -244,6 +268,8 @@
 7.[q1190反转每对括号间的子串](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/stack/q1190_reverse_substrings_between_each_pair_of_parentheses/solution.py)
 
 8.[q856. 括号的分数](https://leetcode-cn.com/problems/score-of-parentheses/) -[丑陋的写法](https://github.com/bannima/LeetCodeInAction/blob/master/stack/q856_score_of_parentheses/solution.py  )
+
+
 
 ## [队列](https://github.com/bannima/LeetCodeInAction/tree/master/queue_related)
 
