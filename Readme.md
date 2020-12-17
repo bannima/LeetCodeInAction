@@ -210,7 +210,7 @@
 
 9.[q633 平方数之和](https://leetcode-cn.com/problems/sum-of-square-numbers/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/math_related/q633_sum_of_square_numbers/solution.py) -参考题解:[平方数之和](https://leetcode-cn.com/problems/sum-of-square-numbers/solution/ping-fang-shu-zhi-he-by-leetcode/)
 
-
+10.[剑指 Offer 03. 数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/math_related/%E5%89%91%E6%8C%87%20Offer%2003%20%E6%95%B0%E7%BB%84%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0%E5%AD%97/solution.py)
 
 ## [快慢指针](https://github.com/bannima/LeetCodeInAction/blob/master/fast_slow_pointers)
 
