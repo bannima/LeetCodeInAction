@@ -212,6 +212,8 @@
 
 10.[剑指 Offer 03. 数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/math_related/%E5%89%91%E6%8C%87%20Offer%2003%20%E6%95%B0%E7%BB%84%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0%E5%AD%97/solution.py)
 
+11.[剑指 Offer 14- I. 剪绳子](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/) -[投机取巧归纳法](https://github.com/bannima/LeetCodeInAction/blob/master/math_related/%E5%89%91%E6%8C%87%20Offer%2014-%20I%20%E5%89%AA%E7%BB%B3%E5%AD%90/solution.py) -参考：[计算法](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/solution/ji-suan-fa-by-jason-2/)
+
 ## [快慢指针](https://github.com/bannima/LeetCodeInAction/blob/master/fast_slow_pointers)
 
 1.[q287寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/) -[题解]() 参考[*前端灵魂画师🎨图解快慢指针](https://leetcode-cn.com/problems/find-the-duplicate-number/solution/qian-duan-ling-hun-hua-shi-tu-jie-kuai-man-zhi-z-3/)
