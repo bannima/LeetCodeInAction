@@ -82,6 +82,8 @@
 
 - 7 [q424. 替换后的最长重复字符](https://leetcode-cn.com/problems/longest-repeating-character-replacement/) -[滑动窗口法](https://github.com/bannima/LeetCodeInAction/blob/master/sliding_window/q424_longest_repeating_character_replacement/sliding_window.py)
 
+- 8 [q567. 字符串的排列](https://leetcode-cn.com/problems/permutation-in-string/) -[暴力法](https://github.com/bannima/LeetCodeInAction/blob/master/sliding_window/q567_permutation_in_string/force.py) -[滑动窗口法](https://github.com/bannima/LeetCodeInAction/blob/master/sliding_window/q567_permutation_in_string/sliding_window.py)
+
 
 ### [哈希相关](https://github.com/bannima/LeetCodeInAction/tree/master/hash)
 
