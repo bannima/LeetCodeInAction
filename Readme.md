@@ -80,6 +80,9 @@
 
 - 6 [q1004. 最大连续1的个数 III](https://leetcode-cn.com/problems/max-consecutive-ones-iii/) -[滑动窗口法](https://github.com/bannima/LeetCodeInAction/blob/master/sliding_window/q1004_max_consecutive_ones_iii/sliding_window.py)
 
+- 7 [q424. 替换后的最长重复字符](https://leetcode-cn.com/problems/longest-repeating-character-replacement/) -[滑动窗口法](https://github.com/bannima/LeetCodeInAction/blob/master/sliding_window/q424_longest_repeating_character_replacement/sliding_window.py)
+
+
 ### [哈希相关](https://github.com/bannima/LeetCodeInAction/tree/master/hash)
 
 - 1 [q1两数之和](https://leetcode-cn.com/problems/two-sum/)  -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/hash/q1_twoSum/solution.py)
