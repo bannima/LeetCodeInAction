@@ -1,5 +1,7 @@
+
 # LeetCode刷题笔记
 (Since 2020.10.14)
+
 
 ### [动态规划](https://github.com/bannima/LeetCodeInAction/tree/master/dynamic_program)
 
@@ -69,6 +71,8 @@
 - 1 [q283 移动零](https://leetcode-cn.com/problems/move-zeroes/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/sliding_window/q283_move_zeroes/solution.py)
 
 - 2 [剑指 Offer 42 连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/) -[单循环遍历](https://github.com/bannima/LeetCodeInAction/blob/master/sliding_window/%E5%89%91%E6%8C%87%20Offer%2042%E8%BF%9E%E7%BB%AD%E5%AD%90%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%A4%A7%E5%92%8C/solution.py)
+
+- 3 [剑指 Offer 57 - II. 和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/) -[暴力枚举法](https://github.com/bannima/LeetCodeInAction/blob/master/sliding_window/%E5%89%91%E6%8C%87%20Offer%2057%20-%20II%E5%92%8C%E4%B8%BAs%E7%9A%84%E8%BF%9E%E7%BB%AD%E6%AD%A3%E6%95%B0%E5%BA%8F%E5%88%97/force.py) -[函数解析法](https://github.com/bannima/LeetCodeInAction/blob/master/sliding_window/%E5%89%91%E6%8C%87%20Offer%2057%20-%20II%E5%92%8C%E4%B8%BAs%E7%9A%84%E8%BF%9E%E7%BB%AD%E6%AD%A3%E6%95%B0%E5%BA%8F%E5%88%97/analytical.py) -[滑动窗口法](https://github.com/bannima/LeetCodeInAction/blob/master/sliding_window/%E5%89%91%E6%8C%87%20Offer%2057%20-%20II%E5%92%8C%E4%B8%BAs%E7%9A%84%E8%BF%9E%E7%BB%AD%E6%AD%A3%E6%95%B0%E5%BA%8F%E5%88%97/sliding_window.py) - 参考题解[和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/solution/mian-shi-ti-57-ii-he-wei-sde-lian-xu-zheng-shu-x-2/)
 
 
 ### [哈希相关](https://github.com/bannima/LeetCodeInAction/tree/master/hash)
