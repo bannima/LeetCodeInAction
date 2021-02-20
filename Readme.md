@@ -78,6 +78,8 @@
 
 - 5 [q340. 至多包含 K 个不同字符的最长子串](https://leetcode-cn.com/problems/longest-substring-with-at-most-k-distinct-characters/) -[滑动窗口法](https://github.com/bannima/LeetCodeInAction/blob/master/sliding_window/q340_longest_substring_with_at_most_k_distinct_characters/sliding_window.py) 
 
+- 6 [q1004. 最大连续1的个数 III](https://leetcode-cn.com/problems/max-consecutive-ones-iii/) -[滑动窗口法](https://github.com/bannima/LeetCodeInAction/blob/master/sliding_window/q1004_max_consecutive_ones_iii/sliding_window.py)
+
 ### [哈希相关](https://github.com/bannima/LeetCodeInAction/tree/master/hash)
 
 - 1 [q1两数之和](https://leetcode-cn.com/problems/two-sum/)  -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/hash/q1_twoSum/solution.py)
