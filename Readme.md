@@ -74,8 +74,9 @@
 
 - 3 [剑指 Offer 57 - II. 和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/) -[暴力枚举法](https://github.com/bannima/LeetCodeInAction/blob/master/sliding_window/%E5%89%91%E6%8C%87%20Offer%2057%20-%20II%E5%92%8C%E4%B8%BAs%E7%9A%84%E8%BF%9E%E7%BB%AD%E6%AD%A3%E6%95%B0%E5%BA%8F%E5%88%97/force.py) -[函数解析法](https://github.com/bannima/LeetCodeInAction/blob/master/sliding_window/%E5%89%91%E6%8C%87%20Offer%2057%20-%20II%E5%92%8C%E4%B8%BAs%E7%9A%84%E8%BF%9E%E7%BB%AD%E6%AD%A3%E6%95%B0%E5%BA%8F%E5%88%97/analytical.py) -[滑动窗口法](https://github.com/bannima/LeetCodeInAction/blob/master/sliding_window/%E5%89%91%E6%8C%87%20Offer%2057%20-%20II%E5%92%8C%E4%B8%BAs%E7%9A%84%E8%BF%9E%E7%BB%AD%E6%AD%A3%E6%95%B0%E5%BA%8F%E5%88%97/sliding_window.py) - 参考题解[和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/solution/mian-shi-ti-57-ii-he-wei-sde-lian-xu-zheng-shu-x-2/)
 
-- 4 [159. 至多包含两个不同字符的最长子串](https://leetcode-cn.com/problems/longest-substring-with-at-most-two-distinct-characters/) -[滑动窗口](https://github.com/bannima/LeetCodeInAction/blob/master/sliding_window/q159_longest_substring_with_at_most_two_distinct_characters/sliding_window.py)
+- 4 [q159. 至多包含两个不同字符的最长子串](https://leetcode-cn.com/problems/longest-substring-with-at-most-two-distinct-characters/) -[滑动窗口](https://github.com/bannima/LeetCodeInAction/blob/master/sliding_window/q159_longest_substring_with_at_most_two_distinct_characters/sliding_window.py)
 
+- 5 [q340. 至多包含 K 个不同字符的最长子串](https://leetcode-cn.com/problems/longest-substring-with-at-most-k-distinct-characters/) -[滑动窗口法](https://github.com/bannima/LeetCodeInAction/blob/master/sliding_window/q340_longest_substring_with_at_most_k_distinct_characters/sliding_window.py) 
 
 ### [哈希相关](https://github.com/bannima/LeetCodeInAction/tree/master/hash)
 
@@ -133,7 +134,7 @@
 
 - 16 [q88 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/two_pointers/q88_merge_sorted_array/solution.py)
 
-- 17 [1099. 小于 K 的两数之和](https://leetcode-cn.com/problems/two-sum-less-than-k/) -[暴力枚举法](https://github.com/bannima/LeetCodeInAction/blob/master/two_pointers/q1099_two_sum_less_than_k/force.py) -[双指针法](https://github.com/bannima/LeetCodeInAction/blob/master/two_pointers/q1099_two_sum_less_than_k/two_pointers.py) - 参考题解:[图解「小于 K 的两数之和」](https://leetcode-cn.com/problems/two-sum-less-than-k/solution/tu-jie-xiao-yu-k-de-liang-shu-zhi-he-by-misterbooo/)
+- 17 [q1099. 小于 K 的两数之和](https://leetcode-cn.com/problems/two-sum-less-than-k/) -[暴力枚举法](https://github.com/bannima/LeetCodeInAction/blob/master/two_pointers/q1099_two_sum_less_than_k/force.py) -[双指针法](https://github.com/bannima/LeetCodeInAction/blob/master/two_pointers/q1099_two_sum_less_than_k/two_pointers.py) - 参考题解:[图解「小于 K 的两数之和」](https://leetcode-cn.com/problems/two-sum-less-than-k/solution/tu-jie-xiao-yu-k-de-liang-shu-zhi-he-by-misterbooo/)
 
 
 
