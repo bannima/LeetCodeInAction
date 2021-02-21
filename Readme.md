@@ -92,6 +92,8 @@
 
 - 12 [239. 滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/) -偷懒解法[滑动窗口+sortedlist](https://github.com/bannima/LeetCodeInAction/blob/master/sliding_window/q239_sliding_window_maximum/sliding_window_sortedlist.py)
 
+- 13 [978. 最长湍流子数组](https://leetcode-cn.com/problems/longest-turbulent-subarray/) -[滑动窗口法](https://github.com/bannima/LeetCodeInAction/blob/master/sliding_window/q978_longest_turbulent_subarray/sliding_window.py)
+
 
 ### [哈希相关](https://github.com/bannima/LeetCodeInAction/tree/master/hash)
 
