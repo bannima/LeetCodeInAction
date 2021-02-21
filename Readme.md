@@ -86,6 +86,10 @@
 
 - 9 [1100. 长度为 K 的无重复字符子串](https://leetcode-cn.com/problems/find-k-length-substrings-with-no-repeated-characters/) -[滑动窗口法](https://github.com/bannima/LeetCodeInAction/blob/master/sliding_window/q1100_find_k_length_substrings_with_no_repeated_characters/sliding_window.py)
 
+- 10[1438. 绝对差不超过限制的最长连续子数组](https://leetcode-cn.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) -[滑动窗口超时间](https://github.com/bannima/LeetCodeInAction/blob/master/sliding_window/q1438_longest_continuous_subarray_with_absolute_diff_less_than_or_equal_to_limit/sliding_window_out_of_time.py) -[滑动窗口法](https://github.com/bannima/LeetCodeInAction/blob/master/sliding_window/q1438_longest_continuous_subarray_with_absolute_diff_less_than_or_equal_to_limit/sliding_window.py)
+
+
+
 ### [哈希相关](https://github.com/bannima/LeetCodeInAction/tree/master/hash)
 
 - 1 [q1两数之和](https://leetcode-cn.com/problems/two-sum/)  -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/hash/q1_twoSum/solution.py)
