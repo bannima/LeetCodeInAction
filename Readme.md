@@ -94,6 +94,8 @@
 
 - 13 [978. 最长湍流子数组](https://leetcode-cn.com/problems/longest-turbulent-subarray/) -[滑动窗口法](https://github.com/bannima/LeetCodeInAction/blob/master/sliding_window/q978_longest_turbulent_subarray/sliding_window.py)
 
+- 14 [1151. 最少交换次数来组合所有的 1](https://leetcode-cn.com/problems/minimum-swaps-to-group-all-1s-together/) -[滑动窗口法](https://github.com/bannima/LeetCodeInAction/blob/master/sliding_window/q1151_minimum_swaps_to_group_all_1s_together/sliding_window.py)
+
 
 ### [哈希相关](https://github.com/bannima/LeetCodeInAction/tree/master/hash)
 
