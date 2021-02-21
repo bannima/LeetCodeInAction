@@ -90,6 +90,7 @@
 
 - 11 [480. 滑动窗口中位数](https://leetcode-cn.com/problems/sliding-window-median/) -[sortedlist+滑动窗口](https://github.com/bannima/LeetCodeInAction/blob/master/sliding_window/q480_sliding_window_median/sliding_window_sortedlist.py)
 
+- 12 [239. 滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/) -偷懒解法[滑动窗口+sortedlist](https://github.com/bannima/LeetCodeInAction/blob/master/sliding_window/q239_sliding_window_maximum/sliding_window_sortedlist.py)
 
 
 ### [哈希相关](https://github.com/bannima/LeetCodeInAction/tree/master/hash)
