@@ -49,6 +49,8 @@
 
 - 22 [q198打家劫舍](https://leetcode-cn.com/problems/house-robber/) -[dp法](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q198_house_robber/dp.py)
 
+
+
 ### [回溯](https://github.com/bannima/LeetCodeInAction/tree/master/backtracking)
  
 - 1 [q39组合总和](https://leetcode-cn.com/problems/combination-sum/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/backtracking/q39_combination_sum/solution.py) -参考：[97%速度，很简明的思路](https://leetcode-cn.com/problems/combination-sum/solution/97su-du-hen-jian-ming-de-si-lu-by-darkwhite/)
@@ -179,6 +181,7 @@
 
 - 4 [1150. 检查一个数是否在数组中占绝大多数](https://leetcode-cn.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/) -[二分查找](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/q1150_check_if_a_number_is_majority_element_in_a_sorted_array/binary_search.py)
 
+- 5 [704. 二分查找](https://leetcode-cn.com/problems/binary-search/) -[二分查找](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/q704_binary_search/binary.py) -参考题解：[二分查找](https://leetcode-cn.com/problems/binary-search/solution/er-fen-cha-zhao-by-leetcode/)
 
 
 ### [树相关](https://github.com/bannima/LeetCodeInAction/tree/master/others)
@@ -248,6 +251,7 @@
 - 10 [剑指 Offer 03. 数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/math_related/%E5%89%91%E6%8C%87%20Offer%2003%20%E6%95%B0%E7%BB%84%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0%E5%AD%97/solution.py)
 
 - 11 [剑指 Offer 14- I. 剪绳子](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/) -[投机取巧归纳法](https://github.com/bannima/LeetCodeInAction/blob/master/math_related/%E5%89%91%E6%8C%87%20Offer%2014-%20I%20%E5%89%AA%E7%BB%B3%E5%AD%90/solution.py) -参考：[计算法](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/solution/ji-suan-fa-by-jason-2/)
+
 
 ### [快慢指针](https://github.com/bannima/LeetCodeInAction/blob/master/fast_slow_pointers)
 
