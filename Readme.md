@@ -98,6 +98,7 @@
 
  -15 [1052. 爱生气的书店老板](https://leetcode-cn.com/problems/grumpy-bookstore-owner/) -[滑动窗口法](https://github.com/bannima/LeetCodeInAction/blob/master/sliding_window/q1052_grumpy_bookstore_owner/sliding_window.py)
 
+
 ### [哈希相关](https://github.com/bannima/LeetCodeInAction/tree/master/hash)
 
 - 1 [q1两数之和](https://leetcode-cn.com/problems/two-sum/)  -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/hash/q1_twoSum/solution.py)
@@ -172,7 +173,7 @@
 
 - 2 [q34在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) -[二分查找](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/q34_find_first_and_last_position_of_element_in_sorted_array/solution.py)
 
-
+- 3 [剑指 Offer 53 - I. 在排序数组中查找数字 I](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/) -[二分查找](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/%E5%89%91%E6%8C%87%20Offer%2053%20-%20I%20%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE%E6%95%B0%E5%AD%97%20I/binary_search.py) -*参考题解：[面试题53 - I. 在排序数组中查找数字 I（二分法，清晰图解）](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/solution/mian-shi-ti-53-i-zai-pai-xu-shu-zu-zhong-cha-zha-5/)
 
 ### [树相关](https://github.com/bannima/LeetCodeInAction/tree/master/others)
 
