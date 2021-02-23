@@ -96,7 +96,9 @@
 
 - 14 [1151. 最少交换次数来组合所有的 1](https://leetcode-cn.com/problems/minimum-swaps-to-group-all-1s-together/) -[滑动窗口法](https://github.com/bannima/LeetCodeInAction/blob/master/sliding_window/q1151_minimum_swaps_to_group_all_1s_together/sliding_window.py)
 
- -15 [1052. 爱生气的书店老板](https://leetcode-cn.com/problems/grumpy-bookstore-owner/) -[滑动窗口法](https://github.com/bannima/LeetCodeInAction/blob/master/sliding_window/q1052_grumpy_bookstore_owner/sliding_window.py)
+- 15 [1052. 爱生气的书店老板](https://leetcode-cn.com/problems/grumpy-bookstore-owner/) -[滑动窗口法](https://github.com/bannima/LeetCodeInAction/blob/master/sliding_window/q1052_grumpy_bookstore_owner/sliding_window.py)
+
+- 16 [1658. 将 x 减到 0 的最小操作数](https://leetcode-cn.com/problems/minimum-operations-to-reduce-x-to-zero/) -[滑动窗口](https://github.com/bannima/LeetCodeInAction/blob/master/sliding_window/q1658_minimum_operations_to_reduce_x_to_zero/sliding_window.py)
 
 
 ### [哈希相关](https://github.com/bannima/LeetCodeInAction/tree/master/hash)
