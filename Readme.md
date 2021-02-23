@@ -175,6 +175,10 @@
 
 - 3 [剑指 Offer 53 - I. 在排序数组中查找数字 I](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/) -[二分查找](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/%E5%89%91%E6%8C%87%20Offer%2053%20-%20I%20%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE%E6%95%B0%E5%AD%97%20I/binary_search.py) -*参考题解：[面试题53 - I. 在排序数组中查找数字 I（二分法，清晰图解）](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/solution/mian-shi-ti-53-i-zai-pai-xu-shu-zu-zhong-cha-zha-5/)
 
+- 4 [1150. 检查一个数是否在数组中占绝大多数](https://leetcode-cn.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/) -[二分查找](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/q1150_check_if_a_number_is_majority_element_in_a_sorted_array/binary_search.py)
+
+
+
 ### [树相关](https://github.com/bannima/LeetCodeInAction/tree/master/others)
 
 - 1 [q144二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/tree/q144_binary_tree_preorder_traversal/solution.py)
