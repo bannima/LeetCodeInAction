@@ -186,7 +186,7 @@
 
 - 5 [704. 二分查找](https://leetcode-cn.com/problems/binary-search/) -[二分查找](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/q704_binary_search/binary.py) -参考题解：[二分查找](https://leetcode-cn.com/problems/binary-search/solution/er-fen-cha-zhao-by-leetcode/)
 
-- 6 [540. 有序数组中的单一元素]() -[异或法]() -[]()
+- 6 [540. 有序数组中的单一元素](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/) -[异或法](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/q540_single_element_in_a_sorted_array/xor.py) -[二分查找法](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/q540_single_element_in_a_sorted_array/binary_search.py)
 
 
 
