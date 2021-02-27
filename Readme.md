@@ -102,6 +102,9 @@
 
 - 16 [1658. 将 x 减到 0 的最小操作数](https://leetcode-cn.com/problems/minimum-operations-to-reduce-x-to-zero/) -[滑动窗口](https://github.com/bannima/LeetCodeInAction/blob/master/sliding_window/q1658_minimum_operations_to_reduce_x_to_zero/sliding_window.py)
 
+- 17 [395. 至少有 K 个重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/) -[暴力法+Counter](https://github.com/bannima/LeetCodeInAction/blob/master/sliding_window/q395_longest_substring_with_at_least_k_repeating_characters/bruce.py) -[滑动窗口超时](https://github.com/bannima/LeetCodeInAction/blob/master/sliding_window/q395_longest_substring_with_at_least_k_repeating_characters/sliding_window_out_of_tmie.py) -[滑动窗口法](https://github.com/bannima/LeetCodeInAction/blob/master/sliding_window/q395_longest_substring_with_at_least_k_repeating_characters/sliding_window.py) -[分治法](https://github.com/bannima/LeetCodeInAction/blob/master/sliding_window/q395_longest_substring_with_at_least_k_repeating_characters/divided.py) -参考题解：[至少有K个重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/solution/zhi-shao-you-kge-zhong-fu-zi-fu-de-zui-c-o6ww/)
+
+
 
 ### [哈希相关](https://github.com/bannima/LeetCodeInAction/tree/master/hash)
 
@@ -182,6 +185,9 @@
 - 4 [1150. 检查一个数是否在数组中占绝大多数](https://leetcode-cn.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/) -[二分查找](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/q1150_check_if_a_number_is_majority_element_in_a_sorted_array/binary_search.py)
 
 - 5 [704. 二分查找](https://leetcode-cn.com/problems/binary-search/) -[二分查找](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/q704_binary_search/binary.py) -参考题解：[二分查找](https://leetcode-cn.com/problems/binary-search/solution/er-fen-cha-zhao-by-leetcode/)
+
+- 6 [540. 有序数组中的单一元素]() -[异或法]() -[]()
+
 
 
 ### [树相关](https://github.com/bannima/LeetCodeInAction/tree/master/others)
