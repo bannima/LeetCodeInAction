@@ -68,6 +68,7 @@
 - 7 [q90子集 II](https://leetcode-cn.com/problems/subsets-ii/) -[从下往山回溯](https://github.com/bannima/LeetCodeInAction/blob/master/backtracking/q90_subsets_ii/solution.py)
 
 
+
 ### [滑动窗口](https://leetcode-cn.com/problems/move-zeroes/) 
 
 - 1 [q283 移动零](https://leetcode-cn.com/problems/move-zeroes/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/sliding_window/q283_move_zeroes/solution.py)
@@ -105,6 +106,7 @@
 - 17 [395. 至少有 K 个重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/) -[暴力法+Counter](https://github.com/bannima/LeetCodeInAction/blob/master/sliding_window/q395_longest_substring_with_at_least_k_repeating_characters/bruce.py) -[滑动窗口超时](https://github.com/bannima/LeetCodeInAction/blob/master/sliding_window/q395_longest_substring_with_at_least_k_repeating_characters/sliding_window_out_of_tmie.py) -[滑动窗口法](https://github.com/bannima/LeetCodeInAction/blob/master/sliding_window/q395_longest_substring_with_at_least_k_repeating_characters/sliding_window.py) -[分治法](https://github.com/bannima/LeetCodeInAction/blob/master/sliding_window/q395_longest_substring_with_at_least_k_repeating_characters/divided.py) -参考题解：[至少有K个重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/solution/zhi-shao-you-kge-zhong-fu-zi-fu-de-zui-c-o6ww/)
 
 - 18 *[718. 最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/) -[动态规划法]() -[滑动窗口法]() -[二分查找法]()
+
 
 
 ### [哈希相关](https://github.com/bannima/LeetCodeInAction/tree/master/hash)
@@ -321,6 +323,7 @@
 
 - 8 [q856. 括号的分数](https://leetcode-cn.com/problems/score-of-parentheses/) -[丑陋的写法](https://github.com/bannima/LeetCodeInAction/blob/master/stack/q856_score_of_parentheses/solution.py  )
 
+- 9 [q232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/stack/q232_implement_queue_using_stacks/solution.py)
 
 
 ### [队列](https://github.com/bannima/LeetCodeInAction/tree/master/queue_related)
