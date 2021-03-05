@@ -119,8 +119,11 @@
 
 - 4 [q290单词规律](https://leetcode-cn.com/problems/word-pattern/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/hash/q290_word_pattern/solution.py)
 
-- 5 [560. 和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/) -[hash+前缀和](https://github.com/bannima/LeetCodeInAction/blob/master/hash/q560_subarray_sum_equals_k/hash_pre_sum.py)
+- 5 [q560. 和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/) -[hash+前缀和](https://github.com/bannima/LeetCodeInAction/blob/master/hash/q560_subarray_sum_equals_k/hash_pre_sum.py)
 
+- 6 [q523. 连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum/) -[hash+前缀和](https://github.com/bannima/LeetCodeInAction/blob/master/hash/q523_continuous_subarray_sum/hash_presum.py)
+
+- 7 [q974. 和可被 K 整除的子数组](https://leetcode-cn.com/problems/subarray-sums-divisible-by-k/) -[hash+前缀和](https://github.com/bannima/LeetCodeInAction/blob/master/hash/q974_subarray_sums_divisible_by_k/hash_presum.py)
 
 ### [二叉搜索树](https://github.com/bannima/LeetCodeInAction/tree/master/binary_search_tree)
 
