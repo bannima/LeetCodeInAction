@@ -119,6 +119,7 @@
 
 - 4 [q290单词规律](https://leetcode-cn.com/problems/word-pattern/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/hash/q290_word_pattern/solution.py)
 
+- 5 [560. 和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/) -[hash+前缀和](https://github.com/bannima/LeetCodeInAction/blob/master/hash/q560_subarray_sum_equals_k/hash_pre_sum.py)
 
 
 ### [二叉搜索树](https://github.com/bannima/LeetCodeInAction/tree/master/binary_search_tree)
@@ -324,6 +325,7 @@
 - 8 [q856. 括号的分数](https://leetcode-cn.com/problems/score-of-parentheses/) -[丑陋的写法](https://github.com/bannima/LeetCodeInAction/blob/master/stack/q856_score_of_parentheses/solution.py  )
 
 - 9 [q232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/stack/q232_implement_queue_using_stacks/solution.py)
+
 
 
 ### [队列](https://github.com/bannima/LeetCodeInAction/tree/master/queue_related)
