@@ -67,6 +67,7 @@
 
 - 7 [q90子集 II](https://leetcode-cn.com/problems/subsets-ii/) -[从下往山回溯](https://github.com/bannima/LeetCodeInAction/blob/master/backtracking/q90_subsets_ii/solution.py)
 
+- 8 [q131. 分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning/) -[回溯法](https://github.com/bannima/LeetCodeInAction/blob/master/backtracking/q131_palindrome_partitioning/backtrace.py)
 
 
 ### [滑动窗口](https://leetcode-cn.com/problems/move-zeroes/) 
@@ -124,6 +125,8 @@
 - 6 [q523. 连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum/) -[hash+前缀和](https://github.com/bannima/LeetCodeInAction/blob/master/hash/q523_continuous_subarray_sum/hash_presum.py)
 
 - 7 [q974. 和可被 K 整除的子数组](https://leetcode-cn.com/problems/subarray-sums-divisible-by-k/) -[hash+前缀和](https://github.com/bannima/LeetCodeInAction/blob/master/hash/q974_subarray_sums_divisible_by_k/hash_presum.py)
+
+
 
 ### [二叉搜索树](https://github.com/bannima/LeetCodeInAction/tree/master/binary_search_tree)
 
