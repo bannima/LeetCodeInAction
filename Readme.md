@@ -336,6 +336,9 @@
 
 - 10 [q503. 下一个更大元素 II](https://leetcode-cn.com/problems/next-greater-element-ii/) -[单调栈法](https://github.com/bannima/LeetCodeInAction/blob/master/stack/q503_next_greater_element_ii/monotonous_stack.py)
 
+- 11 [q496. 下一个更大元素 I](https://leetcfode-cn.com/problems/next-greater-element-i/) -[单调栈法](https://github.com/bannima/LeetCodeInAction/blob/master/stack/q496_next_greater_element_i/monotonous_stack.py)
+
+
 
 ### [队列](https://github.com/bannima/LeetCodeInAction/tree/master/queue_related)
 
