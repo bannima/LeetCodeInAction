@@ -334,6 +334,7 @@
 
 - 9 [q232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/stack/q232_implement_queue_using_stacks/solution.py)
 
+- 10 [q503. 下一个更大元素 II](https://leetcode-cn.com/problems/next-greater-element-ii/) -[单调栈法](https://github.com/bannima/LeetCodeInAction/blob/master/stack/q503_next_greater_element_ii/monotonous_stack.py)
 
 
 ### [队列](https://github.com/bannima/LeetCodeInAction/tree/master/queue_related)
