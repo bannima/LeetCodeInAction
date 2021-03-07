@@ -49,6 +49,7 @@
 
 - 22 [q198打家劫舍](https://leetcode-cn.com/problems/house-robber/) -[dp法](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q198_house_robber/dp.py)
 
+- 23 [q132. 分割回文串 II](https://leetcode-cn.com/problems/palindrome-partitioning-ii/) -[双动态规划法](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q132_palindrome_partitioning_ii/dp.py)
 
 
 ### [回溯](https://github.com/bannima/LeetCodeInAction/tree/master/backtracking)
@@ -68,6 +69,7 @@
 - 7 [q90子集 II](https://leetcode-cn.com/problems/subsets-ii/) -[从下往山回溯](https://github.com/bannima/LeetCodeInAction/blob/master/backtracking/q90_subsets_ii/solution.py)
 
 - 8 [q131. 分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning/) -[回溯法](https://github.com/bannima/LeetCodeInAction/blob/master/backtracking/q131_palindrome_partitioning/backtrace.py)
+
 
 
 ### [滑动窗口](https://leetcode-cn.com/problems/move-zeroes/) 
