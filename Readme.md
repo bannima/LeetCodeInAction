@@ -51,6 +51,10 @@
 
 - 23 [q132. 分割回文串 II](https://leetcode-cn.com/problems/palindrome-partitioning-ii/) -[双动态规划法](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q132_palindrome_partitioning_ii/dp.py)
 
+- 24 [q494. 目标和](https://leetcode-cn.com/problems/target-sum/) -[dp法](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q494_target_sum/dp.py)
+
+
+
 
 ### [回溯](https://github.com/bannima/LeetCodeInAction/tree/master/backtracking)
  
