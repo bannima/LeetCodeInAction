@@ -342,6 +342,8 @@
 
 - 11 [q496. 下一个更大元素 I](https://leetcfode-cn.com/problems/next-greater-element-i/) -[单调栈法](https://github.com/bannima/LeetCodeInAction/blob/master/stack/q496_next_greater_element_i/monotonous_stack.py)
 
+- 12 [q1019. 链表中的下一个更大节点](https://leetcode-cn.com/problems/next-greater-node-in-linked-list/) -[单调栈](https://github.com/bannima/LeetCodeInAction/blob/master/stack/q1190_reverse_substrings_between_each_pair_of_parentheses/solution.py)
+
 
 
 ### [队列](https://github.com/bannima/LeetCodeInAction/tree/master/queue_related)
