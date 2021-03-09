@@ -76,6 +76,8 @@
 
 
 
+
+
 ### [滑动窗口](https://leetcode-cn.com/problems/move-zeroes/) 
 
 - 1 [q283 移动零](https://leetcode-cn.com/problems/move-zeroes/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/sliding_window/q283_move_zeroes/solution.py)
@@ -343,6 +345,8 @@
 - 11 [q496. 下一个更大元素 I](https://leetcfode-cn.com/problems/next-greater-element-i/) -[单调栈法](https://github.com/bannima/LeetCodeInAction/blob/master/stack/q496_next_greater_element_i/monotonous_stack.py)
 
 - 12 [q1019. 链表中的下一个更大节点](https://leetcode-cn.com/problems/next-greater-node-in-linked-list/) -[单调栈](https://github.com/bannima/LeetCodeInAction/blob/master/stack/q1190_reverse_substrings_between_each_pair_of_parentheses/solution.py)
+
+- 13 [q1047. 删除字符串中的所有相邻重复项](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/) -[栈](https://github.com/bannima/LeetCodeInAction/blob/master/stack/q1047_remove_all_adjacent_duplicates_in_string/stack.py)
 
 
 
