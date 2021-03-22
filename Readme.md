@@ -76,6 +76,7 @@
 
 - 9 [q77. 组合](https://leetcode-cn.com/problems/combinations/) -[带起点来剪枝的回溯法](https://github.com/bannima/LeetCodeInAction/blob/master/backtracking/q77_combinations/backtrace.py)
 
+- 10 [q93. 复原 IP 地址](https://leetcode-cn.com/problems/restore-ip-addresses/) -[回溯法](https://github.com/bannima/LeetCodeInAction/blob/master/backtracking/q93_restore_ip_addresses/backtrace.py)
 
 
 
