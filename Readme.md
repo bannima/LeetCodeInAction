@@ -136,6 +136,7 @@
 
 
 
+
 ### [二叉搜索树](https://github.com/bannima/LeetCodeInAction/tree/master/binary_search_tree)
 
 - 1 [q450删除二叉搜索树中的节点](https://leetcode-cn.com/problems/delete-node-in-a-bst/) -[递归法](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search_tree/q450_delete_node_in_a_bst/solution.py)
@@ -143,6 +144,7 @@
 - 2 [q701二叉搜索树中的插入操作](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search_tree/q701_insert_into_a_binary_search_tree/solution.py)
 
 - 3 [q98验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search_tree/q98_validate_binary_search_tree/solution.py)
+
 
 
 
@@ -279,6 +281,9 @@
 - 10 [剑指 Offer 03. 数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/math_related/%E5%89%91%E6%8C%87%20Offer%2003%20%E6%95%B0%E7%BB%84%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0%E5%AD%97/solution.py)
 
 - 11 [剑指 Offer 14- I. 剪绳子](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/) -[投机取巧归纳法](https://github.com/bannima/LeetCodeInAction/blob/master/math_related/%E5%89%91%E6%8C%87%20Offer%2014-%20I%20%E5%89%AA%E7%BB%B3%E5%AD%90/solution.py) -参考：[计算法](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/solution/ji-suan-fa-by-jason-2/)
+
+- 12 [q191. 位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/) -[位运算+O（n）](https://github.com/bannima/LeetCodeInAction/blob/master/math_related/q191_number_of_1_bits/solution.py) - [位运算+O（logn）](https://github.com/bannima/LeetCodeInAction/blob/master/math_related/q191_number_of_1_bits/logn.py) - 参考题解*[【负雪明烛】详解位运算，附本题躲坑指南](https://leetcode-cn.com/problems/number-of-1-bits/solution/fu-xue-ming-zhu-xiang-jie-wei-yun-suan-f-ci7i/)
+
 
 
 ### [快慢指针](https://github.com/bannima/LeetCodeInAction/blob/master/fast_slow_pointers)
