@@ -64,7 +64,7 @@
 
 - 3 [q47全排列II](https://leetcode-cn.com/problems/permutations-ii/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/backtracking/q47_permutations_ii/solution.py)
 
-- 4 [q40组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/backtracking/q40_combination_sum_ii/solution.py)
+- 4 *[q40组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/backtracking/q40_combination_sum_ii/solution.py)
 
 - 5 [216. 组合总和 III](https://leetcode-cn.com/problems/combination-sum-iii/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/backtracking/q216_combination_sum_iii/solution.py)
 
