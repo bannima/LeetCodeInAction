@@ -58,7 +58,7 @@
 
 ### [回溯](https://github.com/bannima/LeetCodeInAction/tree/master/backtracking)
  
-- 1 [q39组合总和](https://leetcode-cn.com/problems/combination-sum/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/backtracking/q39_combination_sum/solution.py) -参考：[97%速度，很简明的思路](https://leetcode-cn.com/problems/combination-sum/solution/97su-du-hen-jian-ming-de-si-lu-by-darkwhite/)
+- 1 [q39组合总和](https://leetcode-cn.com/problems/combination-sum/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/backtracking/q39_combination_sum/solution.py) -[带起点的查找，避免重复解](https://github.com/bannima/LeetCodeInAction/blob/master/backtracking/q39_combination_sum/solution2.py) -参考：[97%速度，很简明的思路](https://leetcode-cn.com/problems/combination-sum/solution/97su-du-hen-jian-ming-de-si-lu-by-darkwhite/)
 
 - 2 [q46全排列](https://leetcode-cn.com/problems/permutations/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/backtracking/q46_permutations/solution.py) -参考：[回溯算法入门级详解 + 练习（持续更新）](https://leetcode-cn.com/problems/permutations/solution/hui-su-suan-fa-python-dai-ma-java-dai-ma-by-liweiw/)
 
@@ -74,6 +74,7 @@
 
 - 8 [q131. 分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning/) -[回溯法](https://github.com/bannima/LeetCodeInAction/blob/master/backtracking/q131_palindrome_partitioning/backtrace.py)
 
+- 9 [q77. 组合](https://leetcode-cn.com/problems/combinations/) -[带起点来剪枝的回溯法](https://github.com/bannima/LeetCodeInAction/blob/master/backtracking/q77_combinations/backtrace.py)
 
 
 
