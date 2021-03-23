@@ -80,6 +80,7 @@
 
 
 
+
 ### [滑动窗口](https://leetcode-cn.com/problems/move-zeroes/) 
 
 - 1 [q283 移动零](https://leetcode-cn.com/problems/move-zeroes/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/sliding_window/q283_move_zeroes/solution.py)
@@ -138,7 +139,6 @@
 
 
 
-
 ### [二叉搜索树](https://github.com/bannima/LeetCodeInAction/tree/master/binary_search_tree)
 
 - 1 [q450删除二叉搜索树中的节点](https://leetcode-cn.com/problems/delete-node-in-a-bst/) -[递归法](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search_tree/q450_delete_node_in_a_bst/solution.py)
@@ -146,6 +146,7 @@
 - 2 [q701二叉搜索树中的插入操作](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search_tree/q701_insert_into_a_binary_search_tree/solution.py)
 
 - 3 [q98验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search_tree/q98_validate_binary_search_tree/solution.py)
+
 
 
 
@@ -188,11 +189,13 @@
 
 
 
+
 ### [贪心算法](https://github.com/bannima/LeetCodeInAction/tree/master/greedy)
 
 - 1 [q1024视频拼接](https://leetcode-cn.com/problems/video-stitching/)  -[贪心法](https://github.com/bannima/LeetCodeInAction/blob/master/greedy/q1024_video_stitching/greedy.py)  -[DP法](https://github.com/bannima/LeetCodeInAction/blob/master/greedy/q1024_video_stitching/dp.py)
 
 - 2 [q861翻转矩阵后的得分](https://leetcode-cn.com/problems/score-after-flipping-matrix/) -[贪心解法](https://github.com/bannima/LeetCodeInAction/blob/master/greedy/q861_score_after_flipping_matrix/solution.py)
+
 
 
 
@@ -395,4 +398,10 @@
 - 15 [q621任务调度器](https://leetcode-cn.com/problems/task-scheduler/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/others/q621_task_scheduler/solution.py) -参考题解*:[【任务调度器】C++ 桶子_配图理解](https://leetcode-cn.com/problems/task-scheduler/solution/tong-zi-by-popopop/)
 
 - 16 [q49 字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/others/q49_group_anagrams/solution.py)
+
+- 17 [q341. 扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator/) -[初始化时dfs](https://github.com/bannima/LeetCodeInAction/blob/master/others/q341_flatten_nested_list_iterator/solution.py) -[next时dfs](https://github.com/bannima/LeetCodeInAction/blob/master/others/q341_flatten_nested_list_iterator/solution2.py) -参考题解：[【负雪明烛】详解题意，梳理递归和迭代两种思路](https://leetcode-cn.com/problems/flatten-nested-list-iterator/solution/fu-xue-ming-zhu-xiang-jie-ti-yi-shu-li-d-n4qa/)
+
+
+
+
 
