@@ -80,6 +80,12 @@
 
 - 11 [q17. 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) -[回溯法](https://github.com/bannima/LeetCodeInAction/blob/master/backtracking/q17_letter_combinations_of_a_phone_numbe/backtrace.py)
 
+- 12 [q784. 字母大小写全排列](https://leetcode-cn.com/problems/letter-case-permutation/) -[回溯法](https://github.com/bannima/LeetCodeInAction/blob/master/backtracking/q784_letter_case_permutation/solution.py)
+
+- 13 [q22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/) -[回溯法](https://github.com/bannima/LeetCodeInAction/blob/master/backtracking/q22_generate_parentheses/solution.py)
+
+
+
 
 ### [滑动窗口](https://leetcode-cn.com/problems/move-zeroes/) 
 
