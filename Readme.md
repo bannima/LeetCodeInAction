@@ -348,7 +348,7 @@
 
 - 5 [q394字符串解码](https://leetcode-cn.com/problems/decode-string/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/stack/q394_decode_string/solution.py)
 
-- 6 [q456 132模式](https://leetcode-cn.com/problems/132-pattern/) -[暴力法](https://github.com/bannima/LeetCodeInAction/blob/master/stack/q456_132_pattern/solution.py) -[stack]()
+- 6 [q456 132模式](https://leetcode-cn.com/problems/132-pattern/) -[暴力法](https://github.com/bannima/LeetCodeInAction/blob/master/stack/q456_132_pattern/solution.py) -[单调栈](https://github.com/bannima/LeetCodeInAction/blob/master/stack/q456_132_pattern/solution.py )
 
 - 7 [q1190反转每对括号间的子串](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/stack/q1190_reverse_substrings_between_each_pair_of_parentheses/solution.py)
 
