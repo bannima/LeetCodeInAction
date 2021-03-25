@@ -10,7 +10,7 @@ Version: 0.1
 
 
 class Solution:
-    def removeElement(self, nums: List[int], val: int) -> int:
+    def removeElement(self, nums, val):
         i = 0
         j = 0
         while (j < len(nums)):
@@ -20,3 +20,6 @@ class Solution:
             j += 1
         return i
 
+if __name__ =='__main__':
+    res = Solution().removeElement([0,1,2,2,3,0,4,2],2)
+    assert res==5
