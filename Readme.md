@@ -11,7 +11,7 @@
 
 - 3 [q53最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) - [动态规划法](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q53_maxSubArray/DP_Solution.py) - [贪心算法](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q53_maxSubArray/Greedy_Solution.py) 参考：[最大子序和](https://leetcode-cn.com/problems/maximum-subarray/solution/zui-da-zi-xu-he-by-leetcode-solution/)
 
-- 4 [q300最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/) -[动态规划法](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q300_longestIncreasingSubsequence/dp_solution.py) 参考:[最长上升子序列（动态规划 + 二分查找，清晰图解）](https://leetcode-cn.com/problems/longest-increasing-subsequence/solution/zui-chang-shang-sheng-zi-xu-lie-dong-tai-gui-hua-2/)
+- 4 *[q300最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/) -[动态规划法](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q300_longestIncreasingSubsequence/dp_solution.py) 参考:[最长上升子序列（动态规划 + 二分查找，清晰图解）](https://leetcode-cn.com/problems/longest-increasing-subsequence/solution/zui-chang-shang-sheng-zi-xu-lie-dong-tai-gui-hua-2/)
 
 - 5 [q120三角形最小路径和](https://leetcode-cn.com/problems/triangle/) -[动态规划法](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q120_triangle/dp_solution.py)
 
@@ -68,9 +68,9 @@
 
 - 5 [216. 组合总和 III](https://leetcode-cn.com/problems/combination-sum-iii/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/backtracking/q216_combination_sum_iii/solution.py)
 
-- 6 [q78子集](https://leetcode-cn.com/problems/subsets/) -[从下往上回溯](https://github.com/bannima/LeetCodeInAction/blob/master/backtracking/q78_subsets/solution.py) -参考题解：[回溯算法](https://leetcode-cn.com/problems/subsets/solution/hui-su-suan-fa-by-powcai-5/)
+- 6 *[q78子集](https://leetcode-cn.com/problems/subsets/) -[从下往上回溯](https://github.com/bannima/LeetCodeInAction/blob/master/backtracking/q78_subsets/solution.py) -参考题解：[回溯算法](https://leetcode-cn.com/problems/subsets/solution/hui-su-suan-fa-by-powcai-5/)
 
-- 7 [q90子集 II](https://leetcode-cn.com/problems/subsets-ii/) -[从下往山回溯](https://github.com/bannima/LeetCodeInAction/blob/master/backtracking/q90_subsets_ii/solution.py)
+- 7 *[q90子集 II](https://leetcode-cn.com/problems/subsets-ii/) -[从下往山回溯](https://github.com/bannima/LeetCodeInAction/blob/master/backtracking/q90_subsets_ii/solution.py)
 
 - 8 [q131. 分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning/) -[回溯法](https://github.com/bannima/LeetCodeInAction/blob/master/backtracking/q131_palindrome_partitioning/backtrace.py)
 
@@ -127,6 +127,7 @@
 
 
 
+
 ### [哈希相关](https://github.com/bannima/LeetCodeInAction/tree/master/hash)
 
 - 1 [q1两数之和](https://leetcode-cn.com/problems/two-sum/)  -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/hash/q1_twoSum/solution.py)
@@ -137,7 +138,7 @@
 
 - 4 [q290单词规律](https://leetcode-cn.com/problems/word-pattern/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/hash/q290_word_pattern/solution.py)
 
-- 5 [q560. 和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/) -[hash+前缀和](https://github.com/bannima/LeetCodeInAction/blob/master/hash/q560_subarray_sum_equals_k/hash_pre_sum.py)
+- 5 *[q560. 和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/) -[hash+前缀和](https://github.com/bannima/LeetCodeInAction/blob/master/hash/q560_subarray_sum_equals_k/hash_pre_sum.py)
 
 - 6 [q523. 连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum/) -[hash+前缀和](https://github.com/bannima/LeetCodeInAction/blob/master/hash/q523_continuous_subarray_sum/hash_presum.py)
 
@@ -295,6 +296,7 @@
 
 - 12 [q191. 位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/) -[位运算+O（n）](https://github.com/bannima/LeetCodeInAction/blob/master/math_related/q191_number_of_1_bits/solution.py) - [位运算+O（logn）](https://github.com/bannima/LeetCodeInAction/blob/master/math_related/q191_number_of_1_bits/logn.py) - 参考题解*[【负雪明烛】详解位运算，附本题躲坑指南](https://leetcode-cn.com/problems/number-of-1-bits/solution/fu-xue-ming-zhu-xiang-jie-wei-yun-suan-f-ci7i/)
 
+- 13 [q263. 丑数](https://leetcode-cn.com/problems/ugly-number/) -[solution](https://github.com/bannima/LeetCodeInAction/blob/master/math_related/q263_ugly_number/solution.py)
 
 
 ### [快慢指针](https://github.com/bannima/LeetCodeInAction/blob/master/fast_slow_pointers)
