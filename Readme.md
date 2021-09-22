@@ -366,7 +366,7 @@
 
 - 13 [q1047. 删除字符串中的所有相邻重复项](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/) -[栈](https://github.com/bannima/LeetCodeInAction/blob/master/stack/q1047_remove_all_adjacent_duplicates_in_string/stack.py)
 
-
+- 14 [q725. 分隔链表](https://leetcode-cn.com/problems/split-linked-list-in-parts/) - [solution](https://github.com/bannima/LeetCodeInAction/blob/master/linkedlist/q725_split-linked-list-in-parts/solution.py)
 
 ### [队列](https://github.com/bannima/LeetCodeInAction/tree/master/queue_related)
 
