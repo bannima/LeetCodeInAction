@@ -268,6 +268,7 @@
 
 - 20 [q617合并两个二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/tree/q617_merge_two_binary_trees/solution.py)
 
+- 21 [q583. 两个字符串的删除操作](https://leetcode-cn.com/problems/delete-operation-for-two-strings/) - [dp](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q583_delete-operation-for-two-strings/solution.py)
 
 
 ### [数学相关](https://github.com/bannima/LeetCodeInAction/tree/master/math_related)
