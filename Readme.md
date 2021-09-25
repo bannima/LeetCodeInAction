@@ -332,6 +332,9 @@
 
 - 7 [q2两数之和](https://leetcode-cn.com/problems/add-two-numbers/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/linkedlist/q2_add_two_numbers/solution.py)
 
+- 8 [q430. 扁平化多级双向链表](https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/) -[先序遍历](https://github.com/bannima/LeetCodeInAction/blob/master/linkedlist/q430_flatten-a-multilevel-doubly-linked-list/solution.py)
+
+
 ### [堆](https://github.com/bannima/LeetCodeInAction/tree/master/heap)
 
 - 1 [q973最接近原点的 K 个点](https://leetcode-cn.com/problems/k-closest-points-to-origin/) -[暴力解法](https://github.com/bannima/LeetCodeInAction/blob/master/heap/q973_k_closest_points_to_origin/solution.py)
