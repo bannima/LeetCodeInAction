@@ -299,6 +299,8 @@
 
 - 13 [q263. 丑数](https://leetcode-cn.com/problems/ugly-number/) -[solution](https://github.com/bannima/LeetCodeInAction/blob/master/math_related/q263_ugly_number/solution.py)
 
+- 14 [292. Nim 游戏](https://leetcode-cn.com/problems/nim-game/) -[solution](https://github.com/bannima/LeetCodeInAction/blob/master/math_related/q292_nim-game/math.py)
+
 
 ### [快慢指针](https://github.com/bannima/LeetCodeInAction/blob/master/fast_slow_pointers)
 
