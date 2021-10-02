@@ -144,6 +144,7 @@
 
 - 7 [q974. 和可被 K 整除的子数组](https://leetcode-cn.com/problems/subarray-sums-divisible-by-k/) -[hash+前缀和](https://github.com/bannima/LeetCodeInAction/blob/master/hash/q974_subarray_sums_divisible_by_k/hash_presum.py)
 
+- 8 [面试题 10.02. 变位词组](https://leetcode-cn.com/problems/group-anagrams-lcci/) -[solution](https://github.com/bannima/LeetCodeInAction/blob/master/hash/%E9%9D%A2%E8%AF%95%E9%A2%98%201002%E5%8F%98%E4%BD%8D%E8%AF%8D%E7%BB%84/solution.py)
 
 
 ### [二叉搜索树](https://github.com/bannima/LeetCodeInAction/tree/master/binary_search_tree)
