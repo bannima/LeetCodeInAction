@@ -204,7 +204,7 @@
 
 - 2 [q861翻转矩阵后的得分](https://leetcode-cn.com/problems/score-after-flipping-matrix/) -[贪心解法](https://github.com/bannima/LeetCodeInAction/blob/master/greedy/q861_score_after_flipping_matrix/solution.py)
 
-
+- 3 [q1717.删除子字符串的最大得分](https://leetcode-cn.com/problems/maximum-score-from-removing-substrings/) -[贪心解法](https://github.com/bannima/LeetCodeInAction/blob/master/greedy/q1717_maximum-score-from-removing-substrings/greedy.py)
 
 
 ### [二分查找](https://github.com/bannima/LeetCodeInAction/tree/master/binary_search)
