@@ -302,7 +302,7 @@
 
 - 14 [292. Nim 游戏](https://leetcode-cn.com/problems/nim-game/) -[solution](https://github.com/bannima/LeetCodeInAction/blob/master/math_related/q292_nim-game/math.py)
 
-- 15 [553. 最优除法](https://leetcode-cn.com/problems/optimal-division/) -[solution]()
+- 15 [553. 最优除法](https://leetcode-cn.com/problems/optimal-division/) -[solution](https://github.com/bannima/LeetCodeInAction/blob/master/math_related/q553_optimal-division/solution.py)
 
 ### [快慢指针](https://github.com/bannima/LeetCodeInAction/blob/master/fast_slow_pointers)
 
@@ -387,8 +387,7 @@
 
 ### [采样](https://github.com/bannima/LeetCodeInAction/tree/master/sampling)
 
-- 1 [382. 链表随机节点](https://leetcode-cn.com/problems/linked-list-random-node/) -[蓄水池解法]() 
-
+- 1 [382. 链表随机节点](https://leetcode-cn.com/problems/linked-list-random-node/) -[蓄水池解法](https://github.com/bannima/LeetCodeInAction/blob/master/sampling/q382_linked-list-random-node/solution.py) 
 
 
 ### [其他](https://github.com/bannima/LeetCodeInAction/tree/master/others)
