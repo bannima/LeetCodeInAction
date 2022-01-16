@@ -302,6 +302,7 @@
 
 - 14 [292. Nim 游戏](https://leetcode-cn.com/problems/nim-game/) -[solution](https://github.com/bannima/LeetCodeInAction/blob/master/math_related/q292_nim-game/math.py)
 
+- 15 [553. 最优除法](https://leetcode-cn.com/problems/optimal-division/) -[solution]()
 
 ### [快慢指针](https://github.com/bannima/LeetCodeInAction/blob/master/fast_slow_pointers)
 
@@ -382,6 +383,11 @@
 ### [位运算](https://github.com/bannima/LeetCodeInAction/tree/master/bit_operation)
 
 - 1 [405. 数字转换为十六进制数](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/bit_operation/405_convert-a-number-to-hexadecimal/solution.py) 
+
+
+### [采样](https://github.com/bannima/LeetCodeInAction/tree/master/sampling)
+
+- 1 [382. 链表随机节点](https://leetcode-cn.com/problems/linked-list-random-node/) -[蓄水池解法]() 
 
 
 
