@@ -304,6 +304,8 @@
 
 - 15 [553. 最优除法](https://leetcode-cn.com/problems/optimal-division/) -[solution](https://github.com/bannima/LeetCodeInAction/blob/master/math_related/q553_optimal-division/solution.py)
 
+- 16 [1220. 统计元音字母序列的数目](https://leetcode-cn.com/problems/count-vowels-permutation/) -[solution]()
+
 ### [快慢指针](https://github.com/bannima/LeetCodeInAction/blob/master/fast_slow_pointers)
 
 - 1 [q287寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/) -[题解]() 参考[*前端灵魂画师🎨图解快慢指针](https://leetcode-cn.com/problems/find-the-duplicate-number/solution/qian-duan-ling-hun-hua-shi-tu-jie-kuai-man-zhi-z-3/)
