@@ -304,7 +304,7 @@
 
 - 15 [553. 最优除法](https://leetcode-cn.com/problems/optimal-division/) -[solution](https://github.com/bannima/LeetCodeInAction/blob/master/math_related/q553_optimal-division/solution.py)
 
-- 16 [1220. 统计元音字母序列的数目](https://leetcode-cn.com/problems/count-vowels-permutation/) -[solution]()
+- 16 [1220. 统计元音字母序列的数目](https://leetcode-cn.com/problems/count-vowels-permutation/) -[solution](https://github.com/bannima/LeetCodeInAction/blob/master/math_related/q1220_count-vowels-permutation/matrix_op.py)
 
 ### [快慢指针](https://github.com/bannima/LeetCodeInAction/blob/master/fast_slow_pointers)
 
