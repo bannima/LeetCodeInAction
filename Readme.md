@@ -402,7 +402,7 @@
 
 - 4 [q1365有多少小于当前数字的数字](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/others/q1365_how_many_numbers_are_smaller_than_the_current_number/solution.py)
 
-- 5 [q539最小时间差](https://leetcode-cn.com/problems/minimum-time-difference/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/others/q539_minimum_time_difference/solution.py)
+- 5 [q539最小时间差](https://leetcode-cn.com/problems/minimum-time-difference/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/others/q539_minimum_time_difference/solution.py) -[桶排序](https://github.com/bannima/LeetCodeInAction/blob/master/others/q539_minimum_time_difference/bucket_sort.py)
 
 - 6 [q1085最小元素各数位之和](https://leetcode-cn.com/problems/sum-of-digits-in-the-minimum-number/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/others/q1085_sum_of_digits_in_the_minimum_number/solution.py)
 
