@@ -146,6 +146,7 @@
 
 - 8 [面试题 10.02. 变位词组](https://leetcode-cn.com/problems/group-anagrams-lcci/) -[solution](https://github.com/bannima/LeetCodeInAction/blob/master/hash/%E9%9D%A2%E8%AF%95%E9%A2%98%201002%E5%8F%98%E4%BD%8D%E8%AF%8D%E7%BB%84/solution.py)
 
+- 9 [2006. 差的绝对值为 K 的数对数目](https://leetcode-cn.com/problems/count-number-of-pairs-with-absolute-difference-k/) -[soultion](https://github.com/bannima/LeetCodeInAction/blob/master/hash/q2006_count-number-of-pairs-with-absolute-difference-k/hash_solution.py)
 
 ### [二叉搜索树](https://github.com/bannima/LeetCodeInAction/tree/master/binary_search_tree)
 
