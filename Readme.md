@@ -306,6 +306,9 @@
 
 - 16 [1220. 统计元音字母序列的数目](https://leetcode-cn.com/problems/count-vowels-permutation/) -[solution](https://github.com/bannima/LeetCodeInAction/blob/master/math_related/q1220_count-vowels-permutation/matrix_op.py)
 
+- 17 [1447. 最简分数](https://leetcode-cn.com/problems/simplified-fractions/) -[solution](https://github.com/bannima/LeetCodeInAction/blob/master/math_related/q1447_simplified-fractions/solution.py)
+
+
 ### [快慢指针](https://github.com/bannima/LeetCodeInAction/blob/master/fast_slow_pointers)
 
 - 1 [q287寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/) -[题解]() 参考[*前端灵魂画师🎨图解快慢指针](https://leetcode-cn.com/problems/find-the-duplicate-number/solution/qian-duan-ling-hun-hua-shi-tu-jie-kuai-man-zhi-z-3/)
