@@ -432,7 +432,7 @@
 
 - 17 [q341. 扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator/) -[初始化时dfs](https://github.com/bannima/LeetCodeInAction/blob/master/others/q341_flatten_nested_list_iterator/solution.py) -[next时dfs](https://github.com/bannima/LeetCodeInAction/blob/master/others/q341_flatten_nested_list_iterator/solution2.py) -参考题解：[【负雪明烛】详解题意，梳理递归和迭代两种思路](https://leetcode-cn.com/problems/flatten-nested-list-iterator/solution/fu-xue-ming-zhu-xiang-jie-ti-yi-shu-li-d-n4qa/)
 
-
+- 18 [q717. 1比特与2比特字符](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters/) -[solution](https://github.com/bannima/LeetCodeInAction/blob/master/others/q717_1-bit-and-2-bit-characters/solution.py)
 
 
 
