@@ -396,6 +396,12 @@
 - 1 [382. 链表随机节点](https://leetcode-cn.com/problems/linked-list-random-node/) -[蓄水池解法](https://github.com/bannima/LeetCodeInAction/blob/master/sampling/q382_linked-list-random-node/solution.py) 
 
 
+### [排序](https://github.com/bannima/LeetCodeInAction/tree/master/sort)
+
+- 1 [969. 煎饼排序](https://leetcode-cn.com/problems/pancake-sorting/) -[bubble sort](https://github.com/bannima/LeetCodeInAction/blob/master/sort/q969_pancake-sorting/bubble_sort.py)
+
+
+
 ### [其他](https://github.com/bannima/LeetCodeInAction/tree/master/others)
 
 - 1 [q485最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones/)  -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/others/q485_max_consecutive_ones/solution.py)
