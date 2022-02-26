@@ -442,5 +442,5 @@
 
 - 18 [q717. 1比特与2比特字符](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters/) -[solution](https://github.com/bannima/LeetCodeInAction/blob/master/others/q717_1-bit-and-2-bit-characters/solution.py)
 
-
+- 19 [q1706. 球会落何处](https://leetcode-cn.com/problems/where-will-the-ball-fall/) -[solution](https://github.com/bannima/LeetCodeInAction/blob/master/others/q1706_where-will-the-ball-fall/solution.py)
 
