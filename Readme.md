@@ -148,6 +148,9 @@
 
 - 9 [2006. 差的绝对值为 K 的数对数目](https://leetcode-cn.com/problems/count-number-of-pairs-with-absolute-difference-k/) -[soultion](https://github.com/bannima/LeetCodeInAction/blob/master/hash/q2006_count-number-of-pairs-with-absolute-difference-k/hash_solution.py)
 
+- 10 [2055. 蜡烛之间的盘子](https://leetcode-cn.com/problems/plates-between-candles/) - [前缀和](https://github.com/bannima/LeetCodeInAction/blob/master/hash/2055_plates-between-candles/pre_sum.py)
+
+
 ### [二叉搜索树](https://github.com/bannima/LeetCodeInAction/tree/master/binary_search_tree)
 
 - 1 [q450删除二叉搜索树中的节点](https://leetcode-cn.com/problems/delete-node-in-a-bst/) -[递归法](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search_tree/q450_delete_node_in_a_bst/solution.py)
