@@ -314,6 +314,7 @@
 
 - 17 [1447. 最简分数](https://leetcode-cn.com/problems/simplified-fractions/) -[solution](https://github.com/bannima/LeetCodeInAction/blob/master/math_related/q1447_simplified-fractions/solution.py)
 
+- 18 [386. 字典序排数](https://leetcode-cn.com/problems/lexicographical-numbers/) -[solution](https://github.com/bannima/LeetCodeInAction/blob/master/math_related/q386_lexicographical-numbers/solution.py)
 
 ### [快慢指针](https://github.com/bannima/LeetCodeInAction/blob/master/fast_slow_pointers)
 
