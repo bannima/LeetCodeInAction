@@ -7,6 +7,7 @@
 
 - 1 [24. 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) -[solution](https://github.com/bannima/LeetCodeInAction/tree/master/recursion/q24_swap-nodes-in-pairs)
 
+- 2 [50. Pow(x, n)](https://leetcode-cn.com/problems/powx-n/) -[solution](https://github.com/bannima/LeetCodeInAction/blob/master/recursion/q50_powx-n/solution.py)
 
 ### [动态规划](https://github.com/bannima/LeetCodeInAction/tree/master/dynamic_program)
 
