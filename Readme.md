@@ -212,6 +212,7 @@
 
 - 17 [q1099. 小于 K 的两数之和](https://leetcode-cn.com/problems/two-sum-less-than-k/) -[暴力枚举法](https://github.com/bannima/LeetCodeInAction/blob/master/two_pointers/q1099_two_sum_less_than_k/force.py) -[双指针法](https://github.com/bannima/LeetCodeInAction/blob/master/two_pointers/q1099_two_sum_less_than_k/two_pointers.py) - 参考题解:[图解「小于 K 的两数之和」](https://leetcode-cn.com/problems/two-sum-less-than-k/solution/tu-jie-xiao-yu-k-de-liang-shu-zhi-he-by-misterbooo/)
 
+- 18 [56. 合并区间](https://leetcode-cn.com/problems/merge-intervals/) - [solution](https://github.com/bannima/LeetCodeInAction/blob/master/two_pointers/q56_merge-intervals/sort_two_pointer.py)
 
 
 
