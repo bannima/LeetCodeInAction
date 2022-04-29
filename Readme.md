@@ -7,6 +7,7 @@
 
 - 1 [417. 太平洋大西洋水流问题](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/) -[dfs](https://github.com/bannima/LeetCodeInAction/blob/master/dfs/q417_pacific-atlantic-water-flow/dfs.py)
 
+- 2 [79. 单词搜索](https://leetcode-cn.com/problems/word-search/) - [dfs](https://github.com/bannima/LeetCodeInAction/blob/master/dfs/q79_word-search/dfs.py)
 
 ### [递归算法](https://github.com/bannima/LeetCodeInAction/tree/master/recursion)
 
@@ -216,7 +217,7 @@
 
 
 
-### [贪心算法](https://github.com/bannima/LeetCodeInAction/tree/master/greedy)
+### [贪心算法](https://github.com/bannima/L强9——/word-search/eetCodeInAction/tree/master/greedy)
 
 - 1 [q1024视频拼接](https://leetcode-cn.com/problems/video-stitching/)  -[贪心法](https://github.com/bannima/LeetCodeInAction/blob/master/greedy/q1024_video_stitching/greedy.py)  -[DP法](https://github.com/bannima/LeetCodeInAction/blob/master/greedy/q1024_video_stitching/dp.py)
 
