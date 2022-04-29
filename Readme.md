@@ -164,6 +164,7 @@
 
 - 10 [2055. 蜡烛之间的盘子](https://leetcode-cn.com/problems/plates-between-candles/) - [前缀和](https://github.com/bannima/LeetCodeInAction/blob/master/hash/2055_plates-between-candles/pre_sum.py)
 
+- 11 [128. 最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/) - [hash](https://github.com/bannima/LeetCodeInAction/blob/master/hash/q128_longest-consecutive-sequence/hash.py)
 
 ### [二叉搜索树](https://github.com/bannima/LeetCodeInAction/tree/master/binary_search_tree)
 
