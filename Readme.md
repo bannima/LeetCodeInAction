@@ -9,6 +9,8 @@
 
 - 2 [79. 单词搜索](https://leetcode-cn.com/problems/word-search/) - [dfs](https://github.com/bannima/LeetCodeInAction/blob/master/dfs/q79_word-search/dfs.py)
 
+- 3 [200. 岛屿数量](https://leetcode-cn.com/problems/number-of-islands/) - [dfs](https://github.com/bannima/LeetCodeInAction/blob/master/dfs/q200_number-of-islands/dfs.py)
+
 ### [递归算法](https://github.com/bannima/LeetCodeInAction/tree/master/recursion)
 
 - 1 [24. 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) -[solution](https://github.com/bannima/LeetCodeInAction/tree/master/recursion/q24_swap-nodes-in-pairs)
@@ -165,6 +167,7 @@
 - 10 [2055. 蜡烛之间的盘子](https://leetcode-cn.com/problems/plates-between-candles/) - [前缀和](https://github.com/bannima/LeetCodeInAction/blob/master/hash/2055_plates-between-candles/pre_sum.py)
 
 - 11 [128. 最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/) - [hash](https://github.com/bannima/LeetCodeInAction/blob/master/hash/q128_longest-consecutive-sequence/hash.py)
+
 
 ### [二叉搜索树](https://github.com/bannima/LeetCodeInAction/tree/master/binary_search_tree)
 
