@@ -292,6 +292,7 @@
 
 - 22 [剑指 Offer II 116 省份数量](https://leetcode-cn.com/problems/bLyHh0/) -[merge](https://github.com/bannima/LeetCodeInAction/blob/45c229e6272720e92120634c5e041246e85abc6e/tree/%E5%89%91%E6%8C%87%20Offer%20II%20116%20%E7%9C%81%E4%BB%BD%E6%95%B0%E9%87%8F/merger.py)
 
+- 23 [105. 从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) - [solution](https://github.com/bannima/LeetCodeInAction/blob/master/tree/q105_construct-binary-tree-from-preorder-and-inorder-traversal/solution.py)
 
 ### [数学相关](https://github.com/bannima/LeetCodeInAction/tree/master/math_related)
 
