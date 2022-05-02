@@ -11,6 +11,12 @@
 
 - [851. 喧闹和富有](https://leetcode-cn.com/problems/loud-and-rich/) - [topological sort + bfs](https://github.com/bannima/LeetCodeInAction/blob/master/topological_sorting/q851_loud-and-rich/topological_sort_bfs.py)
 
+- [2050. 并行课程 III](https://leetcode-cn.com/problems/parallel-courses-iii/) - [topoligical sort + bfs](https://github.com/bannima/LeetCodeInAction/blob/master/topological_sorting/q2050_parallel-courses-iii/topological_sort_hierarchical_traverse.py)
+
+- [2192. 有向无环图中一个节点的所有祖先](https://leetcode-cn.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/) -[topological sort](https://github.com/bannima/LeetCodeInAction/blob/master/topological_sorting/q2192_all-ancestors-of-a-node-in-a-directed-acyclic-graph/topological_sort.py)
+
+- [310. 最小高度树](https://leetcode-cn.com/problems/minimum-height-trees/) -[topological sort](https://github.com/bannima/LeetCodeInAction/blob/master/topological_sorting/q310_minimum-height-trees/topological_sort.py) ref: - [【阿飞算法】图解310. 最小高度树（拓扑排序，多写法）](https://leetcode-cn.com/problems/minimum-height-trees/solution/by-a-fei-8-hm2n/)
+
 
 ### [深度优先遍历](https://github.com/bannima/LeetCodeInAction/tree/master/dfs)
 
