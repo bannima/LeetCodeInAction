@@ -3,6 +3,15 @@
 (Since 2020.10.14)
 
 
+### [拓扑排序](https://github.com/bannima/LeetCodeInAction/tree/master/topological_sorting)
+
+- [207. 课程表](https://leetcode-cn.com/problems/course-schedule/) - [topological sorting + dfs](https://github.com/bannima/LeetCodeInAction/blob/master/topological_sorting/q207_course-schedule/topological_sort_dfs.py) 
+
+- [1462. 课程表 IV](https://leetcode-cn.com/problems/course-schedule-iv/) -[topological sort](https://github.com/bannima/LeetCodeInAction/blob/master/topological_sorting/q1462_course-schedule-iv/topological_sort_bfs.py)
+
+- [851. 喧闹和富有](https://leetcode-cn.com/problems/loud-and-rich/) - [topological sort + bfs](https://github.com/bannima/LeetCodeInAction/blob/master/topological_sorting/q851_loud-and-rich/topological_sort_bfs.py)
+
+
 ### [深度优先遍历](https://github.com/bannima/LeetCodeInAction/tree/master/dfs)
 
 - 1 [417. 太平洋大西洋水流问题](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/) -[dfs](https://github.com/bannima/LeetCodeInAction/blob/master/dfs/q417_pacific-atlantic-water-flow/dfs.py)
@@ -11,6 +20,11 @@
 
 - 3 [200. 岛屿数量](https://leetcode-cn.com/problems/number-of-islands/) - [dfs](https://github.com/bannima/LeetCodeInAction/blob/master/dfs/q200_number-of-islands/dfs.py)
 
+- 4 [112. 路径总和](https://leetcode-cn.com/problems/path-sum/) - [my_dfs](https://github.com/bannima/LeetCodeInAction/blob/master/dfs/q112_path-sum/my_dfs.py) - [dfs](https://github.com/bannima/LeetCodeInAction/blob/master/dfs/q112_path-sum/dfs.py) - [stack](https://github.com/bannima/LeetCodeInAction/blob/master/dfs/q112_path-sum/stack.py) - [queue](https://github.com/bannima/LeetCodeInAction/blob/master/dfs/q112_path-sum/queue.py)
+
+- 5 [1305. 两棵二叉搜索树中的所有元素](https://leetcode-cn.com/problems/all-elements-in-two-binary-search-trees/) -[dfs+merge sort](https://github.com/bannima/LeetCodeInAction/blob/master/dfs/q1305_all-elements-in-two-binary-search-trees/dfs.py)
+
+
 ### [递归算法](https://github.com/bannima/LeetCodeInAction/tree/master/recursion)
 
 - 1 [24. 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) -[solution](https://github.com/bannima/LeetCodeInAction/tree/master/recursion/q24_swap-nodes-in-pairs)
@@ -18,6 +32,7 @@
 - 2 [50. Pow(x, n)](https://leetcode-cn.com/problems/powx-n/) -[solution](https://github.com/bannima/LeetCodeInAction/blob/master/recursion/q50_powx-n/solution.py)
 
 - 3 [203. 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/) - [solution](https://github.com/bannima/LeetCodeInAction/blob/master/recursion/q203_remove-linked-list-elements/solution.py)
+
 
 ### [动态规划](https://github.com/bannima/LeetCodeInAction/tree/master/dynamic_program)
 
