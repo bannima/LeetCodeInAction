@@ -2,20 +2,29 @@
 # LeetCode刷题笔记
 (Since 2020.10.14)
 
+### [并查集](https://github.com/bannima/LeetCodeInAction/tree/master/union_find)
+
+ - 1 [547. 省份数量](https://leetcode-cn.com/problems/number-of-provinces/) - [union_find](https://github.com/bannima/LeetCodeInAction/blob/master/union_find/q547_number-of-provinces/union_find.py)
+
+ - 2 [684. 冗余连接](https://leetcode-cn.com/problems/redundant-connection/) - [union find](https://github.com/bannima/LeetCodeInAction/blob/master/union_find/q684_redundant-connection/union_find.py)
+
+ - 3 [695. 岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/) - [dfs](https://github.com/bannima/LeetCodeInAction/blob/master/union_find/q695_max-area-of-island/dfs.py) - [union find](https://github.com/bannima/LeetCodeInAction/blob/master/union_find/q695_max-area-of-island/union_find.py)
+
+ - 4 [721. 账户合并](https://leetcode-cn.com/problems/accounts-merge/)  - [union find](https://github.com/bannima/LeetCodeInAction/blob/master/union_find/q721_accounts-merge/union_find.py)
 
 ### [拓扑排序](https://github.com/bannima/LeetCodeInAction/tree/master/topological_sorting)
 
-- [207. 课程表](https://leetcode-cn.com/problems/course-schedule/) - [topological sorting + dfs](https://github.com/bannima/LeetCodeInAction/blob/master/topological_sorting/q207_course-schedule/topological_sort_dfs.py) 
+- 1 [207. 课程表](https://leetcode-cn.com/problems/course-schedule/) - [topological sorting + dfs](https://github.com/bannima/LeetCodeInAction/blob/master/topological_sorting/q207_course-schedule/topological_sort_dfs.py) 
 
-- [1462. 课程表 IV](https://leetcode-cn.com/problems/course-schedule-iv/) -[topological sort](https://github.com/bannima/LeetCodeInAction/blob/master/topological_sorting/q1462_course-schedule-iv/topological_sort_bfs.py)
+- 2 [1462. 课程表 IV](https://leetcode-cn.com/problems/course-schedule-iv/) -[topological sort](https://github.com/bannima/LeetCodeInAction/blob/master/topological_sorting/q1462_course-schedule-iv/topological_sort_bfs.py)
 
-- [851. 喧闹和富有](https://leetcode-cn.com/problems/loud-and-rich/) - [topological sort + bfs](https://github.com/bannima/LeetCodeInAction/blob/master/topological_sorting/q851_loud-and-rich/topological_sort_bfs.py)
+- 3 [851. 喧闹和富有](https://leetcode-cn.com/problems/loud-and-rich/) - [topological sort + bfs](https://github.com/bannima/LeetCodeInAction/blob/master/topological_sorting/q851_loud-and-rich/topological_sort_bfs.py)
 
-- [2050. 并行课程 III](https://leetcode-cn.com/problems/parallel-courses-iii/) - [topoligical sort + bfs](https://github.com/bannima/LeetCodeInAction/blob/master/topological_sorting/q2050_parallel-courses-iii/topological_sort_hierarchical_traverse.py)
+- 4 [2050. 并行课程 III](https://leetcode-cn.com/problems/parallel-courses-iii/) - [topoligical sort + bfs](https://github.com/bannima/LeetCodeInAction/blob/master/topological_sorting/q2050_parallel-courses-iii/topological_sort_hierarchical_traverse.py)
 
-- [2192. 有向无环图中一个节点的所有祖先](https://leetcode-cn.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/) -[topological sort](https://github.com/bannima/LeetCodeInAction/blob/master/topological_sorting/q2192_all-ancestors-of-a-node-in-a-directed-acyclic-graph/topological_sort.py)
+- 5 [2192. 有向无环图中一个节点的所有祖先](https://leetcode-cn.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/) -[topological sort](https://github.com/bannima/LeetCodeInAction/blob/master/topological_sorting/q2192_all-ancestors-of-a-node-in-a-directed-acyclic-graph/topological_sort.py)
 
-- [310. 最小高度树](https://leetcode-cn.com/problems/minimum-height-trees/) -[topological sort](https://github.com/bannima/LeetCodeInAction/blob/master/topological_sorting/q310_minimum-height-trees/topological_sort.py) ref: - [【阿飞算法】图解310. 最小高度树（拓扑排序，多写法）](https://leetcode-cn.com/problems/minimum-height-trees/solution/by-a-fei-8-hm2n/)
+- 6 [310. 最小高度树](https://leetcode-cn.com/problems/minimum-height-trees/) -[topological sort](https://github.com/bannima/LeetCodeInAction/blob/master/topological_sorting/q310_minimum-height-trees/topological_sort.py) ref: - [【阿飞算法】图解310. 最小高度树（拓扑排序，多写法）](https://leetcode-cn.com/problems/minimum-height-trees/solution/by-a-fei-8-hm2n/)
 
 
 ### [深度优先遍历](https://github.com/bannima/LeetCodeInAction/tree/master/dfs)
@@ -30,6 +39,9 @@
 
 - 5 [1305. 两棵二叉搜索树中的所有元素](https://leetcode-cn.com/problems/all-elements-in-two-binary-search-trees/) -[dfs+merge sort](https://github.com/bannima/LeetCodeInAction/blob/master/dfs/q1305_all-elements-in-two-binary-search-trees/dfs.py)
 
+- 6 [404. 左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/) -[dfs](https://github.com/bannima/LeetCodeInAction/blob/master/dfs/q404_sum_of_left_leaves/dfs.py)
+
+- 7 [面试题 04.04. 检查平衡性](https://leetcode-cn.com/problems/check-balance-lcci/) - [dfs](https://github.com/bannima/LeetCodeInAction/blob/master/dfs/%E9%9D%A2%E8%AF%95%E9%A2%980404%E6%A3%80%E6%9F%A5%E5%B9%B3%E8%A1%A1%E6%80%A7/dfs.py)
 
 ### [递归算法](https://github.com/bannima/LeetCodeInAction/tree/master/recursion)
 
