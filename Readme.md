@@ -2,6 +2,15 @@
 # LeetCode刷题笔记
 (Since 2020.10.14)
 
+### [前缀和](https://github.com/bannima/LeetCodeInAction/tree/master/prefix_sum)
+
+- 1 [1031. 两个非重叠子数组的最大和](https://leetcode-cn.com/problems/maximum-sum-of-two-non-overlapping-subarrays/) -[prefix sum](https://github.com/bannima/LeetCodeInAction/blob/master/prefix_sum/q1031_maximum-sum-of-two-non-overlapping-subarrays/prefix_sum.py)
+
+- 2 [1588. 所有奇数长度子数组的和](https://leetcode-cn.com/problems/sum-of-all-odd-length-subarrays/) -[prefix sum](https://github.com/bannima/LeetCodeInAction/tree/master/prefix_sum/q1588_sum-of-all-odd-length-subarrays)
+
+### [线段树](https://github.com/bannima/LeetCodeInAction/tree/master/segment_tree)
+
+
 ### [并查集](https://github.com/bannima/LeetCodeInAction/tree/master/union_find)
 
  - 1 [547. 省份数量](https://leetcode-cn.com/problems/number-of-provinces/) - [union_find](https://github.com/bannima/LeetCodeInAction/blob/master/union_find/q547_number-of-provinces/union_find.py)
@@ -11,6 +20,11 @@
  - 3 [695. 岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/) - [dfs](https://github.com/bannima/LeetCodeInAction/blob/master/union_find/q695_max-area-of-island/dfs.py) - [union find](https://github.com/bannima/LeetCodeInAction/blob/master/union_find/q695_max-area-of-island/union_find.py)
 
  - 4 [721. 账户合并](https://leetcode-cn.com/problems/accounts-merge/)  - [union find](https://github.com/bannima/LeetCodeInAction/blob/master/union_find/q721_accounts-merge/union_find.py)
+
+ - 5 [面试题 16.19. 水域大小](https://leetcode-cn.com/problems/pond-sizes-lcci/) - [union find](https://github.com/bannima/LeetCodeInAction/blob/master/union_find/pond-sizes-lcci/union_find.py)
+
+
+
 
 ### [拓扑排序](https://github.com/bannima/LeetCodeInAction/tree/master/topological_sorting)
 
@@ -25,6 +39,8 @@
 - 5 [2192. 有向无环图中一个节点的所有祖先](https://leetcode-cn.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/) -[topological sort](https://github.com/bannima/LeetCodeInAction/blob/master/topological_sorting/q2192_all-ancestors-of-a-node-in-a-directed-acyclic-graph/topological_sort.py)
 
 - 6 [310. 最小高度树](https://leetcode-cn.com/problems/minimum-height-trees/) -[topological sort](https://github.com/bannima/LeetCodeInAction/blob/master/topological_sorting/q310_minimum-height-trees/topological_sort.py) ref: - [【阿飞算法】图解310. 最小高度树（拓扑排序，多写法）](https://leetcode-cn.com/problems/minimum-height-trees/solution/by-a-fei-8-hm2n/)
+
+
 
 
 ### [深度优先遍历](https://github.com/bannima/LeetCodeInAction/tree/master/dfs)
@@ -42,6 +58,9 @@
 - 6 [404. 左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/) -[dfs](https://github.com/bannima/LeetCodeInAction/blob/master/dfs/q404_sum_of_left_leaves/dfs.py)
 
 - 7 [面试题 04.04. 检查平衡性](https://leetcode-cn.com/problems/check-balance-lcci/) - [dfs](https://github.com/bannima/LeetCodeInAction/blob/master/dfs/%E9%9D%A2%E8%AF%95%E9%A2%980404%E6%A3%80%E6%9F%A5%E5%B9%B3%E8%A1%A1%E6%80%A7/dfs.py)
+
+- 8 [433. 最小基因变化](https://leetcode-cn.com/problems/minimum-genetic-mutation/) - [bfs](https://github.com/bannima/LeetCodeInAction/blob/master/dfs/q433_minimum-genetic-mutation/bfs.py)
+
 
 ### [递归算法](https://github.com/bannima/LeetCodeInAction/tree/master/recursion)
 
@@ -174,6 +193,13 @@
 
 - 18 *[718. 最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/) -[动态规划法]() -[滑动窗口法]() -[二分查找法]()
 
+- 19 [1876. 长度为三且各字符不同的子字符串](https://leetcode-cn.com/problems/substrings-of-size-three-with-distinct-characters/) - [sliding window](https://github.com/bannima/LeetCodeInAction/blob/master/sliding_window/q1876_substrings-of-size-three-with-distinct-characters/sliding_window.py)
+
+- 20 [剑指 Offer II 015. 字符串中的所有变位词](https://leetcode-cn.com/problems/VabMRr/) - [sliding window](https://github.com/bannima/LeetCodeInAction/blob/master/sliding_window/%E5%89%91%E6%8C%87%20Offer%20II%20015%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E6%89%80%E6%9C%89%E5%8F%98%E4%BD%8D%E8%AF%8D/sliding_window.py)
+
+- 21 [1493. 删掉一个元素以后全为 1 的最长子数组](https://leetcode-cn.com/problems/longest-subarray-of-1s-after-deleting-one-element/)  - [sliding_window]()
+
+- 22 [2134. 最少交换次数来组合所有的 1 II](https://leetcode-cn.com/problems/minimum-swaps-to-group-all-1s-together-ii/) - [sliding window](https://github.com/bannima/LeetCodeInAction/blob/master/sliding_window/q2134_minimum-swaps-to-group-all-1s-together-ii/sliding_window.py)
 
 
 
@@ -331,6 +357,7 @@
 
 - 23 [105. 从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) - [solution](https://github.com/bannima/LeetCodeInAction/blob/master/tree/q105_construct-binary-tree-from-preorder-and-inorder-traversal/solution.py)
 
+
 ### [数学相关](https://github.com/bannima/LeetCodeInAction/tree/master/math_related)
 
 - 1 [q1356根据数字二进制下 1 的数目排序](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/math_related/q1356_sort_integers_by_the_number_of_1_bits/solution.py)
@@ -441,9 +468,11 @@
 
 - 14 [q725. 分隔链表](https://leetcode-cn.com/problems/split-linked-list-in-parts/) - [solution](https://github.com/bannima/LeetCodeInAction/blob/master/linkedlist/q725_split-linked-list-in-parts/solution.py)
 
+
 ### [队列](https://github.com/bannima/LeetCodeInAction/tree/master/queue_related)
 
 - 1 [q406根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/queue/q406_queue_reconstruction_by_height/solution.py) 参考：[【先排序，再插队】动画演示算法过程，有点小套路](https://leetcode-cn.com/problems/queue-reconstruction-by-height/solution/xian-pai-xu-zai-cha-dui-dong-hua-yan-shi-suan-fa-g/)
+
 
 ### [位运算](https://github.com/bannima/LeetCodeInAction/tree/master/bit_operation)
 
@@ -502,3 +531,5 @@
 - 19 [q1706. 球会落何处](https://leetcode-cn.com/problems/where-will-the-ball-fall/) - [solution](https://github.com/bannima/LeetCodeInAction/blob/master/others/q1706_where-will-the-ball-fall/solution.py)
 
 - 20 [q838. 推多米诺](https://leetcode-cn.com/problems/push-dominoes/) - [solution](https://github.com/bannima/LeetCodeInAction/blob/master/others/q838_push-dominoes/solution.py)
+
+- 21 []
