@@ -13,6 +13,7 @@
 class Solution:
     def maximumGain(self, s, x, y):
         res = 0
+
         def count(s, target, score):
             nonlocal res
             stack = []
@@ -23,7 +24,6 @@ class Solution:
                 else:
                     stack.append(s[i])
             return stack
-
         if x > y:#贪心找全部最大的字符串进行匹配，然后再找剩下的字符串进行匹配
             stack = count(s, 'ab', x)
             count(stack, 'ba', y)
