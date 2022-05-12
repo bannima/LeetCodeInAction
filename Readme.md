@@ -8,6 +8,11 @@
 
 - 2 [1588. 所有奇数长度子数组的和](https://leetcode-cn.com/problems/sum-of-all-odd-length-subarrays/) -[prefix sum](https://github.com/bannima/LeetCodeInAction/tree/master/prefix_sum/q1588_sum-of-all-odd-length-subarrays)
 
+- 3 [剑指 Offer II 011. 0 和 1 个数相同的子数组](https://leetcode.cn/problems/A1NYOS/) - [prefix_sum + hash](https://github.com/bannima/LeetCodeInAction/blob/master/prefix_sum/%E5%89%91%E6%8C%87%20Offer%20II%20011%200%20%E5%92%8C%201%20%E4%B8%AA%E6%95%B0%E7%9B%B8%E5%90%8C%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84/prefix.py) - [常见子数组问题 通用解法](https://leetcode.cn/problems/A1NYOS/solution/chang-jian-zi-shu-zu-wen-ti-tong-yong-ji-v0n4/)
+
+- 4 [560. 和为 K 的子数组](https://leetcode.cn/problems/subarray-sum-equals-k/) - [prefix_sum + hash](https://github.com/bannima/LeetCodeInAction/blob/master/prefix_sum/q560_subarray-sum-equals-k/prefix_sum_hash.py)
+
+
 ### [线段树](https://github.com/bannima/LeetCodeInAction/tree/master/segment_tree)
 
 
@@ -201,6 +206,7 @@
 
 - 22 [2134. 最少交换次数来组合所有的 1 II](https://leetcode-cn.com/problems/minimum-swaps-to-group-all-1s-together-ii/) - [sliding window](https://github.com/bannima/LeetCodeInAction/blob/master/sliding_window/q2134_minimum-swaps-to-group-all-1s-together-ii/sliding_window.py)
 
+- 23 [剑指 Offer II 008. 和大于等于 target 的最短子数组](https://leetcode.cn/problems/2VG8Kg/) -[sliding_window](https://github.com/bannima/LeetCodeInAction/blob/master/sliding_window/%E5%89%91%E6%8C%87%20Offer%20II%20008%E5%92%8C%E5%A4%A7%E4%BA%8E%E7%AD%89%E4%BA%8E%20target%20%E7%9A%84%E6%9C%80%E7%9F%AD%E5%AD%90%E6%95%B0%E7%BB%84/sliding_window.py)
 
 
 ### [哈希相关](https://github.com/bannima/LeetCodeInAction/tree/master/hash)
@@ -288,6 +294,8 @@
 
 - 3 [q1717.删除子字符串的最大得分](https://leetcode-cn.com/problems/maximum-score-from-removing-substrings/) -[贪心解法](https://github.com/bannima/LeetCodeInAction/blob/master/greedy/q1717_maximum-score-from-removing-substrings/greedy.py)
 
+- 4 [942. 增减字符串匹配](https://leetcode.cn/problems/di-string-match/) -[greedy](https://github.com/bannima/LeetCodeInAction/blob/master/greedy/q942_di-string-match/greedy.py)
+
 
 ### [二分查找](https://github.com/bannima/LeetCodeInAction/tree/master/binary_search)
 
@@ -357,6 +365,13 @@
 
 - 23 [105. 从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) - [solution](https://github.com/bannima/LeetCodeInAction/blob/master/tree/q105_construct-binary-tree-from-preorder-and-inorder-traversal/solution.py)
 
+- 24 [449. 序列化和反序列化二叉搜索树](https://leetcode.cn/problems/serialize-and-deserialize-bst/) - [pre_in_order](https://github.com/bannima/LeetCodeInAction/blob/master/tree/q449_serialize-and-deserialize-bst/pre_in_order.py)
+
+- 25 [96. 不同的二叉搜索树](https://leetcode.cn/problems/unique-binary-search-trees/) -[hash](https://github.com/bannima/LeetCodeInAction/blob/master/tree/q96_unique-binary-search-trees/hash.py)
+
+- 26 [剑指 Offer 68 - I. 二叉搜索树的最近公共祖先](https://leetcode.cn/problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof/) - [迭代](https://github.com/bannima/LeetCodeInAction/blob/master/tree/%E5%89%91%E6%8C%87%20Offer%2068%20-%20I%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88/tree.py) - 参考 [面试题68 - I. 二叉搜索树的最近公共祖先（迭代 / 递归，清晰图解）](https://leetcode.cn/problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof/solution/mian-shi-ti-68-i-er-cha-sou-suo-shu-de-zui-jin-g-7/)
+
+- 27 [114. 二叉树展开为链表](https://leetcode.cn/problems/flatten-binary-tree-to-linked-list/) -[recurisive](https://github.com/bannima/LeetCodeInAction/blob/master/tree/q114_flatten-binary-tree-to-linked-list/recurisive.py)
 
 ### [数学相关](https://github.com/bannima/LeetCodeInAction/tree/master/math_related)
 
