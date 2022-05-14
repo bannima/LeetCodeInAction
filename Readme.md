@@ -2,6 +2,12 @@
 # LeetCode刷题笔记
 (Since 2020.10.14)
 
+### [记忆化搜索](https://github.com/bannima/LeetCodeInAction/tree/master/memoization)
+
+- 1 [691. 贴纸拼词](https://leetcode.cn/problems/stickers-to-spell-word/) - [dfs+dp](https://github.com/bannima/LeetCodeInAction/tree/master/memoization/q691_stickers-to-spell-word/dfs_dp.py)
+
+
+
 ### [前缀和](https://github.com/bannima/LeetCodeInAction/tree/master/prefix_sum)
 
 - 1 [1031. 两个非重叠子数组的最大和](https://leetcode-cn.com/problems/maximum-sum-of-two-non-overlapping-subarrays/) -[prefix sum](https://github.com/bannima/LeetCodeInAction/blob/master/prefix_sum/q1031_maximum-sum-of-two-non-overlapping-subarrays/prefix_sum.py)
@@ -284,6 +290,11 @@
 
 - 18 [56. 合并区间](https://leetcode-cn.com/problems/merge-intervals/) - [solution](https://github.com/bannima/LeetCodeInAction/blob/master/two_pointers/q56_merge-intervals/sort_two_pointer.py)
 
+- 19 [面试题 01.05. 一次编辑](https://leetcode.cn/problems/one-away-lcci/) - [two pointer](https://github.com/bannima/LeetCodeInAction/blob/master/two_pointers/one-away-lcci/two_pointer.py)
+
+- 20 [80. 删除有序数组中的重复项 II](https://leetcode.cn/problems/remove-duplicates-from-sorted-array-ii/) - [two pointer](https://github.com/bannima/LeetCodeInAction/blob/master/two_pointers/q82_remove-duplicates-from-sorted-array-ii/two_pointer.py)
+
+- 21 [82. 删除排序链表中的重复元素 II](https://leetcode.cn/problems/remove-duplicates-from-sorted-list-ii/) - [two pointer]()
 
 
 ### [贪心算法](https://github.com/bannima/L强9——/word-search/eetCodeInAction/tree/master/greedy)
@@ -372,6 +383,8 @@
 - 26 [剑指 Offer 68 - I. 二叉搜索树的最近公共祖先](https://leetcode.cn/problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof/) - [迭代](https://github.com/bannima/LeetCodeInAction/blob/master/tree/%E5%89%91%E6%8C%87%20Offer%2068%20-%20I%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88/tree.py) - 参考 [面试题68 - I. 二叉搜索树的最近公共祖先（迭代 / 递归，清晰图解）](https://leetcode.cn/problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof/solution/mian-shi-ti-68-i-er-cha-sou-suo-shu-de-zui-jin-g-7/)
 
 - 27 [114. 二叉树展开为链表](https://leetcode.cn/problems/flatten-binary-tree-to-linked-list/) -[recurisive](https://github.com/bannima/LeetCodeInAction/blob/master/tree/q114_flatten-binary-tree-to-linked-list/recurisive.py)
+
+- 28 [124. 二叉树中的最大路径和](https://leetcode.cn/problems/binary-tree-maximum-path-sum/) - [solution](https://github.com/bannima/LeetCodeInAction/blob/master/tree/q124_binary-tree-maximum-path-sum/dp.py)
 
 ### [数学相关](https://github.com/bannima/LeetCodeInAction/tree/master/math_related)
 
