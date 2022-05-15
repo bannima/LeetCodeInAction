@@ -6,6 +6,9 @@
 
 - 1 [691. 贴纸拼词](https://leetcode.cn/problems/stickers-to-spell-word/) - [dfs+dp](https://github.com/bannima/LeetCodeInAction/tree/master/memoization/q691_stickers-to-spell-word/dfs_dp.py)
 
+- 2 [894. 所有可能的满二叉树](https://leetcode.cn/problems/all-possible-full-binary-trees/) -[recurisive]()
+
+- 3 [1387. 将整数按权重排序](https://leetcode.cn/problems/sort-integers-by-the-power-value/) - [recurisive](https://github.com/bannima/LeetCodeInAction/blob/master/memoization/q1387_sort-integers-by-the-power-value/dfs.py)
 
 
 ### [前缀和](https://github.com/bannima/LeetCodeInAction/tree/master/prefix_sum)
