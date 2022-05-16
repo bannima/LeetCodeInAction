@@ -389,6 +389,16 @@
 
 - 28 [124. 二叉树中的最大路径和](https://leetcode.cn/problems/binary-tree-maximum-path-sum/) - [solution](https://github.com/bannima/LeetCodeInAction/blob/master/tree/q124_binary-tree-maximum-path-sum/dp.py)
 
+- 29 [面试题 04.06. 后继者](https://leetcode.cn/problems/successor-lcci/) -[in order](https://github.com/bannima/LeetCodeInAction/blob/master/tree/%E9%9D%A2%E8%AF%95%E9%A2%98%200406%20%E5%90%8E%E7%BB%A7%E8%80%85/in_order.py)
+
+- 30 [199. 二叉树的右视图](https://leetcode.cn/problems/binary-tree-right-side-view/) -[level traverse](https://github.com/bannima/LeetCodeInAction/blob/master/tree/q199_binary-tree-right-side-view/level_traverse.py)
+
+- 31 [230. 二叉搜索树中第K小的元素](https://leetcode.cn/problems/kth-smallest-element-in-a-bst/) -[recurisive](https://github.com/bannima/LeetCodeInAction/blob/master/tree/q230_kth-smallest-element-in-a-bst/recurisive.py)
+
+- 32 [297. 二叉树的序列化与反序列化](https://leetcode.cn/problems/serialize-and-deserialize-binary-tree/) -[pre_order](https://github.com/bannima/LeetCodeInAction/blob/master/tree/q297_serialize-and-deserialize-binary-tree/pre_order.py)
+
+
+
 ### [数学相关](https://github.com/bannima/LeetCodeInAction/tree/master/math_related)
 
 - 1 [q1356根据数字二进制下 1 的数目排序](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/math_related/q1356_sort_integers_by_the_number_of_1_bits/solution.py)
