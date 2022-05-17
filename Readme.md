@@ -2,6 +2,14 @@
 # LeetCode刷题笔记
 (Since 2020.10.14)
 
+### [数组](https://github.com/bannima/LeetCodeInAction/tree/master/array)
+
+- 1 [48. 旋转图像](https://leetcode.cn/problems/rotate-image/) -[rule](https://github.com/bannima/LeetCodeInAction/blob/master/array/q48_rotate-image/rule.py) 
+
+- 2 [238. 除自身以外数组的乘积](https://leetcode.cn/problems/product-of-array-except-self/) - [left*right](https://github.com/bannima/LeetCodeInAction/blob/master/array/q238_product-of-array-except-self/left_right.py) - ref: [乘积 = 当前数左边的乘积 * 当前数右边的乘积](https://leetcode.cn/problems/product-of-array-except-self/solution/cheng-ji-dang-qian-shu-zuo-bian-de-cheng-ji-dang-q/)
+
+
+
 ### [记忆化搜索](https://github.com/bannima/LeetCodeInAction/tree/master/memoization)
 
 - 1 [691. 贴纸拼词](https://leetcode.cn/problems/stickers-to-spell-word/) - [dfs+dp](https://github.com/bannima/LeetCodeInAction/tree/master/memoization/q691_stickers-to-spell-word/dfs_dp.py)
