@@ -2,6 +2,31 @@
 # LeetCode刷题笔记
 (Since 2020.10.14)
 
+### [二分查找](https://github.com/bannima/LeetCodeInAction/tree/master/binary_search)
+
+- 1 [LCP18早餐组合](https://leetcode-cn.com/problems/2vYnGI/) -[线性复杂度解法](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/LCP18_2vYnGI/solution.py)  -[排序加二分查找](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/LCP18_2vYnGI/bs_solution.py)
+
+- 2 [q34在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) -[二分查找](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/q34_find_first_and_last_position_of_element_in_sorted_array/solution.py)
+
+- 3 [剑指 Offer 53 - I. 在排序数组中查找数字 I](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/) -[二分查找](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/%E5%89%91%E6%8C%87%20Offer%2053%20-%20I%20%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE%E6%95%B0%E5%AD%97%20I/binary_search.py) -*参考题解：[面试题53 - I. 在排序数组中查找数字 I（二分法，清晰图解）](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/solution/mian-shi-ti-53-i-zai-pai-xu-shu-zu-zhong-cha-zha-5/)
+
+- 4 [1150. 检查一个数是否在数组中占绝大多数](https://leetcode-cn.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/) -[二分查找](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/q1150_check_if_a_number_is_majority_element_in_a_sorted_array/binary_search.py)
+
+- 5 [704. 二分查找](https://leetcode-cn.com/problems/binary-search/) -[二分查找](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/q704_binary_search/binary.py) -参考题解：[二分查找](https://leetcode-cn.com/problems/binary-search/solution/er-fen-cha-zhao-by-leetcode/)
+
+- 6 [540. 有序数组中的单一元素](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/) -[异或法](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/q540_single_element_in_a_sorted_array/xor.py) -[二分查找法](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/q540_single_element_in_a_sorted_array/binary_search.py)
+
+- 7 [275. H 指数 II](https://leetcode-cn.com/problems/h-index-ii/) -[二分法](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/q275_h_index_ii/binary_search.py)
+
+- 8 [852. 山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/) -[二分查找法](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/q852_peak_index_in_a_mountain_array/binary.py)
+
+- 9 [668. 乘法表中第k小的数](https://leetcode.cn/problems/kth-smallest-number-in-multiplication-table/) -[binary search](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/q668_kth-smallest-number-in-multiplication-table/binary_search.py)
+
+- 10 [33. 搜索旋转排序数组](https://leetcode.cn/problems/search-in-rotated-sorted-array/) -[binary search](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/q33_search-in-rotated-sorted-array/binary_search.py)
+
+
+
+
 ### [数组](https://github.com/bannima/LeetCodeInAction/tree/master/array)
 
 - 1 [48. 旋转图像](https://leetcode.cn/problems/rotate-image/) -[rule](https://github.com/bannima/LeetCodeInAction/blob/master/array/q48_rotate-image/rule.py) 
@@ -19,6 +44,7 @@
 - 3 [1387. 将整数按权重排序](https://leetcode.cn/problems/sort-integers-by-the-power-value/) - [recurisive](https://github.com/bannima/LeetCodeInAction/blob/master/memoization/q1387_sort-integers-by-the-power-value/dfs.py)
 
 
+
 ### [前缀和](https://github.com/bannima/LeetCodeInAction/tree/master/prefix_sum)
 
 - 1 [1031. 两个非重叠子数组的最大和](https://leetcode-cn.com/problems/maximum-sum-of-two-non-overlapping-subarrays/) -[prefix sum](https://github.com/bannima/LeetCodeInAction/blob/master/prefix_sum/q1031_maximum-sum-of-two-non-overlapping-subarrays/prefix_sum.py)
@@ -31,6 +57,7 @@
 
 
 ### [线段树](https://github.com/bannima/LeetCodeInAction/tree/master/segment_tree)
+
 
 
 ### [并查集](https://github.com/bannima/LeetCodeInAction/tree/master/union_find)
@@ -64,7 +91,6 @@
 
 
 
-
 ### [深度优先遍历](https://github.com/bannima/LeetCodeInAction/tree/master/dfs)
 
 - 1 [417. 太平洋大西洋水流问题](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/) -[dfs](https://github.com/bannima/LeetCodeInAction/blob/master/dfs/q417_pacific-atlantic-water-flow/dfs.py)
@@ -91,6 +117,7 @@
 - 2 [50. Pow(x, n)](https://leetcode-cn.com/problems/powx-n/) -[solution](https://github.com/bannima/LeetCodeInAction/blob/master/recursion/q50_powx-n/solution.py)
 
 - 3 [203. 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/) - [solution](https://github.com/bannima/LeetCodeInAction/blob/master/recursion/q203_remove-linked-list-elements/solution.py)
+
 
 
 ### [动态规划](https://github.com/bannima/LeetCodeInAction/tree/master/dynamic_program)
@@ -259,7 +286,7 @@
 
 - 3 [q98验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search_tree/q98_validate_binary_search_tree/solution.py)
 
-
+- 4 [668. 乘法表中第k小的数](https://leetcode.cn/problems/kth-smallest-number-in-multiplication-table/) -[binary search]()
 
 
 
@@ -317,26 +344,6 @@
 - 3 [q1717.删除子字符串的最大得分](https://leetcode-cn.com/problems/maximum-score-from-removing-substrings/) -[贪心解法](https://github.com/bannima/LeetCodeInAction/blob/master/greedy/q1717_maximum-score-from-removing-substrings/greedy.py)
 
 - 4 [942. 增减字符串匹配](https://leetcode.cn/problems/di-string-match/) -[greedy](https://github.com/bannima/LeetCodeInAction/blob/master/greedy/q942_di-string-match/greedy.py)
-
-
-### [二分查找](https://github.com/bannima/LeetCodeInAction/tree/master/binary_search)
-
-- 1 [LCP18早餐组合](https://leetcode-cn.com/problems/2vYnGI/) -[线性复杂度解法](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/LCP18_2vYnGI/solution.py)  -[排序加二分查找](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/LCP18_2vYnGI/bs_solution.py)
-
-- 2 [q34在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) -[二分查找](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/q34_find_first_and_last_position_of_element_in_sorted_array/solution.py)
-
-- 3 [剑指 Offer 53 - I. 在排序数组中查找数字 I](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/) -[二分查找](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/%E5%89%91%E6%8C%87%20Offer%2053%20-%20I%20%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE%E6%95%B0%E5%AD%97%20I/binary_search.py) -*参考题解：[面试题53 - I. 在排序数组中查找数字 I（二分法，清晰图解）](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/solution/mian-shi-ti-53-i-zai-pai-xu-shu-zu-zhong-cha-zha-5/)
-
-- 4 [1150. 检查一个数是否在数组中占绝大多数](https://leetcode-cn.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/) -[二分查找](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/q1150_check_if_a_number_is_majority_element_in_a_sorted_array/binary_search.py)
-
-- 5 [704. 二分查找](https://leetcode-cn.com/problems/binary-search/) -[二分查找](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/q704_binary_search/binary.py) -参考题解：[二分查找](https://leetcode-cn.com/problems/binary-search/solution/er-fen-cha-zhao-by-leetcode/)
-
-- 6 [540. 有序数组中的单一元素](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/) -[异或法](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/q540_single_element_in_a_sorted_array/xor.py) -[二分查找法](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/q540_single_element_in_a_sorted_array/binary_search.py)
-
-- 7 [275. H 指数 II](https://leetcode-cn.com/problems/h-index-ii/) -[二分法](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/q275_h_index_ii/binary_search.py)
-
-- 8 [852. 山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/) -[二分查找法](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/q852_peak_index_in_a_mountain_array/binary.py)
-
 
 
 ### [树相关](https://github.com/bannima/LeetCodeInAction/tree/master/others)
