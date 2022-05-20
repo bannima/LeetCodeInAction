@@ -2,6 +2,12 @@
 # LeetCode刷题笔记
 (Since 2020.10.14)
 
+### [模拟](https://github.com/bannima/LeetCodeInAction/tree/master/simulation)
+
+- 1 [55. 跳跃游戏](https://leetcode.cn/problems/jump-game/) - [simulation](https://github.com/bannima/LeetCodeInAction/blob/master/simulation/q55_jump-game/simulation.py)
+
+
+
 ### [二分查找](https://github.com/bannima/LeetCodeInAction/tree/master/binary_search)
 
 - 1 [LCP18早餐组合](https://leetcode-cn.com/problems/2vYnGI/) -[线性复杂度解法](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/LCP18_2vYnGI/solution.py)  -[排序加二分查找](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/LCP18_2vYnGI/bs_solution.py)
@@ -23,6 +29,12 @@
 - 9 [668. 乘法表中第k小的数](https://leetcode.cn/problems/kth-smallest-number-in-multiplication-table/) -[binary search](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/q668_kth-smallest-number-in-multiplication-table/binary_search.py)
 
 - 10 [33. 搜索旋转排序数组](https://leetcode.cn/problems/search-in-rotated-sorted-array/) -[binary search](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/q33_search-in-rotated-sorted-array/binary_search.py)
+
+- 11 [162. 寻找峰值](https://leetcode.cn/problems/find-peak-element/) - [binary search](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/q162_find-peak-element/binary_search.py)
+
+- 12 [153. 寻找旋转排序数组中的最小值](https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array/) -[binary search](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/q153_find-minimum-in-rotated-sorted-array/binary_search.py)
+
+ -13 [154. 寻找旋转排序数组中的最小值 II](https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array-ii/) -[binary search](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/q154_find-minimum-in-rotated-sorted-array-ii/binary_search.py) -ref [寻找旋转排序数组中的最小值 II（二分法，极简，图解）](https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array-ii/solution/154-find-minimum-in-rotated-sorted-array-ii-by-jyd/)
 
 
 
@@ -451,6 +463,10 @@
 - 17 [1447. 最简分数](https://leetcode-cn.com/problems/simplified-fractions/) -[solution](https://github.com/bannima/LeetCodeInAction/blob/master/math_related/q1447_simplified-fractions/solution.py)
 
 - 18 [386. 字典序排数](https://leetcode-cn.com/problems/lexicographical-numbers/) -[solution](https://github.com/bannima/LeetCodeInAction/blob/master/math_related/q386_lexicographical-numbers/solution.py)
+
+- 19 [462. 最少移动次数使数组元素相等 II](https://leetcode.cn/problems/minimum-moves-to-equal-array-elements-ii/) -[medium]()
+
+
 
 ### [快慢指针](https://github.com/bannima/LeetCodeInAction/blob/master/fast_slow_pointers)
 
