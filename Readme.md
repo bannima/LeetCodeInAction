@@ -4,7 +4,7 @@
 
 ### [模拟](https://github.com/bannima/LeetCodeInAction/tree/master/simulation)
 
-- 1 [55. 跳跃游戏](https://leetcode.cn/problems/jump-game/) - [simulation](https://github.com/bannima/LeetCodeInAction/blob/master/simulation/q55_jump-game/simulation.py)
+- 1 [55. 跳跃游戏](https://leetcode.cn/problems/jump-game/) - [simulation](https://github.com/bannima/LeetCodeInAction/blob/master/simulation/q55_jump-game/simulation.py) - ref: [【跳跃游戏】别想那么多，就挨着跳吧](https://leetcode.cn/problems/jump-game/solution/55-by-ikaruga/)
 
 
 
