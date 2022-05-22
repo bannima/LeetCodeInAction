@@ -2,9 +2,16 @@
 # LeetCode刷题笔记
 (Since 2020.10.14)
 
+### [博弈](https://github.com/bannima/LeetCodeInAction/tree/master/game-theory)
+
+ - 1 [486. 预测赢家](https://leetcode.cn/problems/predict-the-winner/) -[memory_dfs](https://github.com/bannima/LeetCodeInAction/tree/master/game-theory/q486_predict-the-winner)
+
+
+
 ### [模拟](https://github.com/bannima/LeetCodeInAction/tree/master/simulation)
 
 - 1 [55. 跳跃游戏](https://leetcode.cn/problems/jump-game/) - [simulation](https://github.com/bannima/LeetCodeInAction/blob/master/simulation/q55_jump-game/simulation.py) - ref: [【跳跃游戏】别想那么多，就挨着跳吧](https://leetcode.cn/problems/jump-game/solution/55-by-ikaruga/)
+
 
 
 
@@ -51,9 +58,12 @@
 
 - 1 [691. 贴纸拼词](https://leetcode.cn/problems/stickers-to-spell-word/) - [dfs+dp](https://github.com/bannima/LeetCodeInAction/tree/master/memoization/q691_stickers-to-spell-word/dfs_dp.py)
 
-- 2 [894. 所有可能的满二叉树](https://leetcode.cn/problems/all-possible-full-binary-trees/) -[recurisive]()
+- 2 [894. 所有可能的满二叉树](https://leetcode.cn/problems/all-possible-full-binary-trees/) -[recurisive](https://github.com/bannima/LeetCodeInAction/blob/master/memoization/q894_all-possible-full-binary-trees/recurisive.py)
 
 - 3 [1387. 将整数按权重排序](https://leetcode.cn/problems/sort-integers-by-the-power-value/) - [recurisive](https://github.com/bannima/LeetCodeInAction/blob/master/memoization/q1387_sort-integers-by-the-power-value/dfs.py)
+
+- 4 [464. 我能赢吗](https://leetcode.cn/problems/can-i-win/) -[memory_dfs](https://github.com/bannima/LeetCodeInAction/blob/master/memoization/q464_can_i_win/memory_dfs.py)  - [方法一：记忆化搜索+状态压缩](https://leetcode.cn/problems/can-i-win/solution/wo-neng-ying-ma-by-jiang-hui-4-u3n1/)
+
 
 
 
