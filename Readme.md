@@ -2,6 +2,12 @@
 # LeetCode刷题笔记
 (Since 2020.10.14)
 
+### [bfs](https://github.com/bannima/LeetCodeInAction/tree/master/bfs)
+
+- 1 [675. 为高尔夫比赛砍树](https://leetcode.cn/problems/cut-off-trees-for-golf-event/) -[bfs](https://github.com/bannima/LeetCodeInAction/blob/master/bfs/q675_cut-off-trees-for-golf-event/bfs.py) - ref:[【负雪明烛】图解算法：题意分析 + BFS 模板分享](https://leetcode.cn/problems/cut-off-trees-for-golf-event/solution/by-fuxuemingzhu-dtet/)
+
+
+
 ### [博弈](https://github.com/bannima/LeetCodeInAction/tree/master/game-theory)
 
  - 1 [486. 预测赢家](https://leetcode.cn/problems/predict-the-winner/) -[memory_dfs](https://github.com/bannima/LeetCodeInAction/tree/master/game-theory/q486_predict-the-winner)
