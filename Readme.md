@@ -12,6 +12,16 @@
 
  - 1 [486. 预测赢家](https://leetcode.cn/problems/predict-the-winner/) -[memory_dfs](https://github.com/bannima/LeetCodeInAction/tree/master/game-theory/q486_predict-the-winner)
 
+ - 2 [877. 石子游戏](https://leetcode.cn/problems/stone-game/) - [dp](https://github.com/bannima/LeetCodeInAction/blob/master/game-theory/q877_stone_game/dp.py)
+
+ - 3 [1561. 你可以获得的最大硬币数目](https://leetcode.cn/problems/maximum-number-of-coins-you-can-get/) - [math](https://github.com/bannima/LeetCodeInAction/blob/master/game-theory/q1561_maximum-number-of-coins-you-can-get/math.py)
+
+ - 4 [1140. 石子游戏 II](https://leetcode.cn/problems/stone-game-ii/) -[dp+memory]() - ref: [记忆化搜索 Python3](https://leetcode.cn/problems/stone-game-ii/solution/ji-yi-hua-sou-suo-python3-by-smoon1989/)
+
+ - 5 [1406. 石子游戏 III](https://leetcode.cn/problems/stone-game-iii/) - [dp](https://github.com/bannima/LeetCodeInAction/blob/master/game-theory/q1406_stone-game-iii/dp.py) 
+
+ - 6 [1510. 石子游戏 IV](https://leetcode.cn/problems/stone-game-iv/) - [dp](https://github.com/bannima/LeetCodeInAction/blob/master/game-theory/q1510_stone-game-iv/dp.py)
+
 
 
 ### [模拟](https://github.com/bannima/LeetCodeInAction/tree/master/simulation)
@@ -47,7 +57,7 @@
 
 - 12 [153. 寻找旋转排序数组中的最小值](https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array/) -[binary search](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/q153_find-minimum-in-rotated-sorted-array/binary_search.py)
 
- -13 [154. 寻找旋转排序数组中的最小值 II](https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array-ii/) -[binary search](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/q154_find-minimum-in-rotated-sorted-array-ii/binary_search.py) -ref [寻找旋转排序数组中的最小值 II（二分法，极简，图解）](https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array-ii/solution/154-find-minimum-in-rotated-sorted-array-ii-by-jyd/)
+- 13 [154. 寻找旋转排序数组中的最小值 II](https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array-ii/) -[binary search](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/q154_find-minimum-in-rotated-sorted-array-ii/binary_search.py) -ref [寻找旋转排序数组中的最小值 II（二分法，极简，图解）](https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array-ii/solution/154-find-minimum-in-rotated-sorted-array-ii-by-jyd/)
 
 
 
@@ -197,6 +207,10 @@
 - 23 [q132. 分割回文串 II](https://leetcode-cn.com/problems/palindrome-partitioning-ii/) -[双动态规划法](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q132_palindrome_partitioning_ii/dp.py)
 
 - 24 [q494. 目标和](https://leetcode-cn.com/problems/target-sum/) -[dp法](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q494_target_sum/dp.py)
+
+- 25 [467. 环绕字符串中唯一的子字符串](https://leetcode.cn/problems/unique-substrings-in-wraparound-string/) - [dp](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q467_unique-substrings-in-wraparound-string/dp.py) - ref: [【西法带你学算法】一次搞定前缀和](https://leetcode.cn/problems/unique-substrings-in-wraparound-string/solution/xi-fa-dai-ni-xue-suan-fa-yi-ci-gao-ding-qian-zhui-/)
+
+
 
 
 
@@ -619,5 +633,3 @@
 - 19 [q1706. 球会落何处](https://leetcode-cn.com/problems/where-will-the-ball-fall/) - [solution](https://github.com/bannima/LeetCodeInAction/blob/master/others/q1706_where-will-the-ball-fall/solution.py)
 
 - 20 [q838. 推多米诺](https://leetcode-cn.com/problems/push-dominoes/) - [solution](https://github.com/bannima/LeetCodeInAction/blob/master/others/q838_push-dominoes/solution.py)
-
-- 21 []
