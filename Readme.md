@@ -16,11 +16,19 @@
 
  - 3 [1561. 你可以获得的最大硬币数目](https://leetcode.cn/problems/maximum-number-of-coins-you-can-get/) - [math](https://github.com/bannima/LeetCodeInAction/blob/master/game-theory/q1561_maximum-number-of-coins-you-can-get/math.py)
 
- - 4 [1140. 石子游戏 II](https://leetcode.cn/problems/stone-game-ii/) -[dp+memory]() - ref: [记忆化搜索 Python3](https://leetcode.cn/problems/stone-game-ii/solution/ji-yi-hua-sou-suo-python3-by-smoon1989/)
+ - 4 [1140. 石子游戏 II](https://leetcode.cn/problems/stone-game-ii/) -[dp+memory](https://github.com/bannima/LeetCodeInAction/blob/master/game-theory/q1140_stone-game-ii/dp_memory.py) - ref: [记忆化搜索 Python3](https://leetcode.cn/problems/stone-game-ii/solution/ji-yi-hua-sou-suo-python3-by-smoon1989/)
 
  - 5 [1406. 石子游戏 III](https://leetcode.cn/problems/stone-game-iii/) - [dp](https://github.com/bannima/LeetCodeInAction/blob/master/game-theory/q1406_stone-game-iii/dp.py) 
 
  - 6 [1510. 石子游戏 IV](https://leetcode.cn/problems/stone-game-iv/) - [dp](https://github.com/bannima/LeetCodeInAction/blob/master/game-theory/q1510_stone-game-iv/dp.py)
+
+ - 7 [1563. 石子游戏 V](https://leetcode.cn/problems/stone-game-v/) -[dp_out of time](https://github.com/bannima/LeetCodeInAction/blob/master/game-theory/q1563_stone-game-v/dp_out_of_time.py) -[opt_dp]() - ref: [石子游戏 V](https://leetcode.cn/problems/stone-game-v/solution/shi-zi-you-xi-v-by-leetcode-solution/)
+
+ - 8 [1686. 石子游戏 VI](https://leetcode.cn/problems/stone-game-vi/) -[greedy](https://github.com/bannima/LeetCodeInAction/blob/master/game-theory/q1686_stone-game-vi/greedy.py) -ref: [[Python] 贪心](https://leetcode.cn/problems/stone-game-vi/solution/python-tan-xin-by-qubenhao-0vr4/)
+
+ - 9 [1690. 石子游戏 VII](https://leetcode.cn/problems/stone-game-vii/) - [dp](https://github.com/bannima/LeetCodeInAction/blob/master/game-theory/q1690_stone-game-vii/dp.py)
+
+ - 10 []() -[]()
 
 
 
@@ -210,9 +218,9 @@
 
 - 25 [467. 环绕字符串中唯一的子字符串](https://leetcode.cn/problems/unique-substrings-in-wraparound-string/) - [dp](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q467_unique-substrings-in-wraparound-string/dp.py) - ref: [【西法带你学算法】一次搞定前缀和](https://leetcode.cn/problems/unique-substrings-in-wraparound-string/solution/xi-fa-dai-ni-xue-suan-fa-yi-ci-gao-ding-qian-zhui-/)
 
+- 26 [699. 掉落的方块](https://leetcode.cn/problems/falling-squares/) -[dp](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q699_falling-squares/dp.py)
 
-
-
+- 27 [518. 零钱兑换 II](https://leetcode.cn/problems/coin-change-2/) -[dp](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q518_coin_change_ii/dp.py)
 
 
 ### [回溯](https://github.com/bannima/LeetCodeInAction/tree/master/backtracking)
