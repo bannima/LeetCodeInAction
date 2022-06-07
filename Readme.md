@@ -67,7 +67,7 @@
 
 - 13 [154. 寻找旋转排序数组中的最小值 II](https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array-ii/) -[binary search](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/q154_find-minimum-in-rotated-sorted-array-ii/binary_search.py) -ref [寻找旋转排序数组中的最小值 II（二分法，极简，图解）](https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array-ii/solution/154-find-minimum-in-rotated-sorted-array-ii-by-jyd/)
 
-
+- 14 [875. 爱吃香蕉的珂珂](https://leetcode.cn/problems/koko-eating-bananas/) -[binary search](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/q875_koko-eating-bananas/binary_search.py)
 
 
 ### [数组](https://github.com/bannima/LeetCodeInAction/tree/master/array)
@@ -221,6 +221,9 @@
 - 26 [699. 掉落的方块](https://leetcode.cn/problems/falling-squares/) -[dp](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q699_falling-squares/dp.py)
 
 - 27 [518. 零钱兑换 II](https://leetcode.cn/problems/coin-change-2/) -[dp](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q518_coin_change_ii/dp.py)
+
+- 28 [312. 戳气球](https://leetcode.cn/problems/burst-balloons/) -[memory dfs out of time]() -[dp]()  -ref: []()
+
 
 
 ### [回溯](https://github.com/bannima/LeetCodeInAction/tree/master/backtracking)
