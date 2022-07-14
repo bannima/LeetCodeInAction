@@ -4,13 +4,15 @@
 
 ### [trie_tree](https://github.com/bannima/LeetCodeInAction/tree/master/trie_tree)
 
-- 1 [745. 前缀和后缀搜索](https://leetcode.cn/problems/prefix-and-suffix-search/) -[trie_tree]()
+- 1 [745. 前缀和后缀搜索](https://leetcode.cn/problems/prefix-and-suffix-search/) -[trie_tree](https://github.com/bannima/LeetCodeInAction/blob/master/trie_tree/q745_prefix-and-suffix-search/trie_solution.py)
 
 - 2 [* 208. 实现 Trie (前缀树)](https://leetcode.cn/problems/implement-trie-prefix-tree/) -[trie](https://github.com/bannima/LeetCodeInAction/blob/master/trie_tree/q208_implement-trie-prefix-tree/trie.py)
 
 - 3 [386. 字典序排数](https://leetcode.cn/problems/lexicographical-numbers/) -[dfs](https://github.com/bannima/LeetCodeInAction/blob/master/trie_tree/q386_lexicographical-numbers/dfs.py) - ref:[【宫水三叶】一题双解 :「递归」&「迭代」](https://leetcode.cn/problems/lexicographical-numbers/solution/by-ac_oier-ktn7/)
 
 - 4 [211. 添加与搜索单词 - 数据结构设计](https://leetcode.cn/problems/design-add-and-search-words-data-structure/) -[trie](https://github.com/bannima/LeetCodeInAction/blob/master/trie_tree/q211_design-add-and-search-words-data-structure/trie.py)
+
+
 
 
 ### [bfs](https://github.com/bannima/LeetCodeInAction/tree/master/bfs)
