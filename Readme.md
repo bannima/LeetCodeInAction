@@ -10,6 +10,8 @@
 
 - 3 [386. 字典序排数](https://leetcode.cn/problems/lexicographical-numbers/) -[dfs](https://github.com/bannima/LeetCodeInAction/blob/master/trie_tree/q386_lexicographical-numbers/dfs.py) - ref:[【宫水三叶】一题双解 :「递归」&「迭代」](https://leetcode.cn/problems/lexicographical-numbers/solution/by-ac_oier-ktn7/)
 
+- 4 [211. 添加与搜索单词 - 数据结构设计](https://leetcode.cn/problems/design-add-and-search-words-data-structure/) -[trie](https://github.com/bannima/LeetCodeInAction/blob/master/trie_tree/q211_design-add-and-search-words-data-structure/trie.py)
+
 
 ### [bfs](https://github.com/bannima/LeetCodeInAction/tree/master/bfs)
 
