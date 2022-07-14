@@ -2,6 +2,13 @@
 # LeetCode刷题笔记
 (Since 2020.10.14)
 
+### [trie_tree](https://github.com/bannima/LeetCodeInAction/tree/master/trie_tree)
+
+- 1 [745. 前缀和后缀搜索](https://leetcode.cn/problems/prefix-and-suffix-search/) -[trie_tree]()
+
+
+
+
 ### [bfs](https://github.com/bannima/LeetCodeInAction/tree/master/bfs)
 
 - 1 [675. 为高尔夫比赛砍树](https://leetcode.cn/problems/cut-off-trees-for-golf-event/) -[bfs](https://github.com/bannima/LeetCodeInAction/blob/master/bfs/q675_cut-off-trees-for-golf-event/bfs.py) - ref:[【负雪明烛】图解算法：题意分析 + BFS 模板分享](https://leetcode.cn/problems/cut-off-trees-for-golf-event/solution/by-fuxuemingzhu-dtet/)
@@ -68,6 +75,8 @@
 - 13 [154. 寻找旋转排序数组中的最小值 II](https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array-ii/) -[binary search](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/q154_find-minimum-in-rotated-sorted-array-ii/binary_search.py) -ref [寻找旋转排序数组中的最小值 II（二分法，极简，图解）](https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array-ii/solution/154-find-minimum-in-rotated-sorted-array-ii-by-jyd/)
 
 - 14 [875. 爱吃香蕉的珂珂](https://leetcode.cn/problems/koko-eating-bananas/) -[binary search](https://github.com/bannima/LeetCodeInAction/blob/master/binary_search/q875_koko-eating-bananas/binary_search.py)
+
+
 
 
 ### [数组](https://github.com/bannima/LeetCodeInAction/tree/master/array)
@@ -580,6 +589,8 @@
 - 13 [q1047. 删除字符串中的所有相邻重复项](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/) -[栈](https://github.com/bannima/LeetCodeInAction/blob/master/stack/q1047_remove_all_adjacent_duplicates_in_string/stack.py)
 
 - 14 [q725. 分隔链表](https://leetcode-cn.com/problems/split-linked-list-in-parts/) - [solution](https://github.com/bannima/LeetCodeInAction/blob/master/linkedlist/q725_split-linked-list-in-parts/solution.py)
+
+- 15 [q735. 行星碰撞](https://leetcode.cn/problems/asteroid-collision/) - [栈模拟](https://github.com/bannima/LeetCodeInAction/blob/master/stack/q735_asteroid-collision/stack_method.py)
 
 
 ### [队列](https://github.com/bannima/LeetCodeInAction/tree/master/queue_related)
