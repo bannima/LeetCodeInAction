@@ -12,6 +12,7 @@
 
 - 4 [211. 添加与搜索单词 - 数据结构设计](https://leetcode.cn/problems/design-add-and-search-words-data-structure/) -[trie](https://github.com/bannima/LeetCodeInAction/blob/master/trie_tree/q211_design-add-and-search-words-data-structure/trie.py)
 
+- 5 [421. 数组中两个数的最大异或值](https://leetcode.cn/problems/maximum-xor-of-two-numbers-in-an-array/) -[trie](https://github.com/bannima/LeetCodeInAction/blob/master/trie_tree/q421_maximum-xor-of-two-numbers-in-an-array/trie.py)
 
 
 
