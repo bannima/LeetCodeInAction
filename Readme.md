@@ -16,6 +16,10 @@
 
 - 6 [648. 单词替换](https://leetcode.cn/problems/replace-words/) - [trie](https://github.com/bannima/LeetCodeInAction/blob/master/trie_tree/q648_replace-words/trie.py)
 
+- 7 [676. 实现一个魔法字典](https://leetcode.cn/problems/implement-magic-dictionary/) -[trie](https://github.com/bannima/LeetCodeInAction/blob/master/trie_tree/q676_implement-magic-dictionary/trie.py)
+
+
+
 
 
 ### [bfs](https://github.com/bannima/LeetCodeInAction/tree/master/bfs)
