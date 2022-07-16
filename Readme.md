@@ -18,7 +18,7 @@
 
 - 7 [676. 实现一个魔法字典](https://leetcode.cn/problems/implement-magic-dictionary/) -[trie](https://github.com/bannima/LeetCodeInAction/blob/master/trie_tree/q676_implement-magic-dictionary/trie.py)
 
-
+- 8 [692. 前K个高频单词](https://leetcode.cn/problems/top-k-frequent-words/) -[trie](https://github.com/bannima/LeetCodeInAction/blob/master/trie_tree/q692_top-k-frequent-words/trie.py)
 
 
 
