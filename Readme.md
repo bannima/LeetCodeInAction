@@ -14,6 +14,8 @@
 
 - 5 [421. 数组中两个数的最大异或值](https://leetcode.cn/problems/maximum-xor-of-two-numbers-in-an-array/) -[trie](https://github.com/bannima/LeetCodeInAction/blob/master/trie_tree/q421_maximum-xor-of-two-numbers-in-an-array/trie.py)
 
+- 6 [648. 单词替换](https://leetcode.cn/problems/replace-words/) - [trie](https://github.com/bannima/LeetCodeInAction/blob/master/trie_tree/q648_replace-words/trie.py)
+
 
 
 ### [bfs](https://github.com/bannima/LeetCodeInAction/tree/master/bfs)
