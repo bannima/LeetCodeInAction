@@ -22,6 +22,10 @@
 
 - 9 [140. 单词拆分 II](https://leetcode.cn/problems/word-break-ii/) -[trackback](https://github.com/bannima/LeetCodeInAction/blob/master/trie_tree/q140_word-break-ii/trie.py)
 
+- 10 [212. 单词搜索 II](https://leetcode.cn/problems/word-search-ii/) -[traceback out-of-time](https://github.com/bannima/LeetCodeInAction/blob/master/trie_tree/q212_word-search-ii/traceback_oot.py) -[trie](https://github.com/bannima/LeetCodeInAction/blob/master/trie_tree/q212_word-search-ii/trie_oot.py)
+
+- 11 [剑指 Offer II 066. 单词之和](https://leetcode.cn/problems/z1R5dt/) -[trie](https://github.com/bannima/LeetCodeInAction/tree/master/trie_tree/%E5%89%91%E6%8C%87%20Offer%20II%20066%E5%8D%95%E8%AF%8D%E4%B9%8B%E5%92%8C)
+
 
 ### [bfs](https://github.com/bannima/LeetCodeInAction/tree/master/bfs)
 
