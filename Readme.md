@@ -2,6 +2,13 @@
 # LeetCode刷题笔记
 (Since 2020.10.14)
 
+### 快速复习必刷榜单
+| 序号  |   算法    |                                      快速复习题                                      | 参考资料                        | 典型例题 |
+|:----|:-------:|:-------------------------------------------------------------------------------:|-----------------------------|------|
+| 1   | 字典树/前缀树 | [208. 实现 Trie (前缀树)](https://leetcode.cn/problems/implement-trie-prefix-tree/)  |                             | [692. 前K个高频单词](https://leetcode.cn/problems/top-k-frequent-words/)     |
+| 2   |    堆    |                                                                                 | [数据结构-堆(heap)与堆的Python实现](https://blog.csdn.net/qq_23869697/article/details/82735088) |      |
+
+
 ### [trie_tree](https://github.com/bannima/LeetCodeInAction/tree/master/trie_tree)
 
 - 1 [745. 前缀和后缀搜索](https://leetcode.cn/problems/prefix-and-suffix-search/) -[trie_tree](https://github.com/bannima/LeetCodeInAction/blob/master/trie_tree/q745_prefix-and-suffix-search/trie_solution.py)
@@ -287,6 +294,7 @@
 
 - 13 [q22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/) -[回溯法](https://github.com/bannima/LeetCodeInAction/blob/master/backtracking/q22_generate_parentheses/solution.py)
 
+- 14 [剑指 Offer II 085. 生成匹配的括号](https://leetcode.cn/problems/IDBivT/) -[回溯+剪枝](https://github.com/bannima/LeetCodeInAction/blob/master/backtracking/%E5%89%91%E6%8C%87%20Offer%20II%20085%20%E7%94%9F%E6%88%90%E5%8C%B9%E9%85%8D%E7%9A%84%E6%8B%AC%E5%8F%B7/traceback.py)
 
 
 
