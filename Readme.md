@@ -63,6 +63,8 @@
 
 - 2 [59. 螺旋矩阵 II](https://leetcode.cn/problems/spiral-matrix-ii/) -[simulation](https://github.com/bannima/LeetCodeInAction/blob/master/simulation/q59_spiral-matrix-ii/simulation.py)
 
+- 3 [54. 螺旋矩阵](https://leetcode.cn/problems/spiral-matrix/) -[simulation](https://github.com/bannima/LeetCodeInAction/blob/master/simulation/q54_spiral-matrix/simulation.py)
+
 
 
 ### [二分查找](https://github.com/bannima/LeetCodeInAction/tree/master/binary_search)
