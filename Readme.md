@@ -626,6 +626,9 @@
 
 - 1 [405. 数字转换为十六进制数](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/bit_operation/405_convert-a-number-to-hexadecimal/solution.py) 
 
+- 2 [231. 2 的幂](https://leetcode.cn/problems/power-of-two/) -[bit op](https://github.com/bannima/LeetCodeInAction/blob/master/bit_operation/q231_power-of-two/bit_op.py)
+
+
 
 ### [采样](https://github.com/bannima/LeetCodeInAction/tree/master/sampling)
 
