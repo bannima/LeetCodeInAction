@@ -1,12 +1,18 @@
 
 # LeetCode刷题笔记
-(Since 2020.10.14)
+`Since 2020.10.14`
 
 ### 快速复习必刷榜单
-| 序号  |   算法    |                                      快速复习题                                      | 参考资料                        | 典型例题 |
-|:----|:-------:|:-------------------------------------------------------------------------------:|-----------------------------|------|
-| 1   | 字典树/前缀树 | [208. 实现 Trie (前缀树)](https://leetcode.cn/problems/implement-trie-prefix-tree/)  |                             | [692. 前K个高频单词](https://leetcode.cn/problems/top-k-frequent-words/)     |
-| 2   |    堆    |                                                                                 | [数据结构-堆(heap)与堆的Python实现](https://blog.csdn.net/qq_23869697/article/details/82735088) |      |
+`Since 2022.07.17`
+
+| 序号  |   算法    |                                                  快速复习题                                                   | 参考资料                                                                                 | 典型例题                                                               |
+|:----|:-------:|:--------------------------------------------------------------------------------------------------------:|--------------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| 1   | 字典树/前缀树 |              [208. 实现 Trie (前缀树)](https://leetcode.cn/problems/implement-trie-prefix-tree/)              |                                                                                      | [692. 前K个高频单词](https://leetcode.cn/problems/top-k-frequent-words/) |
+| 2   | 堆       |                                                                                                          | [数据结构-堆(heap)与堆的Python实现](https://blog.csdn.net/qq_23869697/article/details/82735088) |                                                                    |
+| 3   |  拓扑排序   |                        [207. 课程表](https://leetcode.cn/problems/course-schedule/)                         |      [阿飞算法】图解310. 最小高度树（拓扑排序，多写法）](https://leetcode.cn/problems/minimum-height-trees/solution/by-a-fei-8-hm2n/)  |                                                                    |
+| 4   |  滑动窗口   |               [1004. 最大连续1的个数 III](https://leetcode.cn/problems/max-consecutive-ones-iii/)               |      [分享滑动窗口模板，秒杀滑动窗口问题](https://leetcode.cn/problems/max-consecutive-ones-iii/solution/fen-xiang-hua-dong-chuang-kou-mo-ban-mia-f76z/)  |                                                                    |
+| 5   |  动态规划   |                        []()                        |      []()   |                                                                    |
+
 
 
 ### [trie_tree](https://github.com/bannima/LeetCodeInAction/tree/master/trie_tree)
@@ -264,6 +270,8 @@
 - 29 [213. 打家劫舍 II](https://leetcode.cn/problems/house-robber-ii/) -[dp](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q213_house-robber-ii/dp.py)
 
 - 30 [337. 打家劫舍 III](https://leetcode.cn/problems/house-robber-iii/) -[bruce force memory dfs](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q337_house-robber-iii/bruce_force_dfs_memory.py) 
+
+- 31 [72. 编辑距离](https://leetcode.cn/problems/edit-distance/) - [recusive solution](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q72_edit-distance/recurive.py) -[dp solution](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q72_edit-distance/dp.py) ref: -[自底向上 和自顶向下](https://leetcode.cn/problems/edit-distance/solution/zi-di-xiang-shang-he-zi-ding-xiang-xia-by-powcai-3/) - [动态规划，自底向上](https://leetcode.cn/problems/edit-distance/solution/dong-tai-gui-hua-zi-xi-by-zhou-en-guo-sqb5/)
 
 
 ### [回溯](https://github.com/bannima/LeetCodeInAction/tree/master/backtracking)
