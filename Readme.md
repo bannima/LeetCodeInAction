@@ -5,13 +5,13 @@
 ### 快速复习必刷榜单
 `Since 2022.07.17`
 
-| 序号  |   算法    |                                                  快速复习题                                                   | 参考资料                                                                                 | 典型例题                                                               |
-|:----|:-------:|:--------------------------------------------------------------------------------------------------------:|--------------------------------------------------------------------------------------|--------------------------------------------------------------------|
-| 1   | 字典树/前缀树 |              [208. 实现 Trie (前缀树)](https://leetcode.cn/problems/implement-trie-prefix-tree/)              |                                                                                      | [692. 前K个高频单词](https://leetcode.cn/problems/top-k-frequent-words/) |
-| 2   | 堆       |                                                                                                          | [数据结构-堆(heap)与堆的Python实现](https://blog.csdn.net/qq_23869697/article/details/82735088) |                                                                    |
-| 3   |  拓扑排序   |                        [207. 课程表](https://leetcode.cn/problems/course-schedule/)                         |      [阿飞算法】图解310. 最小高度树（拓扑排序，多写法）](https://leetcode.cn/problems/minimum-height-trees/solution/by-a-fei-8-hm2n/)  |                                                                    |
-| 4   |  滑动窗口   |               [1004. 最大连续1的个数 III](https://leetcode.cn/problems/max-consecutive-ones-iii/)               |      [分享滑动窗口模板，秒杀滑动窗口问题](https://leetcode.cn/problems/max-consecutive-ones-iii/solution/fen-xiang-hua-dong-chuang-kou-mo-ban-mia-f76z/)  |                                                                    |
-| 5   |  动态规划   |                        []()                        |      []()   |                                                                    |
+| 序号  |   算法    |                                     快速复习题                                      | 参考资料                                                                                 | 典型例题                                                               |
+|:----|:-------:|:------------------------------------------------------------------------------:|--------------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| 1   | 字典树/前缀树 | [208. 实现 Trie (前缀树)](https://leetcode.cn/problems/implement-trie-prefix-tree/) |                                                                                      | [692. 前K个高频单词](https://leetcode.cn/problems/top-k-frequent-words/) |
+| 2   | 堆       |                                                                                | [数据结构-堆(heap)与堆的Python实现](https://blog.csdn.net/qq_23869697/article/details/82735088) |                                                                    |
+| 3   |  拓扑排序   |           [207. 课程表](https://leetcode.cn/problems/course-schedule/)            |      [阿飞算法】图解310. 最小高度树（拓扑排序，多写法）](https://leetcode.cn/problems/minimum-height-trees/solution/by-a-fei-8-hm2n/)  |                                                                    |
+| 4   |  滑动窗口   |  [1004. 最大连续1的个数 III](https://leetcode.cn/problems/max-consecutive-ones-iii/)  |      [分享滑动窗口模板，秒杀滑动窗口问题](https://leetcode.cn/problems/max-consecutive-ones-iii/solution/fen-xiang-hua-dong-chuang-kou-mo-ban-mia-f76z/)  |                                                                    |
+| 5   |  动态规划   |   [10. 正则表达式匹配](https://leetcode.cn/problems/regular-expression-matching/)             [72. 编辑距离](https://leetcode.cn/problems/edit-distance/)   |     [自底向上 和自顶向下](https://leetcode.cn/problems/edit-distance/solution/zi-di-xiang-shang-he-zi-ding-xiang-xia-by-powcai-3/)   |                                                                    |
 
 
 
@@ -271,7 +271,13 @@
 
 - 30 [337. 打家劫舍 III](https://leetcode.cn/problems/house-robber-iii/) -[bruce force memory dfs](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q337_house-robber-iii/bruce_force_dfs_memory.py) 
 
-- 31 [72. 编辑距离](https://leetcode.cn/problems/edit-distance/) - [recusive solution](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q72_edit-distance/recurive.py) -[dp solution](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q72_edit-distance/dp.py) ref: -[自底向上 和自顶向下](https://leetcode.cn/problems/edit-distance/solution/zi-di-xiang-shang-he-zi-ding-xiang-xia-by-powcai-3/) - [动态规划，自底向上](https://leetcode.cn/problems/edit-distance/solution/dong-tai-gui-hua-zi-xi-by-zhou-en-guo-sqb5/)
+- 31 * [72. 编辑距离](https://leetcode.cn/problems/edit-distance/) - [recusive solution](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q72_edit-distance/recurive.py) -[dp solution](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q72_edit-distance/dp.py) ref: -[自底向上 和自顶向下](https://leetcode.cn/problems/edit-distance/solution/zi-di-xiang-shang-he-zi-ding-xiang-xia-by-powcai-3/) - [动态规划，自底向上](https://leetcode.cn/problems/edit-distance/solution/dong-tai-gui-hua-zi-xi-by-zhou-en-guo-sqb5/)
+
+- 32 [10. 正则表达式匹配](https://leetcode.cn/problems/regular-expression-matching/) -[dp](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q10_regular-expression-matching/dp.py) - * ref:[「手画图解」动态规划，需要仔细的分情况讨论](https://leetcode.cn/problems/regular-expression-matching/solution/shou-hui-tu-jie-wo-tai-nan-liao-by-hyj8/)
+
+- 33 [45. 跳跃游戏 II](https://leetcode.cn/problems/jump-game-ii/) - [dp](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q45_jump-game-ii/dp.py)
+
+
 
 
 ### [回溯](https://github.com/bannima/LeetCodeInAction/tree/master/backtracking)
