@@ -12,12 +12,15 @@
 | 3   |  拓扑排序   |           [207. 课程表](https://leetcode.cn/problems/course-schedule/)            | [阿飞算法】图解310. 最小高度树（拓扑排序，多写法）](https://leetcode.cn/problems/minimum-height-trees/solution/by-a-fei-8-hm2n/)                         |                                                                    |
 | 4   |  滑动窗口   |  [1004. 最大连续1的个数 III](https://leetcode.cn/problems/max-consecutive-ones-iii/)  | [分享滑动窗口模板，秒杀滑动窗口问题](https://leetcode.cn/problems/max-consecutive-ones-iii/solution/fen-xiang-hua-dong-chuang-kou-mo-ban-mia-f76z/) |                                                                    |
 | 5   |  动态规划   |   [10. 正则表达式匹配](https://leetcode.cn/problems/regular-expression-matching/)             [72. 编辑距离](https://leetcode.cn/problems/edit-distance/)   | [自底向上 和自顶向下](https://leetcode.cn/problems/edit-distance/solution/zi-di-xiang-shang-he-zi-ding-xiang-xia-by-powcai-3/)              |                        [44. 通配符匹配](https://leetcode.cn/problems/wildcard-matching/)                       |
-| 6   |  单调栈    |   [84. 柱状图中最大的矩形](https://leetcode.cn/problems/largest-rectangle-in-histogram/)                                                                             |    [暴力解法、栈（单调栈、哨兵技巧）](https://leetcode.cn/problems/largest-rectangle-in-histogram/solution/bao-li-jie-fa-zhan-by-liweiwei1419/)                                                                                                                                |                                                                    |
+| 6   |  单调栈    |   [84. 柱状图中最大的矩形](https://leetcode.cn/problems/largest-rectangle-in-histogram/)                                                                             |    [暴力解法、栈（单调栈、哨兵技巧）](https://leetcode.cn/problems/largest-rectangle-in-histogram/solution/bao-li-jie-fa-zhan-by-liweiwei1419/)           |          [85. 最大矩形](https://leetcode.cn/problems/maximal-rectangle/)              |
 
 
 ### [单调栈](https://github.com/bannima/LeetCodeInAction/tree/master/monotonic_stack)
 
 - 1 *[84. 柱状图中最大的矩形](https://leetcode.cn/problems/largest-rectangle-in-histogram/) -[monotonic stack](https://github.com/bannima/LeetCodeInAction/blob/master/monotonic_stack/q84_largest-rectangle-in-histogram/monotonic_stack.py) ref: - [暴力解法、栈（单调栈、哨兵技巧）](https://leetcode.cn/problems/largest-rectangle-in-histogram/solution/bao-li-jie-fa-zhan-by-liweiwei1419/)
+
+- 2 *[85. 最大矩形](https://leetcode.cn/problems/maximal-rectangle/) -[monotonic stack](https://github.com/bannima/LeetCodeInAction/blob/master/monotonic_stack/q85_maximal-rectangle/monotonic_stack_solution.py) -ref [详细通俗的思路分析，多解法](https://leetcode.cn/problems/maximal-rectangle/solution/xiang-xi-tong-su-de-si-lu-fen-xi-duo-jie-fa-by-1-8/)
+
 
 
 
@@ -285,7 +288,7 @@
 
 - 34 [44. 通配符匹配](https://leetcode.cn/problems/wildcard-matching/) - [dp](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q44_wildcard-matching/dp.py)
 
-
+- 35 [115. 不同的子序列](https://leetcode.cn/problems/distinct-subsequences/) -[dp](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q115_distinct-subsequences/dp.py)
 
 
 ### [回溯](https://github.com/bannima/LeetCodeInAction/tree/master/backtracking)
@@ -317,6 +320,8 @@
 - 13 [q22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/) -[回溯法](https://github.com/bannima/LeetCodeInAction/blob/master/backtracking/q22_generate_parentheses/solution.py)
 
 - 14 [剑指 Offer II 085. 生成匹配的括号](https://leetcode.cn/problems/IDBivT/) -[回溯+剪枝](https://github.com/bannima/LeetCodeInAction/blob/master/backtracking/%E5%89%91%E6%8C%87%20Offer%20II%20085%20%E7%94%9F%E6%88%90%E5%8C%B9%E9%85%8D%E7%9A%84%E6%8B%AC%E5%8F%B7/traceback.py)
+
+- 15 []() - []()
 
 
 
