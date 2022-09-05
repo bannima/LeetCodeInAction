@@ -290,6 +290,9 @@
 
 - 35 [115. 不同的子序列](https://leetcode.cn/problems/distinct-subsequences/) -[dp](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q115_distinct-subsequences/dp.py)
 
+- 36 [221. 最大正方形](https://leetcode.cn/problems/maximal-square/) - [dp](https://github.com/bannima/LeetCodeInAction/blob/master/dynamic_program/q221_maximal-square/dp.py) -ref: [理解 三者取最小+1](https://leetcode.cn/problems/maximal-square/solution/li-jie-san-zhe-qu-zui-xiao-1-by-lzhlyle/)
+
+
 
 ### [回溯](https://github.com/bannima/LeetCodeInAction/tree/master/backtracking)
  
