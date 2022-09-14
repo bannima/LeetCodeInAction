@@ -1,0 +1,26 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="13">
+            <item index="0" class="java.lang.String" itemvalue="pandas" />
+            <item index="1" class="java.lang.String" itemvalue="tensorflow" />
+            <item index="2" class="java.lang.String" itemvalue="scikit-learn" />
+            <item index="3" class="java.lang.String" itemvalue="numpy" />
+            <item index="4" class="java.lang.String" itemvalue="PIL" />
+            <item index="5" class="java.lang.String" itemvalue="tensorflow-serving-api" />
+            <item index="6" class="java.lang.String" itemvalue="yaml" />
+            <item index="7" class="java.lang.String" itemvalue="pytorch-widedeep" />
+            <item index="8" class="java.lang.String" itemvalue="transformers" />
+            <item index="9" class="java.lang.String" itemvalue="faiss-cpu" />
+            <item index="10" class="java.lang.String" itemvalue="nltk" />
+            <item index="11" class="java.lang.String" itemvalue="torch" />
+            <item index="12" class="java.lang.String" itemvalue="pytrec_eval" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
