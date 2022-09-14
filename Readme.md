@@ -5,14 +5,23 @@
 ### 快速复习必刷榜单
 `Since 2022.07.17`
 
-| 序号  |   算法    |                                     快速复习题                                      | 参考资料                                                                                                                               | 典型例题                                                               |
-|:----|:-------:|:------------------------------------------------------------------------------:|------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|
-| 1   | 字典树/前缀树 | [208. 实现 Trie (前缀树)](https://leetcode.cn/problems/implement-trie-prefix-tree/) |                                                                                                                                    | [692. 前K个高频单词](https://leetcode.cn/problems/top-k-frequent-words/) |
-| 2   |    堆    |                                                                                | [数据结构-堆(heap)与堆的Python实现](https://blog.csdn.net/qq_23869697/article/details/82735088)                                              |                                                                    |
-| 3   |  拓扑排序   |           [207. 课程表](https://leetcode.cn/problems/course-schedule/)            | [阿飞算法】图解310. 最小高度树（拓扑排序，多写法）](https://leetcode.cn/problems/minimum-height-trees/solution/by-a-fei-8-hm2n/)                         |                                                                    |
-| 4   |  滑动窗口   |  [1004. 最大连续1的个数 III](https://leetcode.cn/problems/max-consecutive-ones-iii/)  | [分享滑动窗口模板，秒杀滑动窗口问题](https://leetcode.cn/problems/max-consecutive-ones-iii/solution/fen-xiang-hua-dong-chuang-kou-mo-ban-mia-f76z/) |                                                                    |
-| 5   |  动态规划   |   [10. 正则表达式匹配](https://leetcode.cn/problems/regular-expression-matching/)             [72. 编辑距离](https://leetcode.cn/problems/edit-distance/)   | [自底向上 和自顶向下](https://leetcode.cn/problems/edit-distance/solution/zi-di-xiang-shang-he-zi-ding-xiang-xia-by-powcai-3/)              |                        [44. 通配符匹配](https://leetcode.cn/problems/wildcard-matching/)                       |
-| 6   |  单调栈    |   [84. 柱状图中最大的矩形](https://leetcode.cn/problems/largest-rectangle-in-histogram/)                                                                             |    [暴力解法、栈（单调栈、哨兵技巧）](https://leetcode.cn/problems/largest-rectangle-in-histogram/solution/bao-li-jie-fa-zhan-by-liweiwei1419/)           |          [85. 最大矩形](https://leetcode.cn/problems/maximal-rectangle/)              |
+| 序号  |   算法    |                                                                                                    快速复习题                                                                                                     | 参考资料                                                                                                                             | 典型例题                                                               |
+|:----|:-------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|----------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| 1   | 字典树/前缀树 |                                                                [208. 实现 Trie (前缀树)](https://leetcode.cn/problems/implement-trie-prefix-tree/)                                                                |                                                                                                                                  | [692. 前K个高频单词](https://leetcode.cn/problems/top-k-frequent-words/) |
+| 2   |    堆    |                                                                                                                                                                                                              | [数据结构-堆(heap)与堆的Python实现](https://blog.csdn.net/qq_23869697/article/details/82735088)                                            |                                                                    |
+| 3   |  拓扑排序   |                                                                          [207. 课程表](https://leetcode.cn/problems/course-schedule/)                                                                           | [阿飞算法】图解310. 最小高度树（拓扑排序，多写法）](https://leetcode.cn/problems/minimum-height-trees/solution/by-a-fei-8-hm2n/)                       |                                                                    |
+| 4   |  滑动窗口   |                                                                 [1004. 最大连续1的个数 III](https://leetcode.cn/problems/max-consecutive-ones-iii/)                                                                 | [分享滑动窗口模板，秒杀滑动窗口问题](https://leetcode.cn/problems/max-consecutive-ones-iii/solution/fen-xiang-hua-dong-chuang-kou-mo-ban-mia-f76z/) |                                                                    |
+| 5   |  动态规划   |                                 [10. 正则表达式匹配](https://leetcode.cn/problems/regular-expression-matching/)             [72. 编辑距离](https://leetcode.cn/problems/edit-distance/)                                 | [自底向上 和自顶向下](https://leetcode.cn/problems/edit-distance/solution/zi-di-xiang-shang-he-zi-ding-xiang-xia-by-powcai-3/)            | [44. 通配符匹配](https://leetcode.cn/problems/wildcard-matching/)       |
+| 6   |   单调栈   |                                                                [84. 柱状图中最大的矩形](https://leetcode.cn/problems/largest-rectangle-in-histogram/)                                                                 | [暴力解法、栈（单调栈、哨兵技巧）](https://leetcode.cn/problems/largest-rectangle-in-histogram/solution/bao-li-jie-fa-zhan-by-liweiwei1419/)     | [85. 最大矩形](https://leetcode.cn/problems/maximal-rectangle/)        |
+| 7   |   树递归   |                                  [669. 修剪二叉搜索树](https://leetcode.cn/problems/trim-a-binary-search-tree/)                                                                                                     | [树递归](https://leetcode.cn/problems/trim-a-binary-search-tree/solution/shu-di-gui-by-zhou-en-guo-xloz/)                   |        [297. 二叉树的序列化与反序列化](https://leetcode.cn/problems/serialize-and-deserialize-binary-tree/)   |
+
+
+### [堆](https://github.com/bannima/LeetCodeInAction/tree/master/heap)
+
+- 1 [q973最接近原点的 K 个点](https://leetcode-cn.com/problems/k-closest-points-to-origin/) -[暴力解法](https://github.com/bannima/LeetCodeInAction/blob/master/heap/q973_k_closest_points_to_origin/solution.py)
+
+- 2 [347. 前 K 个高频元素](https://leetcode.cn/problems/top-k-frequent-elements/) -[solution](https://github.com/bannima/LeetCodeInAction/blob/master/heap/q347_top-k-frequent-elements/solution.py)  ref: [数据结构-堆(heap)与堆的Python实现](https://blog.csdn.net/qq_23869697/article/details/82735088)
+
 
 
 ### [单调栈](https://github.com/bannima/LeetCodeInAction/tree/master/monotonic_stack)
@@ -536,6 +545,7 @@
 
 - 32 [297. 二叉树的序列化与反序列化](https://leetcode.cn/problems/serialize-and-deserialize-binary-tree/) -[pre_order](https://github.com/bannima/LeetCodeInAction/blob/master/tree/q297_serialize-and-deserialize-binary-tree/pre_order.py)
 
+- 33 [669. 修剪二叉搜索树](https://leetcode.cn/problems/trim-a-binary-search-tree/)   - [递归]()
 
 
 ### [数学相关](https://github.com/bannima/LeetCodeInAction/tree/master/math_related)
@@ -613,13 +623,6 @@
 - 7 [q2两数之和](https://leetcode-cn.com/problems/add-two-numbers/) -[解法](https://github.com/bannima/LeetCodeInAction/blob/master/linkedlist/q2_add_two_numbers/solution.py)
 
 - 8 [q430. 扁平化多级双向链表](https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/) -[先序遍历](https://github.com/bannima/LeetCodeInAction/blob/master/linkedlist/q430_flatten-a-multilevel-doubly-linked-list/solution.py)
-
-
-### [堆](https://github.com/bannima/LeetCodeInAction/tree/master/heap)
-
-- 1 [q973最接近原点的 K 个点](https://leetcode-cn.com/problems/k-closest-points-to-origin/) -[暴力解法](https://github.com/bannima/LeetCodeInAction/blob/master/heap/q973_k_closest_points_to_origin/solution.py)
-
-
 
 
 ### [栈](https://github.com/bannima/LeetCodeInAction/tree/master/stack)
