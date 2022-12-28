@@ -477,6 +477,9 @@
 
 - 21 [82. 删除排序链表中的重复元素 II](https://leetcode.cn/problems/remove-duplicates-from-sorted-list-ii/) - [two pointer]()
 
+- 22 [1750. 删除字符串两端相同字符后的最短长度](https://leetcode.cn/problems/minimum-length-of-string-after-deleting-similar-ends/) -[solution](https://github.com/bannima/LeetCodeInAction/blob/master/two_pointers/q1750_minimum-length-of-string-after-deleting-similar-ends/two_pointer.py)
+
+
 
 ### [贪心算法](https://github.com/bannima/L强9——/word-search/eetCodeInAction/tree/master/greedy)
 
